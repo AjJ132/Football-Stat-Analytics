@@ -1,0 +1,42 @@
+[
+  {
+    "date": "08/31/2024",
+    "opponent": "at UTSA",
+    "opponentlink": "/boxscore.aspx?id=13496&path=",
+    "result": "L",
+    "score": "16-28",
+    "record": "0-1 , 0-0",
+    "duration": "03:44",
+    "attendance": "25911"
+  },
+  {
+    "date": "09/07/2024",
+    "opponent": "vs Louisiana",
+    "opponentlink": "/boxscore.aspx?id=13809&path=",
+    "result": "L",
+    "score": "10-34",
+    "record": "0-2 , 0-0",
+    "duration": "03:02",
+    "attendance": "11040"
+  },
+  {
+    "date": "09/14/2024",
+    "opponent": "at San Jose St.",
+    "opponentlink": "/boxscore.aspx?id=13583&path=",
+    "result": "L",
+    "score": "10-31",
+    "record": "0-3 , 0-0",
+    "duration": "03:16",
+    "attendance": "11090"
+  },
+  {
+    "date": "09/28/2024",
+    "opponent": "vs UT Martin",
+    "opponentlink": "/boxscore.aspx?id=13989&path=",
+    "result": "L",
+    "score": "13-24",
+    "record": "0-4 , 0-0",
+    "duration": "03:09",
+    "attendance": "10847"
+  }
+]

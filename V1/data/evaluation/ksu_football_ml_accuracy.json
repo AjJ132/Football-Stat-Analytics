@@ -1,0 +1,155 @@
+{
+  "Games Played": {
+    "average_accuracy": 0.08235294117647059,
+    "correct": 7,
+    "incorrect": 78,
+    "outside_range": 78,
+    "percent_outside": 91.76470588235294,
+    "below_range": 53,
+    "above_range": 25
+  },
+  "Games Started": {
+    "average_accuracy": 0.08235294117647059,
+    "correct": 7,
+    "incorrect": 78,
+    "outside_range": 78,
+    "percent_outside": 91.76470588235294,
+    "below_range": 52,
+    "above_range": 26
+  },
+  "Rush Attempts": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 75,
+    "above_range": 10
+  },
+  "Rush Yards": {
+    "average_accuracy": 0.011764705882352941,
+    "correct": 1,
+    "incorrect": 84,
+    "outside_range": 84,
+    "percent_outside": 98.82352941176471,
+    "below_range": 74,
+    "above_range": 10
+  },
+  "Rush Touchdowns": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 78,
+    "above_range": 7
+  },
+  "Rush Longest": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 72,
+    "above_range": 13
+  },
+  "Receiving Recep": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 73,
+    "above_range": 12
+  },
+  "Receiving Yards": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 75,
+    "above_range": 10
+  },
+  "Receiving Touchdowns": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 80,
+    "above_range": 5
+  },
+  "Receiving Longest": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 74,
+    "above_range": 11
+  },
+  "Defense Solo": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 67,
+    "above_range": 18
+  },
+  "Defense Assist": {
+    "average_accuracy": 0.011764705882352941,
+    "correct": 1,
+    "incorrect": 84,
+    "outside_range": 84,
+    "percent_outside": 98.82352941176471,
+    "below_range": 64,
+    "above_range": 20
+  },
+  "Defense Total": {
+    "average_accuracy": 0.011764705882352941,
+    "correct": 1,
+    "incorrect": 84,
+    "outside_range": 84,
+    "percent_outside": 98.82352941176471,
+    "below_range": 65,
+    "above_range": 19
+  },
+  "Defense Interceptions": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 82,
+    "above_range": 3
+  },
+  "Defense Pass defl": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 72,
+    "above_range": 13
+  },
+  "Defense Forced fumble": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 83,
+    "above_range": 2
+  },
+  "Defense Fumb rec": {
+    "average_accuracy": 0.0,
+    "correct": 0,
+    "incorrect": 85,
+    "outside_range": 85,
+    "percent_outside": 100.0,
+    "below_range": 83,
+    "above_range": 2
+  }
+}

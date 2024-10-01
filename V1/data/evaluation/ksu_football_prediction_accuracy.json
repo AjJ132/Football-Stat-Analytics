@@ -1,0 +1,4286 @@
+{
+  "overall_accuracy": {
+    "Games Played": "16.33%",
+    "Games Started": "6.12%",
+    "Rush Attempts": "10.20%",
+    "Rush Yards": "6.12%",
+    "Rush Touchdowns": "0.00%",
+    "Rush Longest": "0.00%",
+    "Receiving Recep": "0.00%",
+    "Receiving Yards": "0.00%",
+    "Receiving Touchdowns": "0.00%",
+    "Receiving Longest": "0.00%",
+    "Defense Solo": "12.24%",
+    "Defense Assist": "10.20%",
+    "Defense Total": "8.16%",
+    "Defense Interceptions": "0.00%",
+    "Defense Pass defl": "0.00%",
+    "Defense Forced fumble": "0.00%",
+    "Defense Fumb rec": "0.00%"
+  },
+  "player_accuracy": {
+    "Acha Mbanwei": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Adam Watkins": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 12.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 20.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Alexander Diggs": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 26.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 93.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 20.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 39.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 31.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Blake Bohannon": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 152.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 55.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Braden Bohannon": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Brian Habeck": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Cameron Donald": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 13.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Carson Kent": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 14.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 165.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 35.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Connor Finer": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 56.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 29.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Danarius Johnson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Darron Willis": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 6.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Davis Bryson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 13.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 139.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 36.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Demetric Barnes": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 6.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 9.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Donelius Johnson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 20.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 12.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 32.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      }
+    },
+    "Dylan Hannon": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Eli Leiataua": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 4.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 4.0,
+        "is_accurate": "True"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 8.0,
+        "is_accurate": "True"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Gabriel Benyard": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 18.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 116.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 49.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 14.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 333.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 61.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Garland Benyard": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 6.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 13.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 19.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Hall O'Neal": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 6.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Havik Pettigrew": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Isaac Foster": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 8.0,
+        "is_accurate": "True"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 54.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 15.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 19.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 228.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 44.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Jahon Myers": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Jalen Barnum": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 11.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 15.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 26.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "James Dawson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 5.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Jayven Williams": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 18.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 23.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Jonathan Murphy": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 116.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 401.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 57.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Joshua Agbenou": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 9.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 13.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 22.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      }
+    },
+    "Joshua Huiet": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Juandarion Silas": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 9.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 17.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Markeith  Montgomery": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 29.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 14.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 43.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Michael Benefield": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 70.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 441.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 75.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 24.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 15.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Milon Jones": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Nate Wright": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 6.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Nick Sawyer": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 5.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 4.0,
+        "is_accurate": "True"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Preston Daniels": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 10.0,
+        "is_accurate": "True"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 54.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 20.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 87.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 30.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Qua Ashley": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 5.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 9.0,
+        "is_accurate": "True"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 32.0,
+        "is_accurate": "True"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 11.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "RJ Taylor": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Rob Brown": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 6.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 11.0,
+        "is_accurate": "True"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Rowan Darnell": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 6.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 66.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 31.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Seaburn Hines": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 6.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Sulaiman Bah": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Terrell Paxton": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 7.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 6.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Trenton Jackson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Trey Butts": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Tykeem Wallace": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 16.0,
+        "is_accurate": "True"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 14.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 5.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 85.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 54.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Tyler Scott": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 6.0,
+        "is_accurate": "True"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 4.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 4.0,
+        "is_accurate": "True"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 8.0,
+        "is_accurate": "True"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Tyriek Johnson": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Ugonna Nwoha": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 4.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 3.0,
+        "is_accurate": "False"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    },
+    "Yesiah Clemons": {
+      "Games Played": {
+        "predicted_range": "4.84 - 6.49",
+        "actual_value": 8.0,
+        "is_accurate": "False"
+      },
+      "Games Started": {
+        "predicted_range": "1.49 - 2.81",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Attempts": {
+        "predicted_range": "2.07 - 11.79",
+        "actual_value": 24.0,
+        "is_accurate": "False"
+      },
+      "Rush Yards": {
+        "predicted_range": "9.14 - 44.77",
+        "actual_value": 126.0,
+        "is_accurate": "False"
+      },
+      "Rush Touchdowns": {
+        "predicted_range": "0.04 - 0.6",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Rush Longest": {
+        "predicted_range": "1.69 - 5.93",
+        "actual_value": 14.0,
+        "is_accurate": "False"
+      },
+      "Receiving Recep": {
+        "predicted_range": "0.25 - 1.6",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Receiving Yards": {
+        "predicted_range": "4.71 - 23.89",
+        "actual_value": 2.0,
+        "is_accurate": "False"
+      },
+      "Receiving Touchdowns": {
+        "predicted_range": "0.02 - 0.14",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Receiving Longest": {
+        "predicted_range": "2.15 - 7.29",
+        "actual_value": 1.0,
+        "is_accurate": "False"
+      },
+      "Defense Solo": {
+        "predicted_range": "1.98 - 4.96",
+        "actual_value": 3.0,
+        "is_accurate": "True"
+      },
+      "Defense Assist": {
+        "predicted_range": "1.74 - 4.01",
+        "actual_value": 2.0,
+        "is_accurate": "True"
+      },
+      "Defense Total": {
+        "predicted_range": "3.71 - 8.81",
+        "actual_value": 5.0,
+        "is_accurate": "True"
+      },
+      "Defense Interceptions": {
+        "predicted_range": "0.02 - 0.31",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Pass defl": {
+        "predicted_range": "0.15 - 0.86",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Forced fumble": {
+        "predicted_range": "0.03 - 0.16",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      },
+      "Defense Fumb rec": {
+        "predicted_range": "0.02 - 0.15",
+        "actual_value": 0.0,
+        "is_accurate": "False"
+      }
+    }
+  }
+}

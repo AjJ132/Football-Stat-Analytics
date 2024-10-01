@@ -1,0 +1,26 @@
+name,season,major,height,weight,hometown,position,games_played,games_started,passing_yards,pass_completions,pass_attempts,interceptions_thrown,passing_touchdowns,longest_completion,pass_completion_percentage,average_yards_per_pass,average_passing_yards_per_game,rushing_attempts,rushing_yards,rushing_touchdowns,longest_rush,average_yards_per_rush,average_rushing_yards_per_game,prev_games_played,prev_games_started,prev_passing_yards,prev_pass_completions,prev_pass_attempts,prev_interceptions_thrown,prev_passing_touchdowns,prev_longest_completion,prev_pass_completion_percentage,prev_average_yards_per_pass,prev_average_passing_yards_per_game,prev_rushing_attempts,prev_rushing_yards,prev_rushing_touchdowns,prev_longest_rush,prev_average_yards_per_rush,prev_average_rushing_yards_per_game,total_touchdowns,prev_total_touchdowns
+"bohannon, braden",2022,,73,180,"woodstock, ga.",qb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"bohannon, braden",2023,sport management,73,180,"woodstock, ga.",qb,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"bohannon, braden",2024,sport management,73,180,"woodstock, ga.",qb,1.0,0.0,,,,,,,,,,,,,,,,1.0,0.0,,,,,,,,,,,,,,,,,
+"bryant, tommy",2019,,73,190,"tuscaloosa, ala.",qb,11.0,3.0,474.0,21.0,40.0,1.0,7.0,67.0,0.53,22.6,43.1,118.0,683.0,16.0,50.0,5.8,62.1,,,,,,,,,,,,,,,,,,23.0,
+"bryson, davis",2022,,69,175,"woodbridge, va.",qb,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,0.0,
+"bryson, davis",2023,sport management,69,190,"woodbridge, va.",qb,3.0,0.0,53.0,2.0,5.0,0.0,0.0,30.0,0.4,26.5,17.7,13.0,139.0,2.0,36.0,10.7,46.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+"bryson, davis",2024,sport management,69,190,"woodbridge, va.",qb,4.0,4.0,540.0,51.0,97.0,3.0,1.0,51.0,0.53,10.6,135.0,42.0,89.0,0.0,14.0,2.1,22.3,3.0,0.0,53.0,2.0,5.0,0.0,0.0,30.0,0.4,26.5,17.7,13.0,139.0,2.0,36.0,10.7,46.3,1.0,2.0
+"clardy, ladarius",2021,,72,170,"pensacola, fla.",qb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"clemmer, preston",2024,biology,73,190,"alpharetta, ga.",qb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"david, daniel",2019,,73,212,"hoschton, ga.",qb,11.0,10.0,551.0,27.0,65.0,3.0,2.0,40.0,0.42,20.4,50.1,131.0,473.0,14.0,18.0,3.6,43.0,,,,,,,,,,,,,,,,,,16.0,
+"fedd, arendez",2021,,73,215,"locust grove, ga.",qb,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"hardy, deangelo",2021,,70,175,"chattanooga, tenn.",qb,8.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,26.0,0.0,8.0,2.2,3.3,,,,,,,,,,,,,,,,,,0.0,
+"hardy, deangelo",2022,,70,185,"chattanooga, tenn.",qb,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,26.0,0.0,6.0,2.4,8.7,8.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,26.0,0.0,8.0,2.2,3.3,0.0,0.0
+"iii, earl woods",2024,media and entertainment,70,180,"hueytown, ala.",qb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"johnson, khalib",2024,interdisciplinary studies,74,215,"birmingham, ala.",qb,2.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,8.0,1.5,1.5,,,,,,,,,,,,,,,,,,0.0,
+"mccarty, cole",2023,business,71,190,"moody, ala.",qb,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"murphy, jonathan",2019,,72,190,"los angeles, calif.",qb,4.0,1.0,23.0,2.0,10.0,0.0,1.0,13.0,0.2,11.5,5.8,67.0,420.0,5.0,61.0,6.3,105.0,,,,,,,,,,,,,,,,,,6.0,
+"murphy, jonathan",2021,,72,195,"los angeles, calif.",qb,7.0,0.0,265.0,12.0,26.0,1.0,3.0,55.0,0.46,22.1,37.9,64.0,359.0,4.0,36.0,5.6,51.3,4.0,1.0,23.0,2.0,10.0,0.0,1.0,13.0,0.2,11.5,5.8,67.0,420.0,5.0,61.0,6.3,105.0,7.0,6.0
+"murphy, jonathan",2022,,72,190,"los angeles, calif.",qb,6.0,3.0,375.0,28.0,54.0,0.0,1.0,37.0,0.52,13.4,62.5,107.0,386.0,9.0,57.0,3.6,64.3,7.0,0.0,265.0,12.0,26.0,1.0,3.0,55.0,0.46,22.1,37.9,64.0,359.0,4.0,36.0,5.6,51.3,10.0,7.0
+"murphy, jonathan",2023,interdisciplinary studies,72,190,"los angeles, calif.",qb,8.0,8.0,1190.0,85.0,158.0,3.0,8.0,61.0,0.54,14.0,148.8,116.0,401.0,7.0,57.0,3.5,50.1,6.0,3.0,375.0,28.0,54.0,0.0,1.0,37.0,0.52,13.4,62.5,107.0,386.0,9.0,57.0,3.6,64.3,15.0,10.0
+"sawyer, nick",2022,,71,160,"harvest, ala.",qb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"scheerhorn, lucas",2024,exercise science,73,190,"spring, texas",qb,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"shepherd, xavier",2019,,72,190,"nashville, tenn.",qb,4.0,0.0,6.0,1.0,1.0,0.0,0.0,6.0,1.0,6.0,1.5,5.0,16.0,0.0,10.0,3.2,4.0,,,,,,,,,,,,,,,,,,0.0,
+"shepherd, xavier",2021,,72,205,"nashville, tenn.",qb,13.0,12.0,1341.0,77.0,123.0,3.0,15.0,56.0,0.63,17.4,103.2,240.0,867.0,23.0,56.0,3.6,66.7,4.0,0.0,6.0,1.0,1.0,0.0,0.0,6.0,1.0,6.0,1.5,5.0,16.0,0.0,10.0,3.2,4.0,38.0,0.0
+"shepherd, xavier",2022,,72,205,"nashville, tenn.",qb,9.0,7.0,1130.0,68.0,137.0,7.0,7.0,72.0,0.5,16.6,125.6,205.0,589.0,11.0,41.0,2.9,65.4,13.0,12.0,1341.0,77.0,123.0,3.0,15.0,56.0,0.63,17.4,103.2,240.0,867.0,23.0,56.0,3.6,66.7,18.0,38.0

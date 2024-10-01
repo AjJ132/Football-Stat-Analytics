@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2/27/2021",
+    "opponent": "vs Shorter",
+    "opponentlink": "/boxscore.aspx?id=8552&path=fb",
+    "result": "W",
+    "score": "35-3",
+    "record": "1-0",
+    "duration": "03:08",
+    "attendance": "2026"
+  },
+  {
+    "date": "03/13/2021",
+    "opponent": "vs Charleston So.",
+    "opponentlink": "/boxscore.aspx?id=8559&path=fb",
+    "result": "W",
+    "score": "24-19",
+    "record": "2-0 , 1-0",
+    "duration": "02:54",
+    "attendance": "1803"
+  },
+  {
+    "date": "03/20/2021",
+    "opponent": "vs Dixie St.",
+    "opponentlink": "/boxscore.aspx?id=8659&path=fb",
+    "result": "W",
+    "score": "37-27",
+    "record": "3-0 , 1-0",
+    "duration": "03:03",
+    "attendance": "2156"
+  },
+  {
+    "date": "04/03/2021",
+    "opponent": "vs Robert Morris",
+    "opponentlink": "/boxscore.aspx?id=8660&path=fb",
+    "result": "W",
+    "score": "35-0",
+    "record": "4-0 , 2-0",
+    "duration": "02:46",
+    "attendance": "2065"
+  },
+  {
+    "date": "4/10/2021",
+    "opponent": "at Monmouth",
+    "opponentlink": "/boxscore.aspx?id=8561&path=fb",
+    "result": "L",
+    "score": "17-42",
+    "record": "4-1 , 2-1",
+    "duration": "2:57",
+    "attendance": "928"
+  }
+]

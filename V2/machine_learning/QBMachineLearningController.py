@@ -8,8 +8,11 @@ from scipy.stats import pearsonr
 import os
 
 class QBMachineLearningController:
-    def __init__(self, data_path):
+    def __init__(self, data_path, predictions_path, training_seasons, test_season):
         self.data_path = data_path
+        self.predictions_path = predictions_path
+        self.training_seasons = [int(season) for season in training_seasons]
+        self.test_season = int(test_season)
 
     def run_ml_pipeline(self):
         """
@@ -30,13 +33,25 @@ class QBMachineLearningController:
 
         # Load CSV into dataframe
         data = pd.read_csv(self.data_path)
+        print(f"Total rows in data: {len(data)}")
 
         # Subset of data that has no null values
         model_data = data.dropna(subset=features + [target])
+        print(f"Rows after dropping null values: {len(model_data)}")
 
-        # Select training seasons (2019, 2021, 2022) and test season (2023)
-        train_data = model_data[model_data['season'].isin([ 2022,2023])]
-        test_data = model_data[model_data['season'] == 2024]
+        # Select training seasons and test season
+        train_data = model_data[model_data['season'].isin(self.training_seasons)]
+        test_data = model_data[model_data['season'] == self.test_season]
+        
+        print(f"Rows in training data: {len(train_data)}")
+        print(f"Rows in test data: {len(test_data)}")
+        print(f"Unique seasons in data: {model_data['season'].unique()}")
+        print(f"Training seasons: {self.training_seasons}")
+        print(f"Test season: {self.test_season}")
+
+        if len(train_data) == 0:
+            print("Error: No data available for the specified training seasons.")
+            return
 
         model = LinearRegression()
 
@@ -66,10 +81,16 @@ class QBMachineLearningController:
         print(feature_importance.head())
 
         # Save predictions to CSV
-        output_columns = ['name', 'season', target, 'predicted_touchdowns'] + features
-        output_data = test_data[output_columns]
-        output_path = os.path.join(os.path.dirname(self.data_path), 'qb_predictions_2023.csv')
-        output_data.to_csv(output_path, index=False)
-        print(f"\nPredictions saved to: {output_path}")
+        predictions_file = os.path.join(self.predictions_path, f'qb_predictions_{self.test_season}.csv')
+
+        # Copy df
+        predictions_df = test_data.copy()
+
+        # Remove all columns except for name, season, games_played, games_started, total_touchdowns, predicted_touchdowns
+        columns_to_keep = ['name', 'season', 'games_played', 'games_started', 'total_touchdowns', 'predicted_touchdowns']
+        predictions_df = predictions_df[columns_to_keep]
+
+        # Save to csv
+        predictions_df.to_csv(predictions_file, index=False)
 
         return model, test_data, feature_importance

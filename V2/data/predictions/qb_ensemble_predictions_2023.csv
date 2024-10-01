@@ -1,0 +1,3 @@
+name,season,games_played,games_started,total_touchdowns,Linear Regression_predictions,Ridge Regression_predictions,Lasso Regression_predictions,Random Forest_predictions,Gradient Boosting_predictions,Ensemble_predictions
+"bryson, davis",2023,3.0,0.0,2.0,9.767689707663292,10.762221592219111,0.6608593237619882,20.34,36.59183980862503,15.624522086453885
+"murphy, jonathan",2023,8.0,8.0,15.0,17.17263425076825,16.44763053522477,15.897410342957631,10.55,8.806408250151728,13.774816675820478

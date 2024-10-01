@@ -7,15 +7,15 @@ import seaborn as sns
 from scipy import stats
 import numpy as np
 
-class QuarterbackEngineering:
-    def __init__(self, seasons, seasons_to_aggregate, data_dir, save_dir):
+class RBEngineering:
+    def __init__(self, seasons, data_dir, save_dir):
         """
-        Constructor for the QuarterbackEngineering class
+        Constructor for the RBEngineering class
         """
         self.seasons = seasons
         self.data_dir = data_dir
         self.save_dir = save_dir
-        self.qb_features = {
+        self.rb_features = {
             "name": "name",
             "major": "major",
             "height": "height",
@@ -40,7 +40,7 @@ class QuarterbackEngineering:
             "rush_stats.rush_attempt_yards_pct": "average_yards_per_rush",
             "rush_stats.yards_per_game_avg": "average_rushing_yards_per_game"
         }
-        self.qb_features_for_prev_season = [
+        self.rb_features_for_prev_season = [
             'games_played',
             'games_started',
             'passing_yards',
@@ -99,24 +99,24 @@ class QuarterbackEngineering:
             return None
         return int(re.findall(r'\d+', weight)[0])
     
-    def generate_advanced_stats_for_season(self, season, qb_df):
+    def generate_advanced_stats_for_season(self, season, rb_df):
         # Ensure advanced stats folder exists
         if not os.path.exists(f"./data/stats/{season}"):
             os.makedirs(f"./data/stats/{season}")
     
         # Calculate passer rating
-        qb_df['passer_rating'] = qb_df.apply(lambda row: self.calculate_passer_rating(
+        rb_df['passer_rating'] = rb_df.apply(lambda row: self.calculate_passer_rating(
             row.get('pass_completions'), row.get('pass_attempts'), 
             row.get('passing_yards'), row.get('passing_touchdowns'), 
             row.get('interceptions_thrown')), axis=1)
     
         # Calculate Adjusted Yards per Attempt
-        qb_df['ay/a'] = qb_df.apply(lambda row: 
+        rb_df['ay/a'] = rb_df.apply(lambda row: 
             (float(row.get('passing_yards', 0)) + 20 * float(row.get('passing_touchdowns', 0)) - 45 * float(row.get('interceptions_thrown', 0))) / 
             float(row.get('pass_attempts', 1)) if pd.notnull(row.get('pass_attempts')) and float(row.get('pass_attempts', 0)) != 0 else np.nan, axis=1)
     
         # Select only numeric columns for correlation and boxplot
-        numeric_columns = qb_df.select_dtypes(include=[np.number]).columns
+        numeric_columns = rb_df.select_dtypes(include=[np.number]).columns
     
         # Ensure 'interceptions_thrown' is included in numeric columns
         if 'interceptions_thrown' not in numeric_columns:
@@ -125,15 +125,15 @@ class QuarterbackEngineering:
         if len(numeric_columns) > 0:
             # Generate heatmap of correlations
             plt.figure(figsize=(12, 10))
-            sns.heatmap(qb_df[numeric_columns].corr(), annot=True, cmap='coolwarm')
-            plt.title(f"Correlation Heatmap of QB Stats for {season}")
+            sns.heatmap(rb_df[numeric_columns].corr(), annot=True, cmap='coolwarm')
+            plt.title(f"Correlation Heatmap of rb Stats for {season}")
             plt.savefig(f"./data/stats/{season}/correlation_heatmap.png")
             plt.close()
     
             # Generate box plots
             plt.figure(figsize=(12, 6))
-            qb_df[numeric_columns].boxplot()
-            plt.title(f"Distribution of Key QB Stats for {season}")
+            rb_df[numeric_columns].boxplot()
+            plt.title(f"Distribution of Key rb Stats for {season}")
             plt.savefig(f"./data/stats/{season}/key_stats_boxplot.png")
             plt.close()
         else:
@@ -141,15 +141,15 @@ class QuarterbackEngineering:
 
     def combine_and_group_data(self):
         """
-        Combine all quarterback data from different seasons into a single dataframe
-        and group by quarterback and season.
+        Combine all RB data from different seasons into a single dataframe
+        and group by RB and season.
         """
         # List to store all dataframes
         all_dfs = []
 
         # Read CSV files for each season
         for season in self.seasons:
-            file_path = f"./data/temp/ksu_football_qb_{season}.csv"
+            file_path = f"./data/temp/ksu_football_rb_{season}.csv"
             if os.path.exists(file_path):
                 df = pd.read_csv(file_path)
                 all_dfs.append(df)
@@ -166,7 +166,7 @@ class QuarterbackEngineering:
         if 'name' not in combined_df.columns or 'season' not in combined_df.columns:
             raise ValueError("Required columns 'name' and 'season' not found in the data")
 
-        # Group by quarterback name and season
+        # Group by RB name and season
         grouped_df = combined_df.groupby(['name', 'season']).first().reset_index()
 
         # Sort the dataframe by name
@@ -213,79 +213,73 @@ class QuarterbackEngineering:
             previous_season_stats = previous_season_stats.iloc[0]
     
             # Add the previous season's stats to the current row
-            for col in self.qb_features_for_prev_season:
+            for col in self.rb_features_for_prev_season:
                 yoy_df.at[index, f"prev_{col}"] = previous_season_stats[col]
     
-        # Filter the DataFrame to keep all current year's stats and only the previous season's stats specified in qb_features_for_prev_season
+        # Filter the DataFrame to keep all current year's stats and only the previous season's stats specified in rb_features_for_prev_season
         current_year_columns = list(grouped_df.columns)
-        prev_year_columns = [f"prev_{col}" for col in self.qb_features_for_prev_season]
+        prev_year_columns = [f"prev_{col}" for col in self.rb_features_for_prev_season]
         required_columns = current_year_columns + prev_year_columns
         yoy_df = yoy_df[required_columns]
-
-         # TEMP: save to file
-        # with open('temp.csv', 'w') as f:
-        #     yoy_df.to_csv(f, index=False)
-
-        # exit()
     
         return yoy_df
         
-    def engineer_touchdowns(self, qb_df):
+    def engineer_touchdowns(self, rb_df):
         """
         Engineer a new feature for total touchdowns
         """
-        qb_df['total_touchdowns'] = qb_df['passing_touchdowns'] + qb_df['rushing_touchdowns']
-        qb_df['prev_total_touchdowns'] = qb_df['prev_passing_touchdowns'] + qb_df['prev_rushing_touchdowns']
-        return qb_df
+        rb_df['total_touchdowns'] = rb_df['passing_touchdowns'] + rb_df['rushing_touchdowns']
+        rb_df['prev_total_touchdowns'] = rb_df['prev_passing_touchdowns'] + rb_df['prev_rushing_touchdowns']
+        return rb_df
 
-    def engineer_quarterbacks(self):
+    def engineer_rbs(self):
         """
-        Method to engineer the quarterback data, including combining and grouping
+        Method to engineer the RB data, including combining and grouping
         """
         all_dfs = []
 
         for season in self.seasons:
             with open(f"{self.data_dir}/{season}/ksu_football_roster_{season}.json", "r") as f:
-                qb_data = json.load(f)
+                rb_data = json.load(f)
 
             # Convert to a pandas dataframe
-            qb_df = pd.DataFrame(qb_data)
+            rb_df = pd.DataFrame(rb_data)
 
             # Convert all columns to lowercase
-            qb_df.columns = qb_df.columns.str.lower()
+            rb_df.columns = rb_df.columns.str.lower()
 
             # Convert all string values to lowercase
-            qb_df = qb_df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
+            rb_df = rb_df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
 
-            # Filter for quarterbacks where position is qb
-            qb_df = qb_df[qb_df["position"] == "qb"]
+            # Filter for RBs where position is rb
+            rb_df = rb_df[rb_df["position"] == "rb"]
 
-            # Select only the QB features that are available in the dataframe
-            available_features = [col for col in self.qb_features.keys() if col in qb_df.columns]
-            qb_df = qb_df[available_features].rename(columns={col: self.qb_features[col] for col in available_features})
+            # Select only the rb features that are available in the dataframe
+            available_features = [col for col in self.rb_features.keys() if col in rb_df.columns]
+            rb_df = rb_df[available_features].rename(columns={col: self.rb_features[col] for col in available_features})
 
             # Convert height to inches
-            if 'height' in qb_df.columns:
-                qb_df['height'] = qb_df['height'].apply(self.convert_height_to_inches)
+            if 'height' in rb_df.columns:
+                rb_df['height'] = rb_df['height'].apply(self.convert_height_to_inches)
 
             # Convert weight to numeric
-            if 'weight' in qb_df.columns:
-                qb_df['weight'] = qb_df['weight'].apply(self.convert_weight_to_numeric)
+            if 'weight' in rb_df.columns:
+                rb_df['weight'] = rb_df['weight'].apply(self.convert_weight_to_numeric)
 
             # Insert new season column at beginning of dataframe
-            qb_df.insert(0, "season", season)
+            rb_df.insert(0, "season", season)
 
-            all_dfs.append(qb_df)
+            all_dfs.append(rb_df)
 
             # Ensure temp folder exists
             if not os.path.exists("./data/temp"):
                 os.makedirs("./data/temp")
 
             # Save the dataframe to a csv file in the temp folder
-            qb_df.to_csv(f"./data/temp/ksu_football_qb_{season}.csv", index=False)
+            rb_df.to_csv(f"./data/temp/ksu_football_rb_{season}.csv", index=False)
 
             # Generate some stats
-            # self.generate_advanced_stats_for_season(season, qb_df)
+            # self.generate_advanced_stats_for_season(season, rb_df)
 
         # Combine all dataframes
         combined_df = pd.concat(all_dfs, ignore_index=True)
@@ -302,19 +296,19 @@ class QuarterbackEngineering:
 
 
         # Call the generate_yoy_features method
-        prepped_qb_df = self.generate_yoy_features(grouped_df)
+        prepped_rb_df = self.generate_yoy_features(grouped_df)
 
         #engineer touchdowns
-        prepped_qb_df = self.engineer_touchdowns(prepped_qb_df)
+        prepped_rb_df = self.engineer_touchdowns(prepped_rb_df)
 
         #ensure save directory exists
         if not os.path.exists(self.save_dir):
             os.makedirs(self.save_dir)
 
         # Save the combined and grouped data to a new CSV file
-        output_path = f"{self.save_dir}/prepped_qb_data.csv"
+        output_path = f"{self.save_dir}/prepped_rb_data.csv"
         
-        prepped_qb_df.to_csv(output_path, index=False)
+        prepped_rb_df.to_csv(output_path, index=False)
 
         print(f"Combined and grouped data saved to {output_path}")
 

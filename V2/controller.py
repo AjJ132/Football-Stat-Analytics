@@ -4,7 +4,9 @@ from scraping.KSUFootballStatsScraper import KSUFootballStatsScraper
 from engineering.EngineerPlayerProfiles import EngineerPlayerProfiles
 from engineering.EngineerPlayerStats import EngineerPlayerStats
 from engineering.positional.QuarterbackEngineering import QuarterbackEngineering
+from engineering.positional.RBEngineering import RBEngineering
 from machine_learning.QBMachineLearningController import QBMachineLearningController
+from machine_learning.QBEnsembleLearning import QBEnsembleLearning
 
 from sklearn.ensemble import RandomForestRegressor
 
@@ -67,11 +69,30 @@ def main():
 
     # qb_engineering.engineer_quarterbacks()
 
+    rb_engineering = RBEngineering(
+        seasons=seasons,
+        data_dir="data/fetched/roster",
+        save_dir="data/engineered/positions/runningback"
+    )
+
+    rb_engineering.engineer_rbs()
+
     ml_controller = QBMachineLearningController(
         data_path="data/engineered/positions/quarterback/prepped_qb_data.csv",
+        predictions_path="data/predictions",
+        training_seasons=['2021', '2022'],
+        test_season='2023'
     )
     
-    ml_controller.run_ml_pipeline()
+    # ml_controller.run_ml_pipeline()
+
+    ensemble_learner = QBEnsembleLearning(
+        data_path="data/engineered/positions/quarterback/prepped_qb_data.csv",
+        predictions_path="data/predictions",
+        training_seasons=['2019',' 2021', '2022'],
+        test_season='2023',
+    )
+    # results = ensemble_learner.run_ensemble_pipeline()
     
 
     end_time = time.time()

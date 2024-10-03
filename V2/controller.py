@@ -101,9 +101,9 @@ def main():
         save_dir="data/engineered/positions/defense"
     )
 
-    # defense_engineering.engineer_defensive_players(
-    #     min_games=0
-    # )
+    defense_engineering.engineer_defensive_players(
+        min_games=0
+    )
     
     # qb_ensemble_learner = QBEnsembleLearning(
     #     data_path="data/engineered/positions/quarterback/prepped_qb_data.csv",
@@ -182,7 +182,7 @@ def main():
         position="QB"
     )
 
-    qb_model.run_ensemble_pipeline()
+    # qb_model.run_ensemble_pipeline()
 
     rb_features = [
         'prev_games_played', 'prev_games_started', 'prev_rushing_attempts',

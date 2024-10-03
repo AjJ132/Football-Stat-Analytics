@@ -177,4 +177,8 @@ class DefensiveEngineering:
         output_path = f"{self.save_dir}/prepped_defense_data.csv"
         prepped_def_df.to_csv(output_path, index=False)
 
+        #ALSO SAVE FIRST ROW TO JSON
+        first_row = prepped_def_df.iloc[0]
+        first_row.to_json(f"{self.save_dir}/first_row.json")
+
         print(f"Combined and grouped data saved to {output_path}")

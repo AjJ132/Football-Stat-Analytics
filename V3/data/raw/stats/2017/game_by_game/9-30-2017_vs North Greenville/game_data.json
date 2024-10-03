@@ -1,0 +1,1970 @@
+{
+  "box_score": {
+    "summary": {
+      "north_greenville": [
+        "7",
+        "9",
+        "7",
+        "11",
+        "34"
+      ],
+      "ksu": [
+        "14",
+        "7",
+        "7",
+        "10",
+        "38"
+      ]
+    },
+    "gameinfo": {
+      "date": "9/30/2017",
+      "site": "Kennesaw, Ga.",
+      "stadium": "Fifth Third Bank",
+      "attendance": "6161",
+      "kickoff_time": "3:37 pm",
+      "end_of_game": "6:56",
+      "duration": "3:19",
+      "temperature": "78",
+      "wind": "WNW 5",
+      "weather": "Sunny",
+      "opponenthistory": {
+        "wins": "1",
+        "losses": "0",
+        "streak": "W1",
+        "home_record": "1-0",
+        "away_record": "0-0",
+        "conference_record": "0-0",
+        "largest_margin_of_victory": "W 38-34",
+        "smallest_margin_of_victory": "W 38-34",
+        "total_points": "38",
+        "average_points": "38"
+      },
+      "historicalgames": [
+        {
+          "date": "September 30, 2017",
+          "location": "Home",
+          "score": "W 38 - 34"
+        }
+      ]
+    },
+    "scoringsummary": {
+      "1st": [
+        {
+          "time": "11:17",
+          "scoresummary": "NGU - A. Heard 15 yd run (M. Gravely kick), 7 plays, 70 yards, TOP 3:43",
+          "team": "NGU"
+        },
+        {
+          "time": "08:27",
+          "scoresummary": "KSU - BURKS, Chandler 1 yd run (THOMPSON, J kick), 4 plays, 50 yards, TOP 2:42",
+          "team": "KSU"
+        },
+        {
+          "time": "02:56",
+          "scoresummary": "KSU - RECHSTEINER, B 18 yd run (THOMPSON, J kick), 8 plays, 71 yards, TOP 4:07",
+          "team": "KSU"
+        }
+      ],
+      "2nd": [
+        {
+          "time": "11:00",
+          "scoresummary": "KSU - CHIVERS, Trey 26 yd pass from BURKS, Chandler (THOMPSON, J kick) 4 plays, 69 yards, TOP 1:43",
+          "team": "KSU"
+        },
+        {
+          "time": "04:19",
+          "scoresummary": "NGU - A. Heard 44 yd pass from W. Hunter (M. Gravely kick blocked) 5 plays, 68 yards, TOP 2:19",
+          "team": "NGU"
+        },
+        {
+          "time": "00:00",
+          "scoresummary": "NGU - M. Gravely 39 yd field goal 9 plays, 52 yards, TOP 2:09",
+          "team": "NGU"
+        }
+      ],
+      "3rd": [
+        {
+          "time": "02:27",
+          "scoresummary": "KSU - DAVID, Daniel 1 yd run (THOMPSON, J kick), 15 plays, 69 yards, TOP 7:36",
+          "team": "KSU"
+        },
+        {
+          "time": "00:24",
+          "scoresummary": "NGU - C. Bruce 9 yd pass from W. Hunter (M. Gravely kick) 5 plays, 55 yards, TOP 1:53",
+          "team": "NGU"
+        }
+      ],
+      "4th": [
+        {
+          "time": "11:38",
+          "scoresummary": "NGU - M. Gravely 27 yd field goal 4 plays, 4 yards, TOP 1:23",
+          "team": "NGU"
+        },
+        {
+          "time": "09:15",
+          "scoresummary": "KSU - THOMPSON, J 42 yd field goal 6 plays, 60 yards, TOP 2:17",
+          "team": "KSU"
+        },
+        {
+          "time": "05:04",
+          "scoresummary": "NGU - Ro. Brown 33 yd pass from W. Hunter (C. Bruce pass) 9 plays, 75 yards, TOP 4:11",
+          "team": "NGU"
+        },
+        {
+          "time": "00:16",
+          "scoresummary": "KSU - BURKS, Chandler 1 yd run (THOMPSON, J kick), 12 plays, 74 yards, TOP 4:43",
+          "team": "KSU"
+        }
+      ]
+    }
+  },
+  "team_stats": {
+    "hometeam": {
+      "first_downs": {
+        "total": "21",
+        "rushing": "14",
+        "passing": "6",
+        "penalty": "1"
+      },
+      "rushing": {
+        "total_(net)": "315",
+        "attempts": "54",
+        "avg._per_rush": "5.8",
+        "rushing_tds": "4",
+        "yds._gained": "327",
+        "yds._lost": "12"
+      },
+      "passing": {
+        "total_(net)": "133",
+        "comp.-att.-int.": "7-13-0",
+        "avg._/_att.": "10.2",
+        "avg._/_comp.": "19.0",
+        "tds": "1"
+      },
+      "total_offense": {
+        "yards": "448",
+        "plays": "67",
+        "avg._/_play": "6.7",
+        "fumbles_-_lost": "1-1",
+        "penalties_-_yds.": "5-61"
+      },
+      "punting": {
+        "punts_-_yds.": "5-214",
+        "avg._/_punt": "42.8",
+        "inside_20": "1",
+        "50+_yds.": "0",
+        "touchbacks": "0",
+        "fair_catch": "2"
+      },
+      "kickoffs": {
+        "total_-_yds.": "7-427",
+        "avg._yds._/_kickoff": "61.0",
+        "touchbacks": "3"
+      },
+      "returns": {
+        "punt_total_-_yds._-_tds": "4-13-0",
+        "punt_avg._/_return": "3.3",
+        "kickoff_total_-_yds._-_tds": "4-71-0",
+        "kickoff_avg._/_return": "17.8",
+        "int_total_-_yds._-_tds": "2-2-0",
+        "fumble_total_-_yds._-_tds": "0-0-0"
+      },
+      "miscellaneous": {
+        "misc._yards": "0",
+        "poss._time": "32:36",
+        "3rd._down_conv.": "4/11",
+        "4th._down_conversions": "1/1",
+        "red-zone_scores_-_chances": "4-4",
+        "sacks_total_-_yds.": "2-11",
+        "pat_total_-_made": "5-5",
+        "2pt_conversion_total_-_made": "0-0",
+        "field_goals_total_-_made": "1-1"
+      }
+    },
+    "awayteam": {
+      "first_downs": {
+        "total": "18",
+        "rushing": "2",
+        "passing": "15",
+        "penalty": "1"
+      },
+      "rushing": {
+        "total_(net)": "47",
+        "attempts": "26",
+        "avg._per_rush": "1.8",
+        "rushing_tds": "1",
+        "yds._gained": "64",
+        "yds._lost": "17"
+      },
+      "passing": {
+        "total_(net)": "300",
+        "comp.-att.-int.": "23-35-2",
+        "avg._/_att.": "8.6",
+        "avg._/_comp.": "13.0",
+        "tds": "3"
+      },
+      "total_offense": {
+        "yards": "347",
+        "plays": "61",
+        "avg._/_play": "5.7",
+        "fumbles_-_lost": "0-0",
+        "penalties_-_yds.": "3-19"
+      },
+      "punting": {
+        "punts_-_yds.": "5-214",
+        "avg._/_punt": "42.8",
+        "inside_20": "0",
+        "50+_yds.": "1",
+        "touchbacks": "0",
+        "fair_catch": "1"
+      },
+      "kickoffs": {
+        "total_-_yds.": "6-347",
+        "avg._yds._/_kickoff": "57.8",
+        "touchbacks": "2"
+      },
+      "returns": {
+        "punt_total_-_yds._-_tds": "1-17-0",
+        "punt_avg._/_return": "17.0",
+        "kickoff_total_-_yds._-_tds": "4-105-0",
+        "kickoff_avg._/_return": "26.3",
+        "int_total_-_yds._-_tds": "0-0-0",
+        "fumble_total_-_yds._-_tds": "0-0-0"
+      },
+      "miscellaneous": {
+        "misc._yards": "0",
+        "poss._time": "27:24",
+        "3rd._down_conv.": "4/12",
+        "4th._down_conversions": "1/1",
+        "red-zone_scores_-_chances": "3-3",
+        "sacks_total_-_yds.": "0-0",
+        "pat_total_-_made": "2-3",
+        "2pt_conversion_total_-_made": "1-1",
+        "field_goals_total_-_made": "2-2"
+      }
+    }
+  },
+  "individual_stats": {
+    "w._hunter": {
+      "passing": {
+        "offensive": {
+          "cmp": "22",
+          "att.": "34",
+          "yds.": "283",
+          "td": "3",
+          "int": "2",
+          "long": "44",
+          "sack": "2"
+        }
+      },
+      "rushing": {
+        "offensive": {
+          "att.": "4",
+          "gain": "3",
+          "loss": "11",
+          "net": "-8",
+          "td": "0",
+          "lg.": "2",
+          "avg.": "-2.0"
+        }
+      }
+    },
+    "b._foos": {
+      "passing": {
+        "offensive": {
+          "cmp": "1",
+          "att.": "1",
+          "yds.": "17",
+          "td": "0",
+          "int": "0",
+          "long": "17",
+          "sack": "0"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "3",
+          "yds.": "54",
+          "td": "0",
+          "long": "31"
+        }
+      }
+    },
+    "a._heard": {
+      "rushing": {
+        "offensive": {
+          "att.": "16",
+          "gain": "35",
+          "loss": "3",
+          "net": "32",
+          "td": "1",
+          "lg.": "15",
+          "avg.": "2.0"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "44",
+          "td": "1",
+          "long": "44"
+        }
+      }
+    },
+    "t._jackson": {
+      "rushing": {
+        "offensive": {
+          "att.": "6",
+          "gain": "26",
+          "loss": "3",
+          "net": "23",
+          "td": "0",
+          "lg.": "11",
+          "avg.": "3.8"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "2",
+          "td": "0",
+          "long": "2"
+        }
+      }
+    },
+    "ro._brown": {
+      "receiving": {
+        "offensive": {
+          "rec.": "5",
+          "yds.": "84",
+          "td": "1",
+          "long": "33"
+        }
+      }
+    },
+    "c._bruce": {
+      "receiving": {
+        "offensive": {
+          "rec.": "6",
+          "yds.": "47",
+          "td": "1",
+          "long": "17"
+        }
+      }
+    },
+    "d._bryant": {
+      "receiving": {
+        "offensive": {
+          "rec.": "2",
+          "yds.": "34",
+          "td": "0",
+          "long": "17"
+        }
+      }
+    },
+    "m._sanders": {
+      "receiving": {
+        "offensive": {
+          "rec.": "3",
+          "yds.": "17",
+          "td": "0",
+          "long": "9"
+        }
+      },
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "0",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "k._drummond": {
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "10",
+          "td": "0",
+          "long": "10"
+        }
+      },
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "d._rooks": {
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "8",
+          "td": "0",
+          "long": "8"
+        }
+      }
+    },
+    "burks,_chandler": {
+      "passing": {
+        "offensive": {
+          "cmp": "5",
+          "att.": "10",
+          "yds.": "111",
+          "td": "1",
+          "int.": "0",
+          "long": "48",
+          "sack": "0"
+        }
+      },
+      "rushing": {
+        "offensive": {
+          "att.": "22",
+          "gain": "103",
+          "loss": "3",
+          "net": "100",
+          "td": "2",
+          "lg.": "18",
+          "avg.": "4.5"
+        }
+      }
+    },
+    "david,_daniel": {
+      "passing": {
+        "offensive": {
+          "cmp": "2",
+          "att.": "3",
+          "yds.": "22",
+          "td": "0",
+          "int.": "0",
+          "long": "18",
+          "sack": "0"
+        }
+      },
+      "rushing": {
+        "offensive": {
+          "att.": "5",
+          "gain": "16",
+          "loss": "2",
+          "net": "14",
+          "td": "1",
+          "lg.": "10",
+          "avg.": "2.8"
+        }
+      }
+    },
+    "terry,_shaquil": {
+      "rushing": {
+        "offensive": {
+          "att.": "2",
+          "gain": "67",
+          "loss": "0",
+          "net": "67",
+          "td": "0",
+          "lg.": "61",
+          "avg.": "33.5"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "48",
+          "td": "0",
+          "long": "48"
+        }
+      },
+      "returns": {
+        "specialteams": {
+          "punts": "0",
+          "kickoffs": "0",
+          "interceptions": "0",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "mckenzie,_jake": {
+      "rushing": {
+        "offensive": {
+          "att.": "8",
+          "gain": "47",
+          "loss": "0",
+          "net": "47",
+          "td": "0",
+          "lg.": "11",
+          "avg.": "5.9"
+        }
+      }
+    },
+    "reed,_tj": {
+      "rushing": {
+        "offensive": {
+          "att.": "2",
+          "gain": "23",
+          "loss": "0",
+          "net": "23",
+          "td": "0",
+          "lg.": "23",
+          "avg.": "11.5"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "4",
+          "td": "0",
+          "long": "4"
+        }
+      },
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "0",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "holland,_darnell": {
+      "rushing": {
+        "offensive": {
+          "att.": "4",
+          "gain": "25",
+          "loss": "3",
+          "net": "22",
+          "td": "0",
+          "lg.": "14",
+          "avg.": "5.5"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "17",
+          "td": "0",
+          "long": "17"
+        }
+      },
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "outlaw,_sam": {
+      "rushing": {
+        "offensive": {
+          "att.": "6",
+          "gain": "20",
+          "loss": "0",
+          "net": "20",
+          "td": "0",
+          "lg.": "5",
+          "avg.": "3.3"
+        }
+      }
+    },
+    "rechsteiner,_bronson": {
+      "rushing": {
+        "offensive": {
+          "att.": "3",
+          "gain": "23",
+          "loss": "3",
+          "net": "20",
+          "td": "1",
+          "lg.": "18",
+          "avg.": "6.7"
+        }
+      }
+    },
+    "chivers,_trey": {
+      "rushing": {
+        "offensive": {
+          "att.": "1",
+          "gain": "3",
+          "loss": "0",
+          "net": "3",
+          "td": "0",
+          "lg.": "3",
+          "avg.": "3.0"
+        }
+      },
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "26",
+          "td": "1",
+          "long": "26"
+        }
+      },
+      "returns": {
+        "specialteams": {
+          "punts": "0",
+          "kickoffs": "0",
+          "interceptions": "0",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "team": {
+      "rushing": {
+        "offensive": {
+          "att.": "1",
+          "gain": "0",
+          "loss": "1",
+          "net": "-1",
+          "td": "0",
+          "lg.": "0",
+          "avg.": "-1.0"
+        }
+      }
+    },
+    "sumpter,_justin": {
+      "receiving": {
+        "offensive": {
+          "rec.": "2",
+          "yds.": "20",
+          "td": "0",
+          "long": "13"
+        }
+      }
+    },
+    "harper,_xavier": {
+      "receiving": {
+        "offensive": {
+          "rec.": "1",
+          "yds.": "18",
+          "td": "0",
+          "long": "18"
+        }
+      }
+    },
+    "b._burger": {
+      "defense": {
+        "defensive": {
+          "solo": "7",
+          "ast": "5",
+          "tot": "12",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "e._martin": {
+      "defense": {
+        "defensive": {
+          "solo": "7",
+          "ast": "4",
+          "tot": "11",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "t._beatty": {
+      "defense": {
+        "defensive": {
+          "solo": "8",
+          "ast": "2",
+          "tot": "10",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "d._williams": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "5",
+          "tot": "7",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-1",
+          "fr-yds": "1/-",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "a._mcgee": {
+      "defense": {
+        "defensive": {
+          "solo": "3",
+          "ast": "1",
+          "tot": "4",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "m._thomas": {
+      "defense": {
+        "defensive": {
+          "solo": "3",
+          "ast": "0",
+          "tot": "3",
+          "tfl/yds": "1.0/3",
+          "tfl": "1.0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "j._worthy": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "1",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "1",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "r._landrum": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "1",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "c._haba": {
+      "defense": {
+        "defensive": {
+          "solo": "3",
+          "ast": "0",
+          "tot": "3",
+          "tfl/yds": "2.0/6",
+          "tfl": "2.0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "s._laughter": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "2",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "1",
+          "fumbl": "1-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "e._studyvance": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "0",
+          "tot": "2",
+          "tfl/yds": "1.0/2",
+          "tfl": "1.0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "s._brooks": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "0",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "a._watson": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "j._burch": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "c._wrice": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "a._dixon": {
+      "defense": {
+        "defensive": {
+          "solo": "0",
+          "ast": "1",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "a._shockley": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "r._brown": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "j._harper": {
+      "defense": {
+        "defensive": {
+          "solo": "0",
+          "ast": "1",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "d._turman": {
+      "defense": {
+        "defensive": {
+          "solo": "0",
+          "ast": "1",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "henkle,_taylor": {
+      "defense": {
+        "defensive": {
+          "solo": "6",
+          "ast": "2",
+          "tot": "8",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "gore,_anthony": {
+      "defense": {
+        "defensive": {
+          "solo": "4",
+          "ast": "4",
+          "tot": "8",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "armstrong,_bryson": {
+      "defense": {
+        "defensive": {
+          "solo": "5",
+          "ast": "1",
+          "tot": "6",
+          "tfl/yds": "2.0/11",
+          "tfl": "2.0",
+          "sack/yds": "2.0/11",
+          "sacks": "2.0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "1",
+          "qh": "0"
+        }
+      }
+    },
+    "johnson,_desmond": {
+      "defense": {
+        "defensive": {
+          "solo": "4",
+          "ast": "1",
+          "tot": "5",
+          "tfl/yds": "1.5/3",
+          "tfl": "1.5",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "roman,_keon": {
+      "defense": {
+        "defensive": {
+          "solo": "4",
+          "ast": "0",
+          "tot": "4",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "2",
+          "brup": "1",
+          "blkd": "0",
+          "qh": "0"
+        }
+      },
+      "returns": {
+        "specialteams": {
+          "punts": "0",
+          "kickoffs": "0",
+          "interceptions": "0",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "ralls,_akebren": {
+      "defense": {
+        "defensive": {
+          "solo": "3",
+          "ast": "0",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      },
+      "returns": {
+        "specialteams": {
+          "punts": "0",
+          "kickoffs": "0",
+          "interceptions": "0",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "white,_jace": {
+      "defense": {
+        "defensive": {
+          "solo": "3",
+          "ast": "0",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "2",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "sam,_izzy": {
+      "defense": {
+        "defensive": {
+          "solo": "2",
+          "ast": "1",
+          "tot": "3",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "wimberly,_brenton": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "portress,_tonarius": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "alufohai,_auzoyah": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "1.5/3",
+          "tfl": "1.5",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "marcus,_justin": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "1",
+          "tot": "2",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "bostick,_paris": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "moore,_peyton": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "genovese,_jordan": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      },
+      "kickoffs": {
+        "specialteams": {
+          "no.": "7",
+          "yds.": "427",
+          "tb": "3",
+          "ob": "0",
+          "avg.": "61.0"
+        }
+      }
+    },
+    "davis,_abdul": {
+      "defense": {
+        "defensive": {
+          "solo": "0",
+          "ast": "1",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "young,_braylon": {
+      "defense": {
+        "defensive": {
+          "solo": "1",
+          "ast": "0",
+          "tot": "1",
+          "tfl/yds": "0",
+          "tfl": "0",
+          "sack/yds": "0",
+          "sacks": "0",
+          "ff": "0",
+          "fumbl": "0-0",
+          "fr-yds": "0",
+          "int": "0",
+          "brup": "0",
+          "blkd": "0",
+          "qh": "0"
+        }
+      }
+    },
+    "kinsley,_christian": {
+      "punting": {
+        "specialteams": {
+          "punts": "3",
+          "yds.": "130",
+          "avg.": "43.3",
+          "long": "46",
+          "in._20": "1",
+          "tb": "0",
+          "50+_yds.": "0"
+        }
+      }
+    },
+    "jones,_nicholas": {
+      "punting": {
+        "specialteams": {
+          "punts": "2",
+          "yds.": "84",
+          "avg.": "42.0",
+          "long": "43",
+          "in._20": "0",
+          "tb": "0",
+          "50+_yds.": "0"
+        }
+      }
+    },
+    "birdsall,_bert": {
+      "returns": {
+        "specialteams": {
+          "punts": "4",
+          "kickoffs": "13",
+          "interceptions": "8",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "walker,_dorian": {
+      "returns": {
+        "specialteams": {
+          "punts": "0",
+          "kickoffs": "0",
+          "interceptions": "0",
+          "ret.": "",
+          "yds.": "",
+          "lg": ""
+        }
+      }
+    },
+    "thompson,_j": {
+      "fieldgoals": {
+        "specialteams": {
+          "qtr.": "4th",
+          "clock": "09:15",
+          "yds.": "42",
+          "result": "GOOD"
+        }
+      }
+    },
+    "thompson,_justin": {
+      "pat": {
+        "specialteams": {
+          "kicks": "5",
+          "rushes": "5",
+          "passes": "0",
+          "att": "",
+          "made": ""
+        }
+      }
+    }
+  },
+  "drive_chart": {
+    "awayteam": [
+      {
+        "team": "NGU",
+        "qtr": "1st",
+        "drive_started_spot": "NGU30",
+        "drive_started_time": "15:00",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU00",
+        "drive_ended_time": "11:17",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "7-70",
+        "consumed_top": "3:43"
+      },
+      {
+        "team": "NGU",
+        "qtr": "1st",
+        "drive_started_spot": "NGU25",
+        "drive_started_time": "08:27",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU27",
+        "drive_ended_time": "07:03",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-2",
+        "consumed_top": "1:24"
+      },
+      {
+        "team": "NGU",
+        "qtr": "1st",
+        "drive_started_spot": "NGU25",
+        "drive_started_time": "02:56",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU27",
+        "drive_ended_time": "01:56",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-2",
+        "consumed_top": "1:00"
+      },
+      {
+        "team": "NGU",
+        "qtr": "1st",
+        "drive_started_spot": "NGU13",
+        "drive_started_time": "00:37",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU26",
+        "drive_ended_time": "12:43",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "6-13",
+        "consumed_top": "2:54"
+      },
+      {
+        "team": "NGU",
+        "qtr": "2nd",
+        "drive_started_spot": "NGU33",
+        "drive_started_time": "10:54",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU29",
+        "drive_ended_time": "08:42",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-(-4)",
+        "consumed_top": "2:12"
+      },
+      {
+        "team": "NGU",
+        "qtr": "2nd",
+        "drive_started_spot": "NGU32",
+        "drive_started_time": "06:38",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "KSU00",
+        "drive_ended_time": "04:19",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "5-68",
+        "consumed_top": "2:19"
+      },
+      {
+        "team": "NGU",
+        "qtr": "2nd",
+        "drive_started_spot": "NGU26",
+        "drive_started_time": "02:09",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "KSU22",
+        "drive_ended_time": "15:00",
+        "drive_ended_how_lost": "FG",
+        "consumed_plays-yds": "9-52",
+        "consumed_top": "2:09"
+      },
+      {
+        "team": "NGU",
+        "qtr": "3rd",
+        "drive_started_spot": "NGU27",
+        "drive_started_time": "12:56",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU40",
+        "drive_ended_time": "10:03",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "5-13",
+        "consumed_top": "2:53"
+      },
+      {
+        "team": "NGU",
+        "qtr": "3rd",
+        "drive_started_spot": "NGU45",
+        "drive_started_time": "02:17",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU00",
+        "drive_ended_time": "00:24",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "5-55",
+        "consumed_top": "1:53"
+      },
+      {
+        "team": "NGU",
+        "qtr": "4th",
+        "drive_started_spot": "NGU43",
+        "drive_started_time": "14:07",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU45",
+        "drive_ended_time": "13:09",
+        "drive_ended_how_lost": "INT",
+        "consumed_plays-yds": "3-2",
+        "consumed_top": "0:58"
+      },
+      {
+        "team": "NGU",
+        "qtr": "4th",
+        "drive_started_spot": "KSU14",
+        "drive_started_time": "13:01",
+        "drive_started_obtained": "FUMB",
+        "drive_ended_spot": "KSU10",
+        "drive_ended_time": "11:38",
+        "drive_ended_how_lost": "FG",
+        "consumed_plays-yds": "4-4",
+        "consumed_top": "1:23"
+      },
+      {
+        "team": "NGU",
+        "qtr": "4th",
+        "drive_started_spot": "NGU25",
+        "drive_started_time": "09:15",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU00",
+        "drive_ended_time": "05:04",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "9-75",
+        "consumed_top": "4:11"
+      },
+      {
+        "team": "NGU",
+        "qtr": "4th",
+        "drive_started_spot": "NGU25",
+        "drive_started_time": "00:12",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU25",
+        "drive_ended_time": "00:07",
+        "drive_ended_how_lost": "INT",
+        "consumed_plays-yds": "1-0",
+        "consumed_top": "0:05"
+      }
+    ],
+    "hometeam": [
+      {
+        "team": "KSU",
+        "qtr": "1st",
+        "drive_started_spot": "KSU50",
+        "drive_started_time": "11:09",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU00",
+        "drive_ended_time": "08:27",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "4-50",
+        "consumed_top": "2:42"
+      },
+      {
+        "team": "KSU",
+        "qtr": "1st",
+        "drive_started_spot": "KSU29",
+        "drive_started_time": "07:03",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU00",
+        "drive_ended_time": "02:56",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "8-71",
+        "consumed_top": "4:07"
+      },
+      {
+        "team": "KSU",
+        "qtr": "1st",
+        "drive_started_spot": "KSU40",
+        "drive_started_time": "01:56",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "KSU43",
+        "drive_ended_time": "00:37",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-3",
+        "consumed_top": "1:19"
+      },
+      {
+        "team": "KSU",
+        "qtr": "2nd",
+        "drive_started_spot": "KSU31",
+        "drive_started_time": "12:43",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU00",
+        "drive_ended_time": "11:00",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "4-69",
+        "consumed_top": "1:43"
+      },
+      {
+        "team": "KSU",
+        "qtr": "2nd",
+        "drive_started_spot": "KSU19",
+        "drive_started_time": "08:42",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "KSU25",
+        "drive_ended_time": "06:38",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-6",
+        "consumed_top": "2:04"
+      },
+      {
+        "team": "KSU",
+        "qtr": "2nd",
+        "drive_started_spot": "KSU25",
+        "drive_started_time": "04:19",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU35",
+        "drive_ended_time": "02:09",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "5-10",
+        "consumed_top": "2:10"
+      },
+      {
+        "team": "KSU",
+        "qtr": "3rd",
+        "drive_started_spot": "KSU23",
+        "drive_started_time": "14:54",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU32",
+        "drive_ended_time": "12:56",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-9",
+        "consumed_top": "1:58"
+      },
+      {
+        "team": "KSU",
+        "qtr": "3rd",
+        "drive_started_spot": "KSU31",
+        "drive_started_time": "10:03",
+        "drive_started_obtained": "PUNT",
+        "drive_ended_spot": "NGU00",
+        "drive_ended_time": "02:27",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "15-69",
+        "consumed_top": "7:36"
+      },
+      {
+        "team": "KSU",
+        "qtr": "3rd",
+        "drive_started_spot": "KSU25",
+        "drive_started_time": "00:24",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "KSU28",
+        "drive_ended_time": "14:07",
+        "drive_ended_how_lost": "PUNT",
+        "consumed_plays-yds": "3-3",
+        "consumed_top": "1:17"
+      },
+      {
+        "team": "KSU",
+        "qtr": "4th",
+        "drive_started_spot": "KSU13",
+        "drive_started_time": "13:09",
+        "drive_started_obtained": "INT",
+        "drive_ended_spot": "KSU14",
+        "drive_ended_time": "13:01",
+        "drive_ended_how_lost": "FUMB",
+        "consumed_plays-yds": "1-1",
+        "consumed_top": "0:08"
+      },
+      {
+        "team": "KSU",
+        "qtr": "4th",
+        "drive_started_spot": "KSU15",
+        "drive_started_time": "11:32",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU25",
+        "drive_ended_time": "09:15",
+        "drive_ended_how_lost": "FG",
+        "consumed_plays-yds": "6-60",
+        "consumed_top": "2:17"
+      },
+      {
+        "team": "KSU",
+        "qtr": "4th",
+        "drive_started_spot": "KSU26",
+        "drive_started_time": "04:59",
+        "drive_started_obtained": "KO",
+        "drive_ended_spot": "NGU00",
+        "drive_ended_time": "00:16",
+        "drive_ended_how_lost": "TD",
+        "consumed_plays-yds": "12-74",
+        "consumed_top": "4:43"
+      },
+      {
+        "team": "KSU",
+        "qtr": "4th",
+        "drive_started_spot": "NGU37",
+        "drive_started_time": "00:07",
+        "drive_started_obtained": "INT",
+        "drive_ended_spot": "NGU38",
+        "drive_ended_time": "00:00",
+        "drive_ended_how_lost": "HALF",
+        "consumed_plays-yds": "1-(-1)",
+        "consumed_top": "0:07"
+      }
+    ]
+  },
+  "participation": {
+    "starters": {
+      "awayteam": {
+        "mi._thomas": "Offense",
+        "j._bell": "Offense",
+        "c._harris": "Offense",
+        "w._hunter": "Offense",
+        "a._heard": "Offense",
+        "c._stewart": "Offense",
+        "c._stepp": "Offense",
+        "b._foos": "Offense",
+        "d._bryant": "Offense",
+        "m._sanders": "Offense",
+        "ro._brown": "Offense",
+        "j._worthy": "Defense",
+        "c._wrice": "Defense",
+        "d._williams": "Defense",
+        "j._burch": "Defense",
+        "t._beatty": "Defense",
+        "m._thomas": "Defense",
+        "e._studyvance": "Defense",
+        "e._martin": "Defense",
+        "b._burger": "Defense",
+        "s._laughter": "Defense",
+        "r._landrum": "Defense"
+      },
+      "hometeam": {
+        "collins,_cj": "Offense",
+        "alexander,_joseph": "Offense",
+        "warrior,_ryan": "Offense",
+        "burks,_chandler": "Offense",
+        "mckenzie,_jake": "Offense",
+        "holland,_darnell": "Offense",
+        "terry,_shaquil": "Offense",
+        "frank,_matt": "Offense",
+        "mitchler,_zach": "Offense",
+        "sumpter,_justin": "Offense",
+        "harper,_xavier": "Offense",
+        "ralls,_akebren": "Defense",
+        "roman,_keon": "Defense",
+        "portress,_tonarius": "Defense",
+        "johnson,_desmond": "Defense",
+        "billingslea,mckenzie": "Defense",
+        "white,_jace": "Defense",
+        "gore,_anthony": "Defense",
+        "armstrong,_bryson": "Defense",
+        "sam,_izzy": "Defense",
+        "alufohai,_auzoyah": "Defense",
+        "henkle,_taylor": "Defense"
+      }
+    },
+    "playerparticipation": {
+      "awayteam": [
+        "D. Rooks",
+        "C. Bruce",
+        "J. Helms",
+        "H. Hilton",
+        "D. Baker",
+        "L. Hughes Jr",
+        "S. Brooks",
+        "M. Frederick",
+        "D. Hunt",
+        "A. Watson",
+        "T. Ford",
+        "A. Dixon",
+        "A. Shockley",
+        "T. Jackson",
+        "J. Bogan",
+        "A. Mcgee",
+        "M. Gravely",
+        "R. Brown",
+        "C. Haba",
+        "J. Harper",
+        "H. Haines",
+        "P. Lark",
+        "H. Medlin",
+        "E. Lipscomb",
+        "E. Spann",
+        "G. Smith",
+        "D. Turman",
+        "K. Drummond"
+      ],
+      "hometeam": [
+        "WALKER, Dorian",
+        "DAVID, Daniel",
+        "NAYLOR, Ezra",
+        "REED, TJ",
+        "TRAWICK, Tremayne",
+        "CARTER, Duronte",
+        "BOSTICK, Paris",
+        "CHIVERS, Trey",
+        "OUTLAW, Sam",
+        "CLABOUGH, Dustin",
+        "ABISOYE, A",
+        "RECHSTEINER, Bronson",
+        "WHITE, Myles",
+        "BULOCK, Terrance",
+        "BIRDSALL, Bert",
+        "SNOWDEN, Nicolas",
+        "MOORE, Peyton",
+        "BYRD, Austin",
+        "GLOVER, Kyle",
+        "WIMBERLY, Brenton",
+        "McCRACKEN, Drew",
+        "ELDRIDGE, Nick",
+        "THOMPSON, Zach",
+        "PUGHSLEY, Devin",
+        "SUTTON, Brandon",
+        "GRAY, Gordon",
+        "GENOVESE, Jordan",
+        "WALKER, Jordan",
+        "THOMPSON, Justin",
+        "KINSLEY, Christian",
+        "JONES, Nicholas",
+        "DAVIS, Abdul",
+        "YOUNG, Braylon",
+        "MARCUS, Justin"
+      ]
+    }
+  }
+}

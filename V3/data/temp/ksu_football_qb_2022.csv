@@ -1,0 +1,7 @@
+season,name,major,height,weight,hometown,position,games_played,games_started,passing_yards,pass_completions,pass_attempts,interceptions_thrown,passing_touchdowns,longest_completion,pass_completion_percentage,average_yards_per_pass,average_passing_yards_per_game,rushing_attempts,rushing_yards,rushing_touchdowns,longest_rush,average_yards_per_rush,average_rushing_yards_per_game
+2022,"bryson, davis",,69,175,"woodbridge, va.",qb,1,0,0,0,0,0,0,0,.00,0.0,0.0,0,0,0,0,0.0,0.0
+2022,"murphy, jonathan",,72,190,"los angeles, calif.",qb,6,3,375,28,54,0,1,37,.52,13.4,62.5,107,386,9,57,3.6,64.3
+2022,"shepherd, xavier",,72,205,"nashville, tenn.",qb,9,7,1130,68,137,7,7,72,.50,16.6,125.6,205,589,11,41,2.9,65.4
+2022,"hardy, deangelo",,70,185,"chattanooga, tenn.",qb,3,0,0,0,1,0,0,0,.00,0.0,0.0,11,26,0,6,2.4,8.7
+2022,"bohannon, braden",,73,180,"woodstock, ga.",qb,,,,,,,,,,,,,,,,,
+2022,"sawyer, nick",,71,160,"harvest, ala.",qb,,,,,,,,,,,,,,,,,

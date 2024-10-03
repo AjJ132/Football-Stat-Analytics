@@ -1,0 +1,20 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,,"6'0""",165 lbs,Fr.,"Carrollton, Ga.",2019,"cousin, iaan",3,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,,"5'9""",158 lbs,So.,"Jackson, Ga.",2019,"grier, antavius",10,0,6,0.1,1,0,6,6.0,0.6,1.2,12,0,2,2,False
+RB,,"5'9""",172 lbs,Jr.,"Bessemer, Ala.",2019,"terry, shaquil",14,14,66,1.1,15,5,370,24.7,26.4,3.9,54,5,4,9,False
+RB,,"5'9""",173 lbs,Sr.,"Daphne, Ala.",2019,"reed, tj",14,2,35,0.4,5,2,97,19.4,6.9,0.9,12,2,0,2,False
+RB,,"5'10""",189 lbs,So.,"Conyers, Ga.",2019,"adeleke, adeolu",11,0,13,0.1,1,0,13,13.0,1.2,0.0,0,0,0,0,False
+RB,,"5'10""",165 lbs,So.,"Summerville, Ga.",2019,"foster, isaac",8,7,32,0.8,6,1,111,18.5,13.9,3.8,30,1,4,5,False
+RB,,"5'9""",165 lbs,Fr.,"Cochran, Ga.",2019,"farrow, nykeem",3,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+WR,,"6'2""",197 lbs,Fr.,"Powder Springs, Ga.",2019,"jackson, jalen",14,0,31,0.1,2,1,59,29.5,4.2,0.9,12,1,0,2,True
+WR,,"6'3""",179 lbs,Fr.,"Sylvester, Ga.",2019,"marshall, chavis",10,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
+WR,,"6'1""",210 lbs,Jr.,"Suwanee, Ga.",2019,"hancock, kj",14,3,40,0.2,3,1,85,28.3,6.1,0.4,6,1,0,1,True
+RB,,"5'6""",187 lbs,Sr.,"Dacula, Ga.",2019,"ficklin, kevin",14,5,0,0.0,0,0,0,0.0,0.0,1.7,24,0,4,4,False
+RB,,"5'11""",225 lbs,Fr.,"Sandersville, Ga.",2019,"daniels, preston",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,,"6'0""",230 lbs,Sr.,"Acworth, Ga.",2019,"rechsteiner, bronson",14,11,34,0.6,8,0,101,12.6,7.2,3.0,42,0,7,7,False
+RB,,"5'11""",204 lbs,Jr.,"Eastman, Ga.",2019,"glover, kyle",14,3,0,0.0,0,0,0,0.0,0.0,0.9,12,0,2,2,False
+TE,,"6'2""",221 lbs,Fr.,"Hoschton, Ga.",2019,"jackson, adrian",16,7,31,0.1,2,1,59,29.5,3.7,0.8,12,1,0,2,False
+WR,,"6'1""",206 lbs,Fr.,"Tallahassee, Fla.",2019,"haigler, will",9,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
+WR,,"6'4""",209 lbs,Fr.,"Dalton, Ga.",2019,"gonzalez, oscar",12,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
+WR,,"6'2""",190 lbs,Jr.,"Chickamauga, Ga.",2019,"o'neal, caleb",12,12,67,0.6,7,1,171,24.4,14.3,0.5,6,1,0,1,True
+WR,,"6'3""",173 lbs,Fr.,"Cumming, Ga.",2019,"pontrelli, ryan",11,5,38,0.4,4,0,101,25.3,9.2,,,,,,True

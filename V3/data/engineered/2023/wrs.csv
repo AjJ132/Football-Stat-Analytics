@@ -1,0 +1,15 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,Psychology,"5'7""",200 lbs,Jr.,"Atlanta, Ga.",2023,"benefield, michael",8,5,15,0.5,4,0,24,6.0,3.0,3.0,24,0,4,4,False
+WR,Criminal Justice,"5'9""",165 lbs,Jr.,"Thomasville, Ga.",2023,"wallace, tykeem",8,0,54,0.6,5,1,85,17.0,10.6,0.8,6,1,0,1,True
+TE,Sport Management,"5'11""",260 lbs,Sr.,"Sandersville, Ga.",2023,"daniels, preston",8,4,30,1.0,8,0,87,10.9,10.9,0.8,6,0,1,1,False
+RB,Sport Management,"5'10""",185 lbs,Jr.,"Ocilla, Ga.",2023,"benyard, gabriel",4,4,61,3.5,14,4,333,23.8,83.3,7.5,30,4,1,5,False
+WR,Business Management,"6'1""",200 lbs,Jr.,"Woodstock, Ga.",2023,"bohannon, blake",8,8,55,0.9,7,1,152,21.7,19.0,0.8,6,1,0,1,True
+WR,Business Management,"5'10""",175 lbs,Gr.,"Summerville, Ga.",2023,"foster, isaac",8,7,44,2.4,19,1,228,12.0,28.5,0.8,6,1,0,1,True
+RB,Business Administration,"5'10""",215 lbs,Sr.,"Griffin, Ga.",2023,"clemons, yesiah",8,0,1,0.3,2,0,2,1.0,0.3,0.0,0,0,0,0,False
+WR,Business,"5'10""",150 lbs,Fr.,"Snellville, Ga.",2023,"williamson, josh",3,2,6,0.3,1,0,6,6.0,2.0,,,,,,True
+RB,Integrated Health Science,"5'10""",190 lbs,So.,"Dublin, Ga.",2023,"ashley, qua",5,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+WR,Exercise Science,"6'0""",185 lbs,Fr.,"Columbus, Ga.",2023,"dean, navelle",2,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
+RB,Finance,"5'9""",200 lbs,So.,"Snellville, Ga.",2023,"diggs, alexander",7,1,31,0.4,3,0,39,13.0,5.6,,,,,,False
+WR,Business Management,"6'2""",205 lbs,Jr.,"New Port Richey, Fla.",2023,"finer, connor",8,2,29,0.5,4,0,56,14.0,7.0,,,,,,True
+TE,Biochemistry,"6'4""",220 lbs,So.,"Johns Creek, Ga.",2023,"darnell, rowan",8,0,31,0.8,6,1,66,11.0,8.3,0.8,6,1,0,1,False
+TE,Businesss Management,"6'4""",240 lbs,So.,"Milton, Ga.",2023,"kent, carson",8,5,35,1.8,14,0,165,11.8,20.6,0.0,0,0,0,0,False

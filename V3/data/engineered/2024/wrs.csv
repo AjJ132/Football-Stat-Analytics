@@ -1,0 +1,18 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,Exercise Science (MS),"5'7""",205 lbs,R-Sr.,"Atlanta, Ga.",2024,"benefield, michael",4,3,9,0.5,2,0,6,3.0,1.5,0.0,0,0,0,0,False
+WR,Sport Management,"5'10""",185 lbs,R-Jr.,"Ocilla, Ga.",2024,"benyard, gabriel",2,2,22,2.0,4,0,39,9.8,19.5,0.0,0,0,0,0,True
+TE,Undeclared,"5'11""",250 lbs,R-Sr.,"Sandersville, Ga.",2024,"daniels, preston",4,4,0,0.0,0,0,0,0.0,0.0,3.0,12,0,2,2,False
+WR,Criminal Justice,"5'9""",165 lbs,R-Jr.,"Thomasville, Ga.",2024,"wallace, tykeem",4,3,24,1.8,7,0,98,14.0,24.5,0.0,0,0,0,0,True
+RB,Finance,"5'9""",185 lbs,R-So.,"Snellville, Ga.",2024,"diggs, alexander",2,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+WR,Management,"6'1""",190 lbs,R-Jr.,"Woodstock, Ga.",2024,"bohannon, blake",4,4,32,2.5,10,0,89,8.9,22.3,0.0,0,0,0,0,True
+WR,Interdisciplinary Studies,"6'3""",190 lbs,R-Jr.,"Kennesaw, Ga.",2024,"moss, christian",3,0,16,2.0,6,0,54,9.0,18.0,,,,,,True
+WR,Interdisciplinary Studies,"6'1""",195 lbs,R-So.,"Cleveland, Tenn.",2024,"thomas, destun",4,0,19,0.3,1,0,19,19.0,4.8,,,,,,True
+TE,Business Administration,"6'5""",240 lbs,R-Jr.,"Acworth, Ga.",2024,"manning, jackson",4,1,6,0.3,1,0,6,6.0,1.5,,,,,,False
+RB,Business Administration (MBA),"5'10""",210 lbs,R-Sr.,"Griffin, Ga.",2024,"clemons, yesiah",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,Integrated Health Science,"5'10""",195 lbs,R-So.,"Dublin, Ga.",2024,"ashley, qua",4,1,51,2.5,10,0,131,13.1,32.8,,,,,,False
+WR,Management,"5'10""",145 lbs,R-So.,"Snellville, Ga.",2024,"williamson, josh",2,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
+TE,Management/Interdisciplinary Studies,"6'2""",215 lbs,R-Jr.,"New Port Richey, Fla.",2024,"finer, connor",4,0,12,0.3,1,0,12,12.0,3.0,,,,,,False
+WR,Sport Management,"6'0""",185 lbs,R-Fr.,"Columbus, Ga.",2024,"dean, navelle",4,0,37,1.0,4,0,55,13.8,13.8,,,,,,True
+TE,Management,"6'4""",240 lbs,R-So.,"Milton, Ga.",2024,"kent, carson",3,2,25,1.3,4,1,45,11.3,15.0,2.0,6,1,0,1,False
+TE,Psychology,"6'4""",215 lbs,R-So.,"Johns Creek, Ga.",2024,"darnell, rowan",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+WR,Sport Management,"6'2""",195 lbs,Fr.,"Santa Rosa Beach, Fla.",2024,"robinson, jaden",1,0,11,2.0,2,0,18,9.0,18.0,,,,,,True

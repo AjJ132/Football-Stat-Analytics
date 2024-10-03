@@ -1,0 +1,132 @@
+[
+  {
+    "date": "8/30/2018",
+    "opponent": "at Georgia State",
+    "opponentlink": "/boxscore.aspx?id=7687&path=fb",
+    "result": "L",
+    "score": "20-24",
+    "record": "0-1",
+    "duration": "3:16",
+    "attendance": "23088"
+  },
+  {
+    "date": "9/6/2018",
+    "opponent": "at Tennessee Tech",
+    "opponentlink": "/boxscore.aspx?id=7688&path=fb",
+    "result": "W",
+    "score": "49-10",
+    "record": "1-1",
+    "duration": "3:02",
+    "attendance": "4118"
+  },
+  {
+    "date": "9/15/2018",
+    "opponent": "vs Alabama State",
+    "opponentlink": "/boxscore.aspx?id=7689&path=fb",
+    "result": "W",
+    "score": "62-13",
+    "record": "2-1",
+    "duration": "3:06",
+    "attendance": "8799"
+  },
+  {
+    "date": "9/22/2018",
+    "opponent": "vs Clark-Atlanta",
+    "opponentlink": "/boxscore.aspx?id=7690&path=fb",
+    "result": "W",
+    "score": "70-13",
+    "record": "3-1",
+    "duration": "3:03",
+    "attendance": "6009"
+  },
+  {
+    "date": "9/29/2018",
+    "opponent": "vs Samford",
+    "opponentlink": "/boxscore.aspx?id=7691&path=fb",
+    "result": "W",
+    "score": "24-10",
+    "record": "4-1",
+    "duration": "2:41",
+    "attendance": "6304"
+  },
+  {
+    "date": "10/6/2018",
+    "opponent": "vs Presbyterian",
+    "opponentlink": "/boxscore.aspx?id=7692&path=fb",
+    "result": "W",
+    "score": "56-0",
+    "record": "5-1 , 1-0",
+    "duration": "2:51",
+    "attendance": "6414"
+  },
+  {
+    "date": "10/13/2018",
+    "opponent": "at Gardner-Webb",
+    "opponentlink": "/boxscore.aspx?id=7693&path=fb",
+    "result": "W",
+    "score": "56-17",
+    "record": "6-1 , 2-0",
+    "duration": "2:45",
+    "attendance": "4150"
+  },
+  {
+    "date": "10/27/2018",
+    "opponent": "at Charleston So.",
+    "opponentlink": "/boxscore.aspx?id=7695&path=fb",
+    "result": "W",
+    "score": "38-10",
+    "record": "7-1 , 3-0",
+    "duration": "2:57",
+    "attendance": "1242"
+  },
+  {
+    "date": "11/3/2018",
+    "opponent": "vs Campbell",
+    "opponentlink": "/boxscore.aspx?id=7696&path=fb",
+    "result": "W",
+    "score": "49-0",
+    "record": "8-1 , 4-0",
+    "duration": "2:40",
+    "attendance": "6012"
+  },
+  {
+    "date": "11/10/2018",
+    "opponent": "at Monmouth",
+    "opponentlink": "/boxscore.aspx?id=7697&path=fb",
+    "result": "W",
+    "score": "51-14",
+    "record": "9-1 , 5-0",
+    "duration": "2:56",
+    "attendance": "2332"
+  },
+  {
+    "date": "11/17/2018",
+    "opponent": "vs Jacksonville State",
+    "opponentlink": "/boxscore.aspx?id=7698&path=fb",
+    "result": "W",
+    "score": "60-52",
+    "record": "10-1 , 5-0",
+    "duration": "4:12",
+    "attendance": "16949"
+  },
+  {
+    "date": "12/1/2018",
+    "opponent": "vs Wofford",
+    "opponentlink": "/boxscore.aspx?id=7968&path=fb",
+    "result": "W",
+    "score": "13-10",
+    "record": "11-1",
+    "duration": "2:55",
+    "attendance": "3515"
+  },
+  {
+    "date": "12/8/2018",
+    "opponent": "vs South Dakota State",
+    "opponentlink": "/boxscore.aspx?id=8095&path=fb",
+    "result": "L",
+    "score": "17-27",
+    "record": "11-2 , 5-0",
+    "duration": "2:47",
+    "attendance": "3242"
+  }
+]

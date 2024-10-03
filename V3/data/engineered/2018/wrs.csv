@@ -1,0 +1,22 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,,"5'9""",172 lbs,So.,"Bessemer, Ala.",2018,"terry, shaquil",13,12,60,1.0,13,1,215,16.5,16.5,2.8,36,1,5,6,False
+WR,,"6'2""",190 lbs,So.,"Chickamauga, Ga.",2018,"o'neal, caleb",10,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
+RB,,"6'0""",212 lbs,Sr.,"Monroeville, Ala.",2018,"mckenzie, jake",12,12,24,0.6,7,1,114,16.3,9.5,1.0,12,1,1,2,False
+RB,,"5'9""",173 lbs,Jr.,"Daphne, Ala.",2018,"reed, tj",11,0,41,0.5,6,3,125,20.8,11.4,2.7,30,3,2,5,False
+RB,,"5'10""",189 lbs,Fr.,"Conyers, Ga.",2018,"adeleke, adeolu",9,0,1,0.1,1,0,1,1.0,0.1,0.7,6,0,1,1,False
+WR,,"6'3""",217 lbs,Sr.,"Tyrone, Ga.",2018,"sumpter, justin",10,9,41,2.1,21,4,316,15.0,31.6,2.8,28,4,0,4,True
+WR,,"6'0""",194 lbs,Gr.,"Hoschton, Ga.",2018,"harper, xavier",12,10,43,0.7,8,1,105,13.1,8.8,0.5,6,1,0,1,True
+RB,,"5'10""",165 lbs,Fr.,"Summerville, Ga.",2018,"foster, isaac",13,0,38,0.2,3,0,56,18.7,4.3,1.4,18,0,1,3,False
+WR,,"6'2""",197 lbs,Fr.,"Powder Springs, Ga.",2018,"jackson, jalen",1,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
+WR,,"6'1""",210 lbs,So.,"Suwanee, Ga.",2018,"hancock, kj",12,3,40,0.1,1,0,40,40.0,3.3,0.0,0,0,0,0,True
+RB,,"5'11""",200 lbs,Sr.,"Carrollton, Ga.",2018,"chivers, trey",11,0,27,0.5,5,0,69,13.8,6.3,0.5,6,0,1,1,False
+RB,,"5'9""",158 lbs,Fr.,"Jackson, Ga.",2018,"grier, antavius",4,0,4,0.3,1,0,4,4.0,1.0,1.5,6,0,1,1,False
+RB,,"6'0""",230 lbs,Jr.,"Acworth, Ga.",2018,"rechsteiner, bronson",9,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+WR,,"6'4""",209 lbs,Fr.,"Dalton, Ga.",2018,"gonzalez, oscar",2,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
+RB,,"5'10""",195 lbs,Sr.,"Bowdon, Ga.",2018,"holland, darnell",13,13,65,0.7,9,2,182,20.2,14.0,5.5,72,2,9,12,False
+RB,,"5'6""",187 lbs,Jr.,"Dacula, Ga.",2018,"ficklin, kevin",13,0,55,0.1,1,1,55,55.0,4.2,0.5,6,1,0,1,False
+RB,,"5'11""",204 lbs,So.,"Eastman, Ga.",2018,"glover, kyle",12,1,9,0.1,1,0,9,9.0,0.8,0.5,6,0,1,1,False
+TE,,"6'2""",221 lbs,Fr.,"Hoschton, Ga.",2018,"jackson, adrian",1,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+WR,,"6'2""",178 lbs,Sr.,"Savannah, Ga.",2018,"walker, jordan",9,3,13,0.1,1,0,13,13.0,1.4,0.0,0,0,0,0,True
+WR,,"6'3""",173 lbs,Fr.,"Cumming, Ga.",2018,"pontrelli, ryan",3,0,10,0.3,1,0,10,10.0,3.3,,,,,,True
+,,"5'10""",168 lbs,Sr.,"Evans, Ga.",2018,"thompson, justin",13,0,0,0.0,0,0,0,0.0,0.0,7.3,95,0,0,0,False

@@ -1,0 +1,92 @@
+[
+  {
+    "date": "08/31/2023",
+    "opponent": "vs Tusculum",
+    "opponentlink": "/boxscore.aspx?id=12386&path=fb",
+    "result": "W",
+    "score": "38-7",
+    "record": "1-0 , 0-0",
+    "duration": "03:18",
+    "attendance": "10108"
+  },
+  {
+    "date": "09/09/2023",
+    "opponent": "at Chattanooga",
+    "opponentlink": "/boxscore.aspx?id=12387&path=fb",
+    "result": "L",
+    "score": "20-27",
+    "record": "1-1 , 0-0",
+    "duration": "03:02",
+    "attendance": "8123"
+  },
+  {
+    "date": "09/16/2023",
+    "opponent": "vs Furman",
+    "opponentlink": "/boxscore.aspx?id=12388&path=fb",
+    "result": "L",
+    "score": "28-31",
+    "record": "1-2 , 0-0",
+    "duration": "03:24",
+    "attendance": "6993"
+  },
+  {
+    "date": "9/23/2023",
+    "opponent": "at Tennessee Tech",
+    "opponentlink": "/boxscore.aspx?id=13647&path=fb",
+    "result": "L",
+    "score": "7-17",
+    "record": "1-3",
+    "duration": "2:58",
+    "attendance": "9923"
+  },
+  {
+    "date": "09/30/2023",
+    "opponent": "at Charleston So.",
+    "opponentlink": "/boxscore.aspx?id=12390&path=fb",
+    "result": "L",
+    "score": "10-13",
+    "record": "1-4 , 0-0",
+    "duration": "02:54",
+    "attendance": "3087"
+  },
+  {
+    "date": "10/07/2023",
+    "opponent": "vs Tennessee St.",
+    "opponentlink": "/boxscore.aspx?id=12391&path=fb",
+    "result": "L",
+    "score": "20-27",
+    "record": "1-5 , 0-0",
+    "duration": "03:46",
+    "attendance": "10436"
+  },
+  {
+    "date": "10/28/2023",
+    "opponent": "vs Lincoln (CA)",
+    "opponentlink": "/boxscore.aspx?id=12392&path=fb",
+    "result": "W",
+    "score": "28-12",
+    "record": "2-5 , 0-0",
+    "duration": "03:29",
+    "attendance": "6013"
+  },
+  {
+    "date": "11/04/2023",
+    "opponent": "at Sam Houston",
+    "opponentlink": "/boxscore.aspx?id=12393&path=fb",
+    "result": "L",
+    "score": "21-24",
+    "record": "2-6 , 0-0",
+    "duration": "03:09",
+    "attendance": "7143"
+  },
+  {
+    "date": "11/11/2023",
+    "opponent": "vs Virginia-Lynchburg",
+    "opponentlink": "/boxscore.aspx?id=12394&path=fb",
+    "result": "W",
+    "score": "63-3",
+    "record": "3-6 , 0-0",
+    "duration": "02:58",
+    "attendance": "5735"
+  }
+]

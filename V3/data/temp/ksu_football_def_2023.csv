@@ -1,0 +1,54 @@
+season,name,major,height,weight,hometown,position,games_played,games_started,solo_tackles,assisted_tackles,total_tackles,tackles_for_loss_yards,sacks_yards,interceptions,pass_deflections,forced_fumbles,fumble_recoveries,blocked_kicks,tackles_for_loss,sacks
+2023,"benefield, michael",psychology,67,200,"atlanta, ga.",rb,8,5,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"benyard, garland",business management,73,215,"ocilla, ga.",lb,4,4,6,13,19,1.0,0.0,0,0,0,0,0,1.0,0.0
+2023,"porter, sidney",public adminstration,72,215,"fort lauderdale, fla.",db,6,3,17,6,23,0.0,0.0,1,1,0,0,0,0.0,0.0
+2023,"wallace, tykeem",criminal justice,69,165,"thomasville, ga.",wr,8,0,3,0,3,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"murphy, jonathan",interdisciplinary studies,72,190,"los angeles, calif.",qb,8,8,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"daniels, preston",sport management,71,260,"sandersville, ga.",te,8,4,0,1,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"benyard, gabriel",sport management,70,185,"ocilla, ga.",rb,4,4,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"bohannon, blake",business management,73,200,"woodstock, ga.",wr,8,8,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"foster, isaac",business management,70,175,"summerville, ga.",wr,8,7,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"barnum, jalen",integrated interdisciplinary studies,73,205,"jesup, ga.",lb,7,2,11,15,26,3.0,0.0,0,2,0,0,0,1.0,0.0
+2023,"williams, jayven",education,74,170,"mobile, ala.",db,4,4,18,5,23,7.0,4.0,0,3,0,0,0,2.5,0.5
+2023,"billingsley, que",sport management,72,195,"phenix city, ala.",db,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"clemons, yesiah",business administration,70,215,"griffin, ga.",rb,8,0,3,2,5,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"bah, sulaiman",information technology,73,185,"lilburn, ga.",db,7,0,1,1,2,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"sawyer, nick",business administration,71,170,"harvest, ala.",db,5,0,1,3,4,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"hallum, tyler",sports marketing,71,180,"marietta, ga.",db,4,3,7,4,11,0.0,0.0,0,1,0,0,0,0.0,0.0
+2023,"montgomery, markeith",sport management,70,190,"flintstone, ga.",db,8,8,29,14,43,32.0,0.0,2,2,0,0,0,9.5,0.0
+2023,"hamilton, five",business entreprenuer,70,165,"stockbridge, ga.",db,2,1,1,0,1,0.0,0.0,0,1,0,0,0,0.0,0.0
+2023,"cole, david",business,76,185,"ooltewah, tenn.",wr,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"brown, rob",business,72,215,"trion, ga.",rb,6,0,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"paul, isaac",sport management,71,160,"panama city, fla.",db,4,2,4,5,9,0.0,0.0,0,1,0,0,0,0.0,0.0
+2023,"ashley, qua",integrated health science,70,190,"dublin, ga.",rb,5,0,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"jr., jerico washington",exercise science,70,165,"atlanta, ga.",db,4,4,11,4,15,0.0,0.0,3,5,0,0,0,0.0,0.0
+2023,"redding, markell",business,72,190,"pensacola, fla.",db,1,0,0,1,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"dean, navelle",exercise science,72,185,"columbus, ga.",wr,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"leiataua, eli",mechanical engineering,71,220,"hinesville, ga.",te,8,0,4,4,8,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"jones, milon",finance,71,185,"marietta, ga.",db,8,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"diggs, alexander",finance,69,200,"snellville, ga.",rb,7,1,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"scarver, amir",computer science,72,210,"douglasville, ga.",lb,1,0,1,2,3,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"donaldson, cj",undeclared,75,230,"metter, ga.",dl,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"hopson, baron",civil engineering,73,215,"leesburg, ga.",lb,4,4,11,13,24,2.0,0.0,0,1,0,0,0,1.5,0.0
+2023,"silas, juandarion",construction management,73,205,"athens, ga.",lb,4,1,8,9,17,9.0,9.0,0,0,0,0,0,1.0,1.0
+2023,"franklin, deldrick",sport management,72,225,"atlanta, ga.",lb,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"richeson, jaden",business marketing,74,225,"virginia beach, va.",dl,2,0,0,1,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"paxton, terrell",interdisciplinary studies,72,315,"stone mountain, ga.",ol,7,6,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"miller, aj",finance,75,275,"rock hill, s.c.",dl,1,0,0,1,1,0.0,0.0,0,0,0,0,0,0.5,0.0
+2023,"johnson, donelius",exercise science,72,230,"patterson, ga.",lb,8,4,20,12,32,19.0,15.0,0,0,2,1,0,4.0,2.0
+2023,"hargrove, trey",pyschology,71,210,"waycross, ga.",lb,1,0,0,2,2,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"barnes, demetric",intergrated studies,76,255,"stone mountain, ga.",dl,8,0,3,6,9,15.0,14.0,0,1,1,0,0,3.5,2.5
+2023,"dardy, ramontei",business management,75,240,"dublin, ga.",dl,1,0,1,2,3,4.0,0.0,0,0,0,0,0,1.0,0.0
+2023,"donald, cameron",exercise science,73,280,"pelzer, s.c.",dl,7,0,5,8,13,5.0,5.0,0,0,0,0,0,1.0,1.0
+2023,"scott, tyler",sport management,73,315,"jackson, ga.",dl,6,4,4,4,8,1.0,0.0,0,0,0,0,0,1.0,0.0
+2023,"jarrett, jaylan",sport management,74,305,"pike road, ala.",dl,1,0,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"hannon, dylan",finance,74,275,"alpharetta, ga.",dl,2,0,0,1,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"finer, connor",business management,74,205,"new port richey, fla.",wr,8,2,0,2,2,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"kent, carson",businesss management,76,240,"milton, ga.",te,8,5,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0
+2023,"agbenou, joshua",interdisciplinary studies,74,245,"bethlehem, ga.",dl,8,3,9,13,22,8.0,5.0,0,1,0,1,0,2.5,1.0
+2023,"nwoha, ugonna",cyber security,75,255,"austell, ga.",dl,4,1,2,1,3,7.0,7.0,0,0,0,0,0,2.0,2.0
+2023,"rucks, jamar",interdisciplinary studies,75,230,"buford, ga.",dl,3,2,1,5,6,1.0,0.0,0,0,0,0,0,0.5,0.0
+2023,"miles, jordan",interdisciplinary studies,74,245,"indianapolis, ind.",dl,8,8,12,10,22,11.0,7.0,0,1,0,0,0,3.0,1.0
+2023,"watkins, adam",integrated health science,72,285,"dacula, ga.",dl,7,3,12,8,20,9.0,7.0,0,1,0,0,0,3.0,2.0
+2023,"walker, thomarius",interdisciplinary studies,73,310,"pensacola, fla.",dl,4,4,5,12,17,6.0,6.0,0,0,0,0,0,1.0,1.0
+2023,"taylor, rj",sports medicine,75,220,"gulf shores, ala.",dl,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0

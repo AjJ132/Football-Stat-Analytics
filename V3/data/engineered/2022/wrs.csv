@@ -1,0 +1,19 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,,"6'0""",160 lbs,Jr.,"Carrollton, Ga.",2022,"cousin, iaan",5,1,28,2.2,11,0,146,13.3,29.2,0.0,0,0,0,0,False
+RB,,"5'9""",170 lbs,Jr.,"Cochran, Ga.",2022,"farrow, nykeem",5,0,72,0.4,2,0,72,36.0,14.4,0.0,0,0,0,0,False
+WR,,"6'4""",230 lbs,Sr.,"Dalton, Ga.",2022,"gonzalez, oscar",9,0,37,0.3,3,0,48,16.0,5.3,,,,,,True
+RB,,"5'11""",255 lbs,Jr.,"Sandersville, Ga.",2022,"daniels, preston",9,8,19,0.1,1,1,19,19.0,2.1,3.3,30,1,4,5,False
+RB,,"5'10""",175 lbs,Gr.,"Summerville, Ga.",2022,"foster, isaac",11,9,40,2.5,27,2,314,11.6,28.5,3.3,36,2,4,6,False
+WR,,"6'3""",195 lbs,Jr.,"Sylvester, Ga.",2022,"marshall, chavis",11,10,38,1.0,11,0,179,16.3,16.3,,,,,,True
+RB,,"5'10""",175 lbs,So.,"Ocilla, Ga.",2022,"benyard, gabriel",9,2,37,1.4,13,2,234,18.0,26.0,1.3,12,2,0,2,False
+RB,,"5'10""",185 lbs,Fr.,"Dublin, Ga.",2022,"ashley, qua",1,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+RB,,"5'9""",160 lbs,So.,"Thomasville, Ga.",2022,"wallace, tykeem",10,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,,"6'0""",205 lbs,Jr.,"Marietta, Ga.",2022,"ledet, marquis",8,1,5,0.1,1,0,5,5.0,0.6,,,,,,False
+RB,,"5'7""",190 lbs,So.,"Atlanta, Ga.",2022,"benefield, michael",10,7,20,0.2,2,0,32,16.0,3.2,0.0,0,0,0,0,False
+RB,,"5'10""",200 lbs,Jr.,"Griffin, Ga.",2022,"clemons, yesiah",11,2,53,0.1,1,1,53,53.0,4.8,0.5,6,1,0,1,False
+RB,,"5'9""",190 lbs,Fr.,"Snellville, Ga.",2022,"diggs, alexander",3,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+TE,,"6'2""",215 lbs,So.,"New Port Richey, Fla.",2022,"finer, connor",10,0,29,0.1,1,0,29,29.0,2.9,,,,,,False
+WR,,"6'1""",200 lbs,So.,"Woodstock, Ga.",2022,"bohannon, blake",11,10,61,1.1,12,1,213,17.8,19.4,0.5,6,1,0,1,True
+WR,,"6'1""",190 lbs,Jr.,"Fort Payne, Ala.",2022,"pinholster, carter",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
+TE,,"6'4""",230 lbs,Fr.,"Milton, Ga.",2022,"kent, carson",1,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+WR,,"6'4""",210 lbs,Fr.,"Johns Creek, Ga.",2022,"darnell, rowan",3,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True

@@ -1,0 +1,19 @@
+position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
+RB,,"5'10""",185 lbs,Sr.,"Conyers, Ga.",2021,"adeleke, adeolu",12,7,42,1.2,14,2,223,15.9,18.6,2.0,24,2,2,4,False
+RB,,"5'11""",215 lbs,Gr.,"Eastman, Ga.",2021,"glover, kyle",13,12,25,0.3,4,1,70,17.5,5.4,0.9,12,1,1,2,False
+WR,,"6'1""",210 lbs,Jr.,"Tallahassee, Fla.",2021,"haigler, will",13,9,32,0.8,11,0,158,14.4,12.2,0.0,0,0,0,0,True
+RB,,"5'10""",170 lbs,Sr.,"Summerville, Ga.",2021,"foster, isaac",3,3,12,0.3,1,0,12,12.0,4.0,0.0,0,0,0,0,False
+WR,,"6'2""",200 lbs,So.,"Pleasant Grove, Ala.",2021,"hill, xavier",9,2,56,1.0,9,4,152,16.9,16.9,2.7,24,4,0,4,True
+RB,,"5'9""",170 lbs,So.,"Cochran, Ga.",2021,"farrow, nykeem",13,5,52,0.5,6,1,100,16.7,7.7,0.9,12,1,2,2,False
+WR,,"6'3""",190 lbs,Jr.,"Sylvester, Ga.",2021,"marshall, chavis",12,0,22,0.1,1,0,22,22.0,1.8,,,,,,True
+WR,,"6'4""",235 lbs,Jr.,"Dalton, Ga.",2021,"gonzalez, oscar",9,1,0,0.0,0,0,0,0.0,0.0,,,,,,True
+RB,,"5'10""",180 lbs,Fr.,"Ocilla, Ga.",2021,"benyard, gabriel",13,2,30,0.4,5,2,73,14.6,5.6,1.4,18,2,1,3,False
+RB,,"5'11""",250 lbs,So.,"Sandersville, Ga.",2021,"daniels, preston",12,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,,"6'0""",190 lbs,So.,"Marietta, Ga.",2021,"ledet, marquis",8,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+RB,,"5'8""",200 lbs,Sr.,"Dallas, Ga.",2021,"smith, irving",9,4,34,0.4,4,0,88,22.0,9.8,,,,,,False
+RB,,"5'10""",200 lbs,So.,"Griffin, Ga.",2021,"clemons, yesiah",11,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
+RB,,"6'0""",165 lbs,So.,"Carrollton, Ga.",2021,"cousin, iaan",13,4,55,1.1,14,2,337,24.1,25.9,2.8,36,2,4,6,False
+WR,,"6'1""",165 lbs,Fr.,"Woodstock, Ga.",2021,"bohannon, blake",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
+WR,,"6'2""",200 lbs,Gr.,"Chickamauga, Ga.",2021,"o'neal, caleb",13,12,51,1.5,19,5,323,17.0,24.8,2.3,30,5,0,5,True
+TE,,"6'2""",220 lbs,Fr.,"New Port Richey, Fla.",2021,"finer, connor",1,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
+WR,,"6'1""",190 lbs,So.,"Fort Payne, Ala.",2021,"pinholster, carter",10,0,48,0.1,1,1,48,48.0,4.8,0.6,6,1,0,1,True

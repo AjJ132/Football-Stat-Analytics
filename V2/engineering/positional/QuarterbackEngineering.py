@@ -8,7 +8,7 @@ from scipy import stats
 import numpy as np
 
 class QuarterbackEngineering:
-    def __init__(self, seasons, seasons_to_aggregate, data_dir, save_dir):
+    def __init__(self, seasons, data_dir, save_dir):
         """
         Constructor for the QuarterbackEngineering class
         """

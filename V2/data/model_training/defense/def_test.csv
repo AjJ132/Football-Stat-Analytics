@@ -1,0 +1,29 @@
+name,season,major,height,weight,hometown,position,games_played,games_started,solo_tackles,assisted_tackles,total_tackles,tackles_for_loss_yards,sacks_yards,interceptions,pass_deflections,forced_fumbles,fumble_recoveries,blocked_kicks,tackles_for_loss,sacks,prev_games_played,prev_games_started,prev_solo_tackles,prev_assisted_tackles,prev_total_tackles,prev_tackles_for_loss,prev_tackles_for_loss_yards,prev_sacks,prev_sacks_yards,prev_interceptions,prev_pass_deflections,prev_forced_fumbles,prev_fumble_recoveries,prev_blocked_kicks
+"ashley, qua",2023,integrated health science,70,190,"dublin, ga.",rb,5,0,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"bah, sulaiman",2023,information technology,73,185,"lilburn, ga.",db,7,0,1,1,2,0.0,0.0,0,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"barnes, demetric",2023,intergrated studies,76,255,"stone mountain, ga.",dl,8,0,3,6,9,15.0,14.0,0,1,1,0,0,3.5,2.5,10.0,1.0,7.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"barnum, jalen",2023,integrated interdisciplinary studies,73,205,"jesup, ga.",lb,7,2,11,15,26,3.0,0.0,0,2,0,0,0,1.0,0.0,11.0,9.0,23.0,25.0,48.0,1.5,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"benefield, michael",2023,psychology,67,200,"atlanta, ga.",rb,8,5,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,10.0,7.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"benyard, gabriel",2023,sport management,70,185,"ocilla, ga.",rb,4,4,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"benyard, garland",2023,business management,73,215,"ocilla, ga.",lb,4,4,6,13,19,1.0,0.0,0,0,0,0,0,1.0,0.0,11.0,10.0,29.0,21.0,50.0,7.0,43.0,3.5,35.0,1.0,3.0,0.0,2.0,0.0
+"bohannon, blake",2023,business management,73,200,"woodstock, ga.",wr,8,8,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,11.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"brown, rob",2023,business,72,215,"trion, ga.",rb,6,0,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"clemons, yesiah",2023,business administration,70,215,"griffin, ga.",rb,8,0,3,2,5,0.0,0.0,0,0,0,0,0,0.0,0.0,11.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"daniels, preston",2023,sport management,71,260,"sandersville, ga.",te,8,4,0,1,1,0.0,0.0,0,0,0,0,0,0.0,0.0,9.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"diggs, alexander",2023,finance,69,200,"snellville, ga.",rb,7,1,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"finer, connor",2023,business management,74,205,"new port richey, fla.",wr,8,2,0,2,2,0.0,0.0,0,0,0,0,0,0.0,0.0,10.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"foster, isaac",2023,business management,70,175,"summerville, ga.",wr,8,7,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,11.0,9.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"johnson, donelius",2023,exercise science,72,230,"patterson, ga.",lb,8,4,20,12,32,19.0,15.0,0,0,2,1,0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"jones, milon",2023,finance,71,185,"marietta, ga.",db,8,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,5.0,0.0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"kent, carson",2023,businesss management,76,240,"milton, ga.",te,8,5,1,0,1,0.0,0.0,0,0,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"leiataua, eli",2023,mechanical engineering,71,220,"hinesville, ga.",te,8,0,4,4,8,0.0,0.0,0,0,0,0,0,0.0,0.0,10.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"montgomery, markeith",2023,sport management,70,190,"flintstone, ga.",db,8,8,29,14,43,32.0,0.0,2,2,0,0,0,9.5,0.0,11.0,10.0,37.0,23.0,60.0,6.0,16.0,0.0,0.0,5.0,12.0,2.0,0.0,0.0
+"murphy, jonathan",2023,interdisciplinary studies,72,190,"los angeles, calif.",qb,8,8,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"nwoha, ugonna",2023,cyber security,75,255,"austell, ga.",dl,4,1,2,1,3,7.0,7.0,0,0,0,0,0,2.0,2.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"paxton, terrell",2023,interdisciplinary studies,72,315,"stone mountain, ga.",ol,7,6,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,10.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"scott, tyler",2023,sport management,73,315,"jackson, ga.",dl,6,4,4,4,8,1.0,0.0,0,0,0,0,0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"silas, juandarion",2023,construction management,73,205,"athens, ga.",lb,4,1,8,9,17,9.0,9.0,0,0,0,0,0,1.0,1.0,6.0,5.0,16.0,11.0,27.0,3.0,13.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+"taylor, rj",2023,sports medicine,75,220,"gulf shores, ala.",dl,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"wallace, tykeem",2023,criminal justice,69,165,"thomasville, ga.",wr,8,0,3,0,3,0.0,0.0,0,0,0,0,0,0.0,0.0,10.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"watkins, adam",2023,integrated health science,72,285,"dacula, ga.",dl,7,3,12,8,20,9.0,7.0,0,1,0,0,0,3.0,2.0,11.0,0.0,7.0,14.0,21.0,2.5,24.0,2.5,24.0,0.0,0.0,0.0,0.0,0.0
+"williams, jayven",2023,education,74,170,"mobile, ala.",db,4,4,18,5,23,7.0,4.0,0,3,0,0,0,2.5,0.5,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

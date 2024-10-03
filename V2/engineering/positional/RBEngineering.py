@@ -24,15 +24,6 @@ class RBEngineering:
             "position": "position",
             "gp": "games_played",
             "gs": "games_started",
-            "pass_stats.pass_yards": "passing_yards",
-            "pass_stats.completions": "pass_completions",
-            "pass_stats.pass_attempts": "pass_attempts",
-            "pass_stats.interceptions": "interceptions_thrown",
-            "pass_stats.pass_td": "passing_touchdowns",
-            "pass_stats.long_comp": "longest_completion",
-            "pass_stats.pass_pct": "pass_completion_percentage",
-            "pass_stats.pass_yrd_avg": "average_yards_per_pass",
-            "pass_stats.average_yards_game": "average_passing_yards_per_game",
             "rush_stats.attempts": "rushing_attempts",
             "rush_stats.yards": "rushing_yards",
             "rush_stats.touchdowns": "rushing_touchdowns",
@@ -43,15 +34,6 @@ class RBEngineering:
         self.rb_features_for_prev_season = [
             'games_played',
             'games_started',
-            'passing_yards',
-            'pass_completions',
-            'pass_attempts',
-            'interceptions_thrown',
-            'passing_touchdowns',
-            'longest_completion',
-            'pass_completion_percentage',
-            'average_yards_per_pass',
-            'average_passing_yards_per_game',
             'rushing_attempts',
             'rushing_yards',
             'rushing_touchdowns',
@@ -59,28 +41,6 @@ class RBEngineering:
             'average_yards_per_rush',
             'average_rushing_yards_per_game'
         ]
-
-    def calculate_passer_rating(self, comp, att, yards, td, int):
-        try:
-            # Convert inputs to float, replacing NaN or None with 0
-            comp = float(comp) if pd.notnull(comp) else 0
-            att = float(att) if pd.notnull(att) else 0
-            yards = float(yards) if pd.notnull(yards) else 0
-            td = float(td) if pd.notnull(td) else 0
-            int = float(int) if pd.notnull(int) else 0
-
-            # If attempts are 0 or all stats are 0, return NaN
-            if att == 0 or (comp == 0 and yards == 0 and td == 0 and int == 0):
-                return np.nan
-
-            a = ((comp/att) - 0.3) * 5
-            b = ((yards/att) - 3) * 0.25
-            c = (td/att) * 20
-            d = 2.375 - ((int/att) * 25)
-            
-            return ((max(min(a, 2.375), 0) + max(min(b, 2.375), 0) + max(min(c, 2.375), 0) + max(min(d, 2.375), 0)) / 6) * 100
-        except (ValueError, TypeError):
-            return np.nan
 
     def convert_height_to_inches(self, height):
         """
@@ -99,46 +59,6 @@ class RBEngineering:
             return None
         return int(re.findall(r'\d+', weight)[0])
     
-    def generate_advanced_stats_for_season(self, season, rb_df):
-        # Ensure advanced stats folder exists
-        if not os.path.exists(f"./data/stats/{season}"):
-            os.makedirs(f"./data/stats/{season}")
-    
-        # Calculate passer rating
-        rb_df['passer_rating'] = rb_df.apply(lambda row: self.calculate_passer_rating(
-            row.get('pass_completions'), row.get('pass_attempts'), 
-            row.get('passing_yards'), row.get('passing_touchdowns'), 
-            row.get('interceptions_thrown')), axis=1)
-    
-        # Calculate Adjusted Yards per Attempt
-        rb_df['ay/a'] = rb_df.apply(lambda row: 
-            (float(row.get('passing_yards', 0)) + 20 * float(row.get('passing_touchdowns', 0)) - 45 * float(row.get('interceptions_thrown', 0))) / 
-            float(row.get('pass_attempts', 1)) if pd.notnull(row.get('pass_attempts')) and float(row.get('pass_attempts', 0)) != 0 else np.nan, axis=1)
-    
-        # Select only numeric columns for correlation and boxplot
-        numeric_columns = rb_df.select_dtypes(include=[np.number]).columns
-    
-        # Ensure 'interceptions_thrown' is included in numeric columns
-        if 'interceptions_thrown' not in numeric_columns:
-            numeric_columns = numeric_columns.append(pd.Index(['interceptions_thrown']))
-    
-        if len(numeric_columns) > 0:
-            # Generate heatmap of correlations
-            plt.figure(figsize=(12, 10))
-            sns.heatmap(rb_df[numeric_columns].corr(), annot=True, cmap='coolwarm')
-            plt.title(f"Correlation Heatmap of rb Stats for {season}")
-            plt.savefig(f"./data/stats/{season}/correlation_heatmap.png")
-            plt.close()
-    
-            # Generate box plots
-            plt.figure(figsize=(12, 6))
-            rb_df[numeric_columns].boxplot()
-            plt.title(f"Distribution of Key rb Stats for {season}")
-            plt.savefig(f"./data/stats/{season}/key_stats_boxplot.png")
-            plt.close()
-        else:
-            print(f"Warning: No numeric columns found for season {season}")
-
     def combine_and_group_data(self):
         """
         Combine all RB data from different seasons into a single dataframe
@@ -228,8 +148,8 @@ class RBEngineering:
         """
         Engineer a new feature for total touchdowns
         """
-        rb_df['total_touchdowns'] = rb_df['passing_touchdowns'] + rb_df['rushing_touchdowns']
-        rb_df['prev_total_touchdowns'] = rb_df['prev_passing_touchdowns'] + rb_df['prev_rushing_touchdowns']
+        rb_df['total_touchdowns'] = rb_df['rushing_touchdowns']
+        rb_df['prev_total_touchdowns'] = rb_df['prev_rushing_touchdowns']
         return rb_df
 
     def engineer_rbs(self):
@@ -240,46 +160,43 @@ class RBEngineering:
 
         for season in self.seasons:
             with open(f"{self.data_dir}/{season}/ksu_football_roster_{season}.json", "r") as f:
-                rb_data = json.load(f)
+                player_data = json.load(f)
 
             # Convert to a pandas dataframe
-            rb_df = pd.DataFrame(rb_data)
+            player_df = pd.DataFrame(player_data)
 
             # Convert all columns to lowercase
-            rb_df.columns = rb_df.columns.str.lower()
+            player_df.columns = player_df.columns.str.lower()
 
             # Convert all string values to lowercase
-            rb_df = rb_df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
+            player_df = player_df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
 
-            # Filter for RBs where position is rb
-            rb_df = rb_df[rb_df["position"] == "rb"]
+            # Filter for players with rushing stats
+            player_df = player_df[player_df["rush_stats.attempts"].notna() & (player_df["rush_stats.attempts"] != 0)]
 
             # Select only the rb features that are available in the dataframe
-            available_features = [col for col in self.rb_features.keys() if col in rb_df.columns]
-            rb_df = rb_df[available_features].rename(columns={col: self.rb_features[col] for col in available_features})
+            available_features = [col for col in self.rb_features.keys() if col in player_df.columns]
+            player_df = player_df[available_features].rename(columns={col: self.rb_features[col] for col in available_features})
 
             # Convert height to inches
-            if 'height' in rb_df.columns:
-                rb_df['height'] = rb_df['height'].apply(self.convert_height_to_inches)
+            if 'height' in player_df.columns:
+                player_df['height'] = player_df['height'].apply(self.convert_height_to_inches)
 
             # Convert weight to numeric
-            if 'weight' in rb_df.columns:
-                rb_df['weight'] = rb_df['weight'].apply(self.convert_weight_to_numeric)
+            if 'weight' in player_df.columns:
+                player_df['weight'] = player_df['weight'].apply(self.convert_weight_to_numeric)
 
             # Insert new season column at beginning of dataframe
-            rb_df.insert(0, "season", season)
+            player_df.insert(0, "season", season)
 
-            all_dfs.append(rb_df)
+            all_dfs.append(player_df)
 
             # Ensure temp folder exists
             if not os.path.exists("./data/temp"):
                 os.makedirs("./data/temp")
 
             # Save the dataframe to a csv file in the temp folder
-            rb_df.to_csv(f"./data/temp/ksu_football_rb_{season}.csv", index=False)
-
-            # Generate some stats
-            # self.generate_advanced_stats_for_season(season, rb_df)
+            player_df.to_csv(f"./data/temp/ksu_football_rb_{season}.csv", index=False)
 
         # Combine all dataframes
         combined_df = pd.concat(all_dfs, ignore_index=True)
@@ -294,14 +211,13 @@ class RBEngineering:
         # Call the combine_and_group_data method
         grouped_df = self.combine_and_group_data()
 
-
         # Call the generate_yoy_features method
         prepped_rb_df = self.generate_yoy_features(grouped_df)
 
-        #engineer touchdowns
+        # Engineer touchdowns
         prepped_rb_df = self.engineer_touchdowns(prepped_rb_df)
 
-        #ensure save directory exists
+        # Ensure save directory exists
         if not os.path.exists(self.save_dir):
             os.makedirs(self.save_dir)
 
@@ -311,10 +227,3 @@ class RBEngineering:
         prepped_rb_df.to_csv(output_path, index=False)
 
         print(f"Combined and grouped data saved to {output_path}")
-
-            
-
-            
-
-
-    

@@ -1,0 +1,12 @@
+{
+    "Most accurate prediction": {
+        "Player": "murphy, jonathan",
+        "Actual": 15.0,
+        "Predicted": 14.865248791884673
+    },
+    "Least accurate prediction": {
+        "Player": "bryson, davis",
+        "Actual": 2.0,
+        "Predicted": 0.6617667930330815
+    }
+}

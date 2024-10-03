@@ -1,0 +1,12 @@
+{
+    "Most accurate prediction": {
+        "Player": "murphy, jonathan",
+        "Actual": 0.0,
+        "Predicted": 0.3146385470155294
+    },
+    "Least accurate prediction": {
+        "Player": "silas, juandarion",
+        "Actual": 17.0,
+        "Predicted": 57.99606885708872
+    }
+}

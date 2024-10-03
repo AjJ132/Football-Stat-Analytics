@@ -1,0 +1,5 @@
+season,name,major,height,weight,hometown,position,games_played,games_started,passing_yards,pass_completions,pass_attempts,interceptions_thrown,passing_touchdowns,longest_completion,pass_completion_percentage,average_yards_per_pass,average_passing_yards_per_game,rushing_attempts,rushing_yards,rushing_touchdowns,longest_rush,average_yards_per_rush,average_rushing_yards_per_game
+2017,"burks, chandler",,70,187,"douglasville, ga.",qb,14,14,1307,76,155,3,9,55,.49,17.2,93.4,255,1103,18,28,4.3,78.8
+2017,"david, daniel",,73,214,"hoschton, ga.",qb,6,0,135,10,19,1,0,44,.53,13.5,22.5,26,67,1,12,2.6,11.2
+2017,"bryant, tommy",,73,190,"tuscaloosa, ala.",qb,6,0,0,0,0,0,0,0,.00,0.0,0.0,13,84,1,51,6.5,14.0
+2017,"o'neal, caleb",,74,186,"chickamauga, ga.",qb,,,,,,,,,,,,,,,,,

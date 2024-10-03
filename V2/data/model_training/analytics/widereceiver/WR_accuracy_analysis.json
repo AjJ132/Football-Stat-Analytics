@@ -1,0 +1,12 @@
+{
+    "Most accurate prediction": {
+        "Player": "wallace, tykeem",
+        "Actual": 1.0,
+        "Predicted": 1.3517642225601594
+    },
+    "Least accurate prediction": {
+        "Player": "benyard, gabriel",
+        "Actual": 5.0,
+        "Predicted": 1.1653508610108714
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Average Games Played": 5.5,
+    "Correlation between Games Played and Prediction Error": 1.0,
+    "Model Performance (Mean Squared Error)": {
+        "Weighted Ensemble": 0.9045130021587517,
+        "Linear Regression": 3.8471969282937684,
+        "Ridge Regression": 0.24241975772410013,
+        "Lasso Regression": 3.4200101784611148,
+        "Random Forest": 0.8390499999999994,
+        "Gradient Boosting": 2.499173544373991,
+        "Neural Network": 1.1770436073855726
+    }
+}

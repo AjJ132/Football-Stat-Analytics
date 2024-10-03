@@ -1,0 +1,10 @@
+name,season,major,height,weight,hometown,position,games_played,games_started,receptions,receiving_yards,receiving_touchdowns,longest_reception,receptions_per_game,average_yards_per_reception,average_receiving_yards_per_game,total_touchdowns,total_points,prev_games_played,prev_games_started,prev_receptions,prev_receiving_yards,prev_receiving_touchdowns,prev_longest_reception,prev_receptions_per_game,prev_average_yards_per_reception,prev_average_receiving_yards_per_game,prev_total_touchdowns,prev_total_points
+"benefield, michael",2023,psychology,67,200,"atlanta, ga.",rb,8,5,4,24,0,15,0.5,6.0,3.0,4.0,24.0,10.0,7.0,2.0,32.0,0.0,20.0,0.2,16.0,3.2,0.0,0.0
+"benyard, gabriel",2023,sport management,70,185,"ocilla, ga.",rb,4,4,14,333,4,61,3.5,23.8,83.3,5.0,30.0,9.0,2.0,13.0,234.0,2.0,37.0,1.4,18.0,26.0,2.0,12.0
+"bohannon, blake",2023,business management,73,200,"woodstock, ga.",wr,8,8,7,152,1,55,0.9,21.7,19.0,1.0,6.0,11.0,10.0,12.0,213.0,1.0,61.0,1.1,17.8,19.4,1.0,6.0
+"clemons, yesiah",2023,business administration,70,215,"griffin, ga.",rb,8,0,2,2,0,1,0.3,1.0,0.3,0.0,0.0,11.0,2.0,1.0,53.0,1.0,53.0,0.1,53.0,4.8,1.0,6.0
+"daniels, preston",2023,sport management,71,260,"sandersville, ga.",te,8,4,8,87,0,30,1.0,10.9,10.9,1.0,6.0,9.0,8.0,1.0,19.0,1.0,19.0,0.1,19.0,2.1,5.0,30.0
+"darnell, rowan",2023,biochemistry,76,220,"johns creek, ga.",te,8,0,6,66,1,31,0.8,11.0,8.3,1.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"foster, isaac",2023,business management,70,175,"summerville, ga.",wr,8,7,19,228,1,44,2.4,12.0,28.5,1.0,6.0,11.0,9.0,27.0,314.0,2.0,40.0,2.5,11.6,28.5,6.0,36.0
+"kent, carson",2023,businesss management,76,240,"milton, ga.",te,8,5,14,165,0,35,1.8,11.8,20.6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"wallace, tykeem",2023,criminal justice,69,165,"thomasville, ga.",wr,8,0,5,85,1,54,0.6,17.0,10.6,1.0,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,12 @@
+{
+    "Most accurate prediction": {
+        "Player": "ashley, qua",
+        "Actual": 0.0,
+        "Predicted": 0.7017817517531648
+    },
+    "Least accurate prediction": {
+        "Player": "daniels, preston",
+        "Actual": 1.0,
+        "Predicted": 6.071715482202597
+    }
+}

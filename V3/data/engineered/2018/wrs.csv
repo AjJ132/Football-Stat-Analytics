@@ -1,22 +1,132 @@
-position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
-RB,,"5'9""",172 lbs,So.,"Bessemer, Ala.",2018,"terry, shaquil",13,12,60,1.0,13,1,215,16.5,16.5,2.8,36,1,5,6,False
-WR,,"6'2""",190 lbs,So.,"Chickamauga, Ga.",2018,"o'neal, caleb",10,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
-RB,,"6'0""",212 lbs,Sr.,"Monroeville, Ala.",2018,"mckenzie, jake",12,12,24,0.6,7,1,114,16.3,9.5,1.0,12,1,1,2,False
-RB,,"5'9""",173 lbs,Jr.,"Daphne, Ala.",2018,"reed, tj",11,0,41,0.5,6,3,125,20.8,11.4,2.7,30,3,2,5,False
-RB,,"5'10""",189 lbs,Fr.,"Conyers, Ga.",2018,"adeleke, adeolu",9,0,1,0.1,1,0,1,1.0,0.1,0.7,6,0,1,1,False
-WR,,"6'3""",217 lbs,Sr.,"Tyrone, Ga.",2018,"sumpter, justin",10,9,41,2.1,21,4,316,15.0,31.6,2.8,28,4,0,4,True
-WR,,"6'0""",194 lbs,Gr.,"Hoschton, Ga.",2018,"harper, xavier",12,10,43,0.7,8,1,105,13.1,8.8,0.5,6,1,0,1,True
-RB,,"5'10""",165 lbs,Fr.,"Summerville, Ga.",2018,"foster, isaac",13,0,38,0.2,3,0,56,18.7,4.3,1.4,18,0,1,3,False
-WR,,"6'2""",197 lbs,Fr.,"Powder Springs, Ga.",2018,"jackson, jalen",1,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
-WR,,"6'1""",210 lbs,So.,"Suwanee, Ga.",2018,"hancock, kj",12,3,40,0.1,1,0,40,40.0,3.3,0.0,0,0,0,0,True
-RB,,"5'11""",200 lbs,Sr.,"Carrollton, Ga.",2018,"chivers, trey",11,0,27,0.5,5,0,69,13.8,6.3,0.5,6,0,1,1,False
-RB,,"5'9""",158 lbs,Fr.,"Jackson, Ga.",2018,"grier, antavius",4,0,4,0.3,1,0,4,4.0,1.0,1.5,6,0,1,1,False
-RB,,"6'0""",230 lbs,Jr.,"Acworth, Ga.",2018,"rechsteiner, bronson",9,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
-WR,,"6'4""",209 lbs,Fr.,"Dalton, Ga.",2018,"gonzalez, oscar",2,0,0,0.0,0,0,0,0.0,0.0,,,,,,True
-RB,,"5'10""",195 lbs,Sr.,"Bowdon, Ga.",2018,"holland, darnell",13,13,65,0.7,9,2,182,20.2,14.0,5.5,72,2,9,12,False
-RB,,"5'6""",187 lbs,Jr.,"Dacula, Ga.",2018,"ficklin, kevin",13,0,55,0.1,1,1,55,55.0,4.2,0.5,6,1,0,1,False
-RB,,"5'11""",204 lbs,So.,"Eastman, Ga.",2018,"glover, kyle",12,1,9,0.1,1,0,9,9.0,0.8,0.5,6,0,1,1,False
-TE,,"6'2""",221 lbs,Fr.,"Hoschton, Ga.",2018,"jackson, adrian",1,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
-WR,,"6'2""",178 lbs,Sr.,"Savannah, Ga.",2018,"walker, jordan",9,3,13,0.1,1,0,13,13.0,1.4,0.0,0,0,0,0,True
-WR,,"6'3""",173 lbs,Fr.,"Cumming, Ga.",2018,"pontrelli, ryan",3,0,10,0.3,1,0,10,10.0,3.3,,,,,,True
-,,"5'10""",168 lbs,Sr.,"Evans, Ga.",2018,"thompson, justin",13,0,0,0.0,0,0,0,0.0,0.0,7.3,95,0,0,0,False
+name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
+"Adeleke,  Adeolu",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,1,1,0,1
+"Adeleke,  Adeolu",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Chivers,  Trey",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,,,,
+"Chivers,  Trey",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,2,29,0,27
+"Chivers,  Trey",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Chivers,  Trey",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Chivers,  Trey",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Chivers,  Trey",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,1,25,0,25
+"Chivers,  Trey",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,1,5,0,5
+"Chivers,  Trey",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,1,10,0,10
+"Chivers,  Trey",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Chivers,  Trey",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Ficklin,  Kevin",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Ficklin,  Kevin",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,1,55,1,55
+"Ficklin,  Kevin",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Ficklin,  Kevin",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Ficklin,  Kevin",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Ficklin,  Kevin",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Ficklin,  Kevin",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Foster,  Isaac",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,,,,
+"Foster,  Isaac",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,,,,
+"Foster,  Isaac",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,2,45,0,38
+"Foster,  Isaac",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Foster,  Isaac",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,1,11,0,11
+"Foster,  Isaac",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Foster,  Isaac",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,,,,
+"Foster,  Isaac",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,,,,
+"Foster,  Isaac",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Foster,  Isaac",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Foster,  Isaac",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,,,,
+"Foster,  Isaac",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Foster,  Isaac",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Glover,  Kyle",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Glover,  Kyle",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Glover,  Kyle",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Glover,  Kyle",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Glover,  Kyle",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,,,,
+"Glover,  Kyle",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,1,9,0,9
+"Glover,  Kyle",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Glover,  Kyle",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Glover,  Kyle",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,,,,
+"Glover,  Kyle",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Grier,  Antavius",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Grier,  Antavius",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Grier,  Antavius",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,1,4,0,4
+"Grier,  Antavius",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Hancock,  Kj",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Hancock,  Kj",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,1,40,0,40
+"Harper,  Xavier",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,2,20,0,14
+"Harper,  Xavier",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,1,6,0,6
+"Harper,  Xavier",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,2,47,0,43
+"Harper,  Xavier",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,2,21,1,15
+"Harper,  Xavier",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,1,11,0,11
+"Holland,  Darnell",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,1,65,1,65
+"Holland,  Darnell",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Holland,  Darnell",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Holland,  Darnell",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,1,25,1,25
+"Holland,  Darnell",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,2,25,0,20
+"Holland,  Darnell",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,1,5,0,5
+"Holland,  Darnell",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,2,19,0,18
+"Holland,  Darnell",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Holland,  Darnell",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Holland,  Darnell",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,1,20,0,20
+"Holland,  Darnell",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Holland,  Darnell",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Mckenzie,  Jake",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,,,,
+"Mckenzie,  Jake",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,1,7,0,7
+"Mckenzie,  Jake",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,2,31,1,19
+"Mckenzie,  Jake",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Mckenzie,  Jake",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Mckenzie,  Jake",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,1,13,0,13
+"Mckenzie,  Jake",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,,,,
+"Mckenzie,  Jake",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,2,47,0,24
+"Mckenzie,  Jake",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Mckenzie,  Jake",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,1,16,0,16
+"Mckenzie,  Jake",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Mckenzie,  Jake",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"O'neal,  Caleb",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Pontrelli,  Ryan",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,1,10,0,10
+"Rechsteiner,  Bronson",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,,,,
+"Rechsteiner,  Bronson",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Rechsteiner,  Bronson",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Rechsteiner,  Bronson",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,,,,
+"Rechsteiner,  Bronson",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Rechsteiner,  Bronson",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Reed,  Tj",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,,,,
+"Reed,  Tj",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,,,,
+"Reed,  Tj",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Reed,  Tj",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,1,23,1,23
+"Reed,  Tj",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,1,25,1,25
+"Reed,  Tj",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,2,27,0,22
+"Reed,  Tj",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Reed,  Tj",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Reed,  Tj",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,1,9,1,9
+"Reed,  Tj",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Reed,  Tj",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,1,41,0,41
+"Sumpter,  Justin",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,7,95,1,23
+"Sumpter,  Justin",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,5,53,1,21
+"Sumpter,  Justin",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,1,24,0,24
+"Sumpter,  Justin",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,3,49,1,24
+"Sumpter,  Justin",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,1,23,0,23
+"Sumpter,  Justin",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,1,6,0,6
+"Sumpter,  Justin",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,1,11,0,11
+"Sumpter,  Justin",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,1,41,0,41
+"Sumpter,  Justin",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,1,14,1,14
+"Terry,  Shaquil",2018,False,30/8/2018,Georgia State,Mostly Sunny,83 deg.,S 6 mph,3:16,7:05 pm,23088,20,20,21,12,20,28,0,6.7,9.4,3,315,66,2,63,0,60
+"Terry,  Shaquil",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,2,38,0,21
+"Terry,  Shaquil",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Terry,  Shaquil",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Terry,  Shaquil",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Terry,  Shaquil",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Terry,  Shaquil",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,,,,
+"Terry,  Shaquil",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,1,24,0,24
+"Terry,  Shaquil",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,2,12,0,6
+"Terry,  Shaquil",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,4,37,1,15
+"Terry,  Shaquil",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,,,,
+"Terry,  Shaquil",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Terry,  Shaquil",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,2,41,0,31
+"Thompson,  Justin",2018,False,27/10/2018,Charleston So,,,,2:57,6:05 pm,1242,206,25.75,9,3,6,14,0,4.5,10.5,0,186,48,,,,
+"Thompson,  Justin",2018,True,8/12/2018,South Dakota State,Light/Heavy Rain,40,E @ 7mph,2:47,2:04 pm,3242,17,17,23,5,6,12,1,8.8,17.7,1,418,64,,,,
+"Thompson,  Justin",2018,True,3/11/2018,Campbell,Sunny,62,1 NW,2:40,2:05 pm,6012,117,39,26,4,4,5,0,14.4,18.0,2,467,63,,,,
+"Thompson,  Justin",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,,,,
+"Thompson,  Justin",2018,False,13/10/2018,Gardner-Webb,"Sunny, Crisp",65,7 mph N,2:45,1:35,4150,208,34.67,10,3,7,20,2,2.7,7.7,0,268,49,,,,
+"Thompson,  Justin",2018,True,17/11/2018,Jacksonville State,Partly Cloudy,64,WNW @ 3,4:12,3:04 PM,16949,136,34,20,3,5,10,2,7.4,14.8,2,425,81,,,,
+"Thompson,  Justin",2018,True,1/12/2018,Wofford,Light Rain/Fog/Mist,54,E @ 9mph,2:55,2:04 pm,3515,96,24,7,3,6,14,1,5.6,13.2,0,242,58,,,,
+"Thompson,  Justin",2018,False,10/11/2018,Monmouth,Sunny,44,,2:56,12:05 PM,2332,262,37.43,11,7,12,20,0,4.2,7.0,0,192,53,,,,
+"Thompson,  Justin",2018,True,22/9/2018,Clark-Atlanta,A few clouds,88,6mph,3:03,6:05 pm,6009,126,63,25,3,6,11,0,4.8,8.8,1,392,70,,,,
+"Thompson,  Justin",2018,True,29/9/2018,Samford,Partly Cloudy,83,6 mph,2:41,6:05 pm,6304,92,23,18,4,5,12,0,5.5,13.2,1,286,67,,,,
+"Thompson,  Justin",2018,False,6/9/2018,Tennessee Tech,Early rain,74,10 mph,3:02,7:03 PM,4118,116,29,17,8,20,33,1,5.6,9.2,1,347,68,,,,
+"Thompson,  Justin",2018,True,15/9/2018,Alabama State,Light Rain,78,NW 6,3:06,6:46 PM,8799,124,41.33,20,4,6,6,0,24.3,24.3,1,563,61,,,,
+"Walker,  Jordan",2018,True,6/10/2018,Presbyterian,,,,2:51,2:05 pm,6414,190,38,34,6,7,10,0,15.2,21.7,2,637,75,1,13,0,13

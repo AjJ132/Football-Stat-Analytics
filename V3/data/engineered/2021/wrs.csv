@@ -1,19 +1,103 @@
-position,major,height,weight,year,hometown,season,name,gp,gs,receiving_stats.longest,receiving_stats.per_game,receiving_stats.recep,receiving_stats.touchdowns,receiving_stats.yards,receiving_stats.yards_comp_pct,receiving_stats.yards_game_pct,scoring_stats.point_avg,scoring_stats.points,scoring_stats.rcpt_td,scoring_stats.rush_td,scoring_stats.touchdowns,is_primary_receiver
-RB,,"5'10""",185 lbs,Sr.,"Conyers, Ga.",2021,"adeleke, adeolu",12,7,42,1.2,14,2,223,15.9,18.6,2.0,24,2,2,4,False
-RB,,"5'11""",215 lbs,Gr.,"Eastman, Ga.",2021,"glover, kyle",13,12,25,0.3,4,1,70,17.5,5.4,0.9,12,1,1,2,False
-WR,,"6'1""",210 lbs,Jr.,"Tallahassee, Fla.",2021,"haigler, will",13,9,32,0.8,11,0,158,14.4,12.2,0.0,0,0,0,0,True
-RB,,"5'10""",170 lbs,Sr.,"Summerville, Ga.",2021,"foster, isaac",3,3,12,0.3,1,0,12,12.0,4.0,0.0,0,0,0,0,False
-WR,,"6'2""",200 lbs,So.,"Pleasant Grove, Ala.",2021,"hill, xavier",9,2,56,1.0,9,4,152,16.9,16.9,2.7,24,4,0,4,True
-RB,,"5'9""",170 lbs,So.,"Cochran, Ga.",2021,"farrow, nykeem",13,5,52,0.5,6,1,100,16.7,7.7,0.9,12,1,2,2,False
-WR,,"6'3""",190 lbs,Jr.,"Sylvester, Ga.",2021,"marshall, chavis",12,0,22,0.1,1,0,22,22.0,1.8,,,,,,True
-WR,,"6'4""",235 lbs,Jr.,"Dalton, Ga.",2021,"gonzalez, oscar",9,1,0,0.0,0,0,0,0.0,0.0,,,,,,True
-RB,,"5'10""",180 lbs,Fr.,"Ocilla, Ga.",2021,"benyard, gabriel",13,2,30,0.4,5,2,73,14.6,5.6,1.4,18,2,1,3,False
-RB,,"5'11""",250 lbs,So.,"Sandersville, Ga.",2021,"daniels, preston",12,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
-RB,,"6'0""",190 lbs,So.,"Marietta, Ga.",2021,"ledet, marquis",8,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
-RB,,"5'8""",200 lbs,Sr.,"Dallas, Ga.",2021,"smith, irving",9,4,34,0.4,4,0,88,22.0,9.8,,,,,,False
-RB,,"5'10""",200 lbs,So.,"Griffin, Ga.",2021,"clemons, yesiah",11,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,False
-RB,,"6'0""",165 lbs,So.,"Carrollton, Ga.",2021,"cousin, iaan",13,4,55,1.1,14,2,337,24.1,25.9,2.8,36,2,4,6,False
-WR,,"6'1""",165 lbs,Fr.,"Woodstock, Ga.",2021,"bohannon, blake",4,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0,0,0,True
-WR,,"6'2""",200 lbs,Gr.,"Chickamauga, Ga.",2021,"o'neal, caleb",13,12,51,1.5,19,5,323,17.0,24.8,2.3,30,5,0,5,True
-TE,,"6'2""",220 lbs,Fr.,"New Port Richey, Fla.",2021,"finer, connor",1,0,0,0.0,0,0,0,0.0,0.0,,,,,,False
-WR,,"6'1""",190 lbs,So.,"Fort Payne, Ala.",2021,"pinholster, carter",10,0,48,0.1,1,1,48,48.0,4.8,0.6,6,1,0,1,True
+name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
+"Adeleke,  Adeolu",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,1,42,1,42
+"Adeleke, Adeolu",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,2,31,0,19
+"Adeleke, Adeolu",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,2,5,0,8
+"Adeleke, Adeolu",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,,,,
+"Adeleke, Adeolu",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,39,1,39
+"Adeleke, Adeolu",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,0,0,0,0
+"Adeleke, Adeolu",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,2,29,0,25
+"Adeleke, Adeolu",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,1,22,0,22
+"Adeleke, Adeolu",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,1,18,0,18
+"Adeleke, Adeolu",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,1,11,0,11
+"Benyard, Gabriel",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,,,,
+"Benyard, Gabriel",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Benyard, Gabriel",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,2,12,1,8
+"Benyard, Gabriel",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,,,,
+"Benyard, Gabriel",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,,,,
+"Benyard, Gabriel",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,,,,
+"Benyard, Gabriel",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,3,61,1,30
+"Clemons,  Yesiah",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Clemons, Yesiah",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,,,,
+"Clemons, Yesiah",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Cousin,  Iaan",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,2,75,0,55
+"Cousin, Iaan",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,1,24,0,24
+"Cousin, Iaan",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,1,19,0,19
+"Cousin, Iaan",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,,,,
+"Cousin, Iaan",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,6,0,6
+"Cousin, Iaan",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,1,10,0,10
+"Cousin, Iaan",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,,,,
+"Cousin, Iaan",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,1,24,0,24
+"Cousin, Iaan",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,,,,
+"Cousin, Iaan",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,1,33,1,33
+"Cousin, Iaan",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,2,28,0,24
+"Daniels, Preston",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,,,,
+"Daniels, Preston",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Daniels, Preston",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,,,,
+"Daniels, Preston",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,,,,
+"Daniels, Preston",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Daniels, Preston",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,0,0,0,0
+"Daniels, Preston",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,,,,
+"Daniels, Preston",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,,,,
+"Daniels, Preston",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,,,,
+"Daniels, Preston",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,,,,
+"Farrow,  Nykeem",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Farrow, Nykeem",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,,,,
+"Farrow, Nykeem",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,,,,
+"Farrow, Nykeem",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,2,58,1,52
+"Farrow, Nykeem",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,2,22,0,22
+"Farrow, Nykeem",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Farrow, Nykeem",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,,,,
+"Farrow, Nykeem",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,,,,
+"Farrow, Nykeem",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,,,,
+"Farrow, Nykeem",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,,,,
+"Farrow, Nykeem",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,0,0,0,0
+"Foster, Isaac",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,12,0,12
+"Foster, Isaac",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,,,,
+"Glover,  Kyle",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Glover, Kyle",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,,,,
+"Glover, Kyle",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,0,0,0,0
+"Glover, Kyle",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,1,14,0,14
+"Glover, Kyle",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,,,,
+"Glover, Kyle",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Glover, Kyle",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,1,25,0,25
+"Glover, Kyle",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,,,,
+"Glover, Kyle",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,,,,
+"Glover, Kyle",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,,,,
+"Glover, Kyle",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,,,,
+"Haigler, Will",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,0,0,0,0
+"Haigler, Will",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,1,32,0,32
+"Haigler, Will",2021,False,23/10/2021,Campbell,Sunny,0,,02:46,4:05pm,5977,117,39,12,5,13,23,2,4.5,8.0,0,188,46,3,28,0,13
+"Haigler, Will",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,6,0,6
+"Haigler, Will",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,1,32,0,32
+"Haigler, Will",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,1,14,0,14
+"Haigler, Will",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,2,35,0,22
+"Haigler, Will",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,1,6,0,6
+"Hill,  Xavier",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,1,4,1,4
+"Hill, Xavier",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,1,56,1,56
+"Hill, Xavier",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,10,0,10
+"Hill, Xavier",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,0,0,0,0
+"Hill, Xavier",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,0,0,0,0
+"Hill, Xavier",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,3,36,2,15
+"Ledet,  Marquis",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,,,,
+"Ledet, Marquis",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Marshall, Chavis",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,0,0,0,0
+"Marshall, Chavis",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,0,0,0,0
+"Marshall, Chavis",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,1,22,0,22
+"O'neal,  Caleb",2021,False,6/11/2021,RMU,Sunny,53,SW 4 mph,3:15,Noon,2144,80,40,24,16,26,37,1,8.0,11.4,2,396,64,5,119,2,48
+"O'neal, Caleb",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,1,11,0,11
+"O'neal, Caleb",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,1,16,0,16
+"O'neal, Caleb",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,1,8,0,8
+"O'neal, Caleb",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,1,27,1,27
+"O'neal, Caleb",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,1,6,0,6
+"O'neal, Caleb",2021,True,02/10/2021,Jacksonville St,Cloudy,81,S 6mph,02:55,03:05 PM,7476,136,34,22,5,5,6,0,12.0,14.4,0,343,68,2,19,0,14
+"O'neal, Caleb",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,1,14,1,14
+"O'neal, Caleb",2021,True,30/10/2021,Gardner-Webb,Cloudy,56,NE 10mph,03:37,01:05 PM,4041,208,34.67,19,7,12,14,0,14.9,17.4,4,417,60,4,84,1,51
+"Pinholster, Carter",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,0,0,0,0
+"Pinholster, Carter",2021,False,13/11/2021,North Ala,Sunny,48,NW 7mph,03:04,02:04 PM,7023,109,36.33,20,9,21,34,2,7.3,11.9,3,330,65,,,,
+"Pinholster, Carter",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,1,48,1,48
+"Smith, Irving",2021,True,16/10/2021,N.C. A T,Sunny,60,N 13mph,03:07,05:05 PM,9556,14,14,21,6,6,13,1,9.9,21.5,0,351,72,2,63,0,34
+"Smith, Irving",2021,True,27/11/2021,Davidson,Sunny,56,W 6mph,02:56,02:02 PM,2764,48,48,21,4,5,8,0,14.0,22.4,1,417,64,,,,
+"Smith, Irving",2021,False,11/09/2021,Georgia Tech,Sunny,79,,03:12,12:11 PM,35195,17,17,20,12,17,23,0,11.0,14.9,4,412,59,0,0,0,0
+"Smith, Irving",2021,True,02/09/2021,Reinhardt,Sunny,78,SE 5mph,03:27,08:05 PM,6348,66,33,24,4,4,9,1,8.0,18.0,0,404,76,,,,
+"Smith, Irving",2021,True,20/11/2021, 24 Monmouth,Sunny,56,E 16mph,03:18,01:05 PM,4630,262,37.43,26,3,4,6,0,16.7,25.0,1,571,73,,,,
+"Smith, Irving",2021,False,18/09/2021,Wofford,Cloudy,84,NW 1mph,03:19,06:04 PM,4597,96,24,12,8,15,28,1,5.6,10.4,0,223,53,1,11,0,11

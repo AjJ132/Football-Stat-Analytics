@@ -1,6 +1,0 @@
-season,name,major,height,weight,hometown,position,games_played,games_started,passing_yards,pass_completions,pass_attempts,interceptions_thrown,passing_touchdowns,longest_completion,pass_completion_percentage,average_yards_per_pass,average_passing_yards_per_game,rushing_attempts,rushing_yards,rushing_touchdowns,longest_rush,average_yards_per_rush,average_rushing_yards_per_game
-2018,"mintz, tye",,71,215,"whittier, nc",qb,2,0,,,,,,,,,,,,,,,
-2018,"burks, chandler",,70,190,"douglasville, ga.",qb,13,13,1043,67,117,6,10,65,.57,15.6,80.2,189,905,29,50,4.8,69.6
-2018,"david, daniel",,73,212,"hoschton, ga.",qb,11,0,201,8,14,1,2,43,.57,25.1,18.3,39,179,5,65,4.6,16.3
-2018,"bryant, tommy",,73,190,"tuscaloosa, ala.",qb,7,0,70,4,4,0,1,55,1.00,17.5,10.0,25,106,1,22,4.2,15.1
-2018,"taitt, donovan",,73,185,"snellville, ga.",qb,5,0,,,,,,,,,,8,31,0,16,3.9,6.2

@@ -1,127 +1,127 @@
 name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
-"Chivers,  Trey",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Chivers,  Trey",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,,,,
-"Chivers,  Trey",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
-"Chivers,  Trey",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Chivers,  Trey",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
 "Chivers,  Trey",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
-"Chivers,  Trey",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
 "Chivers,  Trey",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Chivers,  Trey",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
+"Chivers,  Trey",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Chivers,  Trey",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
+"Chivers,  Trey",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Chivers,  Trey",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
+"Chivers,  Trey",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,,,,
+"Chivers,  Trey",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
 "Chivers,  Trey",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
 "Chivers,  Trey",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,26,1,26
-"Chivers,  Trey",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
 "Ficklin,  Kevin",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Glover,  Kyle",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Glover,  Kyle",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
-"Harper,  Xavier",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,2,33,0,21
-"Harper,  Xavier",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,1,4,0,4
-"Harper,  Xavier",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,53,1,53
-"Harper,  Xavier",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,2,49,0,42
+"Glover,  Kyle",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Harper,  Xavier",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,1,19,0,19
-"Harper,  Xavier",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,18,0,18
+"Harper,  Xavier",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,1,4,0,4
+"Harper,  Xavier",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,2,49,0,42
 "Harper,  Xavier",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,1,6,0,6
+"Harper,  Xavier",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,53,1,53
+"Harper,  Xavier",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,2,33,0,21
+"Harper,  Xavier",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,18,0,18
+"Holland,  Darnell",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,2,34,0,22
+"Holland,  Darnell",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Holland,  Darnell",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,2,25,0,13
+"Holland,  Darnell",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Holland,  Darnell",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,22,0,22
+"Holland,  Darnell",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,1,16,0,16
+"Holland,  Darnell",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
+"Holland,  Darnell",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
 "Holland,  Darnell",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,,,,
 "Holland,  Darnell",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Holland,  Darnell",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,22,0,22
-"Holland,  Darnell",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Holland,  Darnell",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,2,25,0,13
-"Holland,  Darnell",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
-"Holland,  Darnell",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,2,34,0,22
 "Holland,  Darnell",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
-"Holland,  Darnell",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
-"Holland,  Darnell",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
 "Holland,  Darnell",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
 "Holland,  Darnell",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,17,0,17
-"Holland,  Darnell",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,1,16,0,16
-"Mckenzie,  Jake",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,1,12,0,12
-"Mckenzie,  Jake",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,2,35,0,23
-"Mckenzie,  Jake",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,1,12,0,12
-"Mckenzie,  Jake",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,2,31,1,17
-"Mckenzie,  Jake",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Mckenzie,  Jake",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
-"Mckenzie,  Jake",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,18,0,18
 "Mckenzie,  Jake",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
-"Mckenzie,  Jake",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
-"Mckenzie,  Jake",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
 "Mckenzie,  Jake",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Mckenzie,  Jake",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
+"Mckenzie,  Jake",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Mckenzie,  Jake",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,2,31,1,17
+"Mckenzie,  Jake",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Mckenzie,  Jake",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,18,0,18
+"Mckenzie,  Jake",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
+"Mckenzie,  Jake",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,1,12,0,12
+"Mckenzie,  Jake",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,1,12,0,12
+"Mckenzie,  Jake",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,2,35,0,23
+"Mckenzie,  Jake",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Mckenzie,  Jake",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
 "Mckenzie,  Jake",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,,,,
-"Mckenzie,  Jake",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
-"Naylor,  Ezra",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,6,0,6
 "Naylor,  Ezra",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,1,20,0,20
+"Naylor,  Ezra",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,6,0,6
 "Naylor,  Ezra",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
+"Rechsteiner,  Bronson",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
+"Rechsteiner,  Bronson",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Rechsteiner,  Bronson",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
+"Rechsteiner,  Bronson",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,1,9,0,9
+"Rechsteiner,  Bronson",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
+"Rechsteiner,  Bronson",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Rechsteiner,  Bronson",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
+"Rechsteiner,  Bronson",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
 "Rechsteiner,  Bronson",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,2,73,0,48
 "Rechsteiner,  Bronson",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,1,6,0,6
-"Rechsteiner,  Bronson",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
-"Rechsteiner,  Bronson",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Rechsteiner,  Bronson",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
-"Rechsteiner,  Bronson",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
-"Rechsteiner,  Bronson",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
 "Rechsteiner,  Bronson",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
-"Rechsteiner,  Bronson",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,1,9,0,9
-"Rechsteiner,  Bronson",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
 "Rechsteiner,  Bronson",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
 "Rechsteiner,  Bronson",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,,,,
-"Rechsteiner,  Bronson",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
-"Reed,  Tj",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,1,27,1,27
-"Reed,  Tj",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Reed,  Tj",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,2,31,0,19
-"Reed,  Tj",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
-"Reed,  Tj",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Reed,  Tj",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,2,10,0,5
-"Reed,  Tj",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,5,0,5
 "Reed,  Tj",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,1,15,0,15
-"Reed,  Tj",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
-"Reed,  Tj",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
 "Reed,  Tj",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Reed,  Tj",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,2,10,0,5
+"Reed,  Tj",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Reed,  Tj",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
+"Reed,  Tj",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,2,16,0,8
+"Reed,  Tj",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,1,5,0,5
+"Reed,  Tj",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
+"Reed,  Tj",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,1,27,1,27
+"Reed,  Tj",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,2,31,0,19
+"Reed,  Tj",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
+"Reed,  Tj",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Reed,  Tj",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,1,23,1,23
 "Reed,  Tj",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,4,0,4
-"Reed,  Tj",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,2,16,0,8
-"Sumpter,  Justin",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,3,86,0,38
-"Sumpter,  Justin",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,2,13,2,7
-"Sumpter,  Justin",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,3,45,0,26
-"Sumpter,  Justin",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,35,0,35
-"Sumpter,  Justin",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,2,9,1,5
-"Sumpter,  Justin",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,4,23,0,8
-"Sumpter,  Justin",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,2,62,0,33
-"Sumpter,  Justin",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,2,35,0,26
-"Sumpter,  Justin",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,3,56,1,36
 "Sumpter,  Justin",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,3,92,0,44
+"Sumpter,  Justin",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,4,23,0,8
+"Sumpter,  Justin",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,3,56,1,36
+"Sumpter,  Justin",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,35,0,35
+"Sumpter,  Justin",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,2,58,1,55
+"Sumpter,  Justin",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,2,62,0,33
+"Sumpter,  Justin",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,2,9,1,5
+"Sumpter,  Justin",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,3,86,0,38
+"Sumpter,  Justin",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,3,45,0,26
+"Sumpter,  Justin",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,2,13,2,7
+"Sumpter,  Justin",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,2,35,0,26
 "Sumpter,  Justin",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,4,76,0,35
 "Sumpter,  Justin",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,2,20,0,13
-"Sumpter,  Justin",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,2,58,1,55
-"Terry,  Shaquil",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,,,,
-"Terry,  Shaquil",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Terry,  Shaquil",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,1,11,0,11
-"Terry,  Shaquil",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,5,0,5
-"Terry,  Shaquil",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Terry,  Shaquil",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,1,5,0,5
-"Terry,  Shaquil",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
 "Terry,  Shaquil",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,1,6,0,6
-"Terry,  Shaquil",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,2,33,0,32
-"Terry,  Shaquil",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
 "Terry,  Shaquil",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,1,7,0,7
+"Terry,  Shaquil",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,1,5,0,5
+"Terry,  Shaquil",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Terry,  Shaquil",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,1,5,0,5
+"Terry,  Shaquil",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Terry,  Shaquil",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
+"Terry,  Shaquil",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
+"Terry,  Shaquil",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,,,,
+"Terry,  Shaquil",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,1,11,0,11
+"Terry,  Shaquil",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
+"Terry,  Shaquil",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,2,33,0,32
 "Terry,  Shaquil",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,1,14,0,14
 "Terry,  Shaquil",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,1,48,0,48
-"Terry,  Shaquil",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Thompson,  Justin",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
+"Thompson,  Justin",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
+"Thompson,  Justin",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
+"Thompson,  Justin",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Thompson,  Justin",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
+"Thompson,  Justin",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"Thompson,  Justin",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
+"Thompson,  Justin",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
 "Thompson,  Justin",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,,,,
 "Thompson,  Justin",2017,True,25/11/2017,Samford,Partly Cloudy,62,,3:13,2:04 pm,5566,92,23,15,2,5,11,0,4.9,10.8,2,383,61,,,,
-"Thompson,  Justin",2017,False,28/10/2017,Presbyterian,partly cloudy,68,sse 9,2:41,2:36 PM,2804,190,38,16,6,13,28,1,4.2,9.1,0,250,58,,,,
-"Thompson,  Justin",2017,False,14/10/2017,Liberty,Sunny,73,SSE 3,2:54,6:05 PM,17726,98,32.67,20,12,19,26,1,9.0,12.3,2,337,52,,,,
-"Thompson,  Justin",2017,False,16/9/2017,Alabama State,Partly Cloudy,78,E4,2:54,7:54 pm,11000,124,41.33,15,9,20,37,3,4.3,8.0,1,195,66,,,,
-"Thompson,  Justin",2017,True,21/10/2017,Gardner-Webb,Clear,71,ESE 5,2:52,7:05 pm,6954,208,34.67,18,4,6,14,0,10.3,24.0,1,463,70,,,,
-"Thompson,  Justin",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
 "Thompson,  Justin",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
-"Thompson,  Justin",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
-"Thompson,  Justin",2017,True,7/10/2017,Texas Southern,Overcast,78,SE 8,2:39,7:07 pm,6743,48,48,20,4,6,10,0,13.8,23.0,0,484,62,,,,
 "Thompson,  Justin",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,,,,
 "Thompson,  Justin",2017,True,30/9/2017,North Greenville,Sunny,78,WNW 5,3:19,3:37 pm,6161,38,38,21,6,7,13,0,10.2,19.0,1,448,67,,,,
-"Thompson,  Justin",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
-"Trawick,  Tremayne",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Trawick,  Tremayne",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
+"Trawick,  Tremayne",2017,True,11/11/2017,Charleston Southern,Sunny,55,,2:49,3:35 pm,6224,206,25.75,21,3,4,9,0,7.6,17.0,0,411,67,,,,
 "Walker,  Jordan",2017,False,2/12/2017,Jacksonville State,Partly Cloudy,65,NW 2 mph,2:44,1:04 pm,17412,136,34,14,4,15,22,1,4.0,5.9,0,187,51,1,27,0,27
 "Walker,  Jordan",2017,False,9/12/2017,Sam Houston State,Clear,47 deg,NW 1mph,3:06,7:34 pm,5725,48,24,22,13,20,29,1,10.9,15.8,3,482,66,1,7,0,7
-"White,  Myles",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,2,21,0,13
 "White,  Myles",2017,False,4/11/2017,Montana State,"mild, 14"" snow",20 F,0-8 NNW,2:50 hrs,12:07 pm,16337,16,16,14,5,5,18,1,6.1,22.0,1,273,51,,,,
 "White,  Myles",2017,True,18/11/2017,Monmouth,Partly Cloudy,65,,2:50,2:06 pm,6808,262,37.43,26,3,6,8,0,14.3,19.0,1,519,71,,,,
 "White,  Myles",2017,True,9/9/2017,Tennessee Tech,Sunny and clear,74,"ENE, 8",2:57,7:07 pm,8418,116,29,18,4,6,12,0,8.0,16.0,1,405,57,,,,
+"White,  Myles",2017,False,31/8/2017,Samford,Overcast and windy,78,S-18 mph,3:29,6:05 pm,4908,92,23,17,10,16,24,1,10.0,15.1,4,311,59,2,21,0,13

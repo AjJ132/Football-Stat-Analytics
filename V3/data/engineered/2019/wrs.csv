@@ -1,107 +1,107 @@
 name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
+"Adeleke,  Adeolu",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Adeleke,  Adeolu",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
+"Adeleke,  Adeolu",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
 "Adeleke,  Adeolu",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,1,13,0,13
 "Adeleke,  Adeolu",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Adeleke,  Adeolu",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Adeleke,  Adeolu",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Adeleke,  Adeolu",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
-"Cousin,  Iaan",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
 "Cousin,  Iaan",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
 "Cousin,  Iaan",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Daniels,  Preston",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Cousin,  Iaan",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
 "Daniels,  Preston",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Daniels,  Preston",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
 "Farrow,  Nykeem",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Ficklin,  Kevin",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
-"Ficklin,  Kevin",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
-"Ficklin,  Kevin",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Ficklin,  Kevin",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Ficklin,  Kevin",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
 "Ficklin,  Kevin",2019,False,7/12/2019,Weber State,Mostly cloudy,34,SSE 9mph,2:50,1:00 pm,5422,20,20,13,11,20,32,1,7.6,12.2,1,287,52,,,,
-"Ficklin,  Kevin",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Ficklin,  Kevin",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Ficklin,  Kevin",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
+"Ficklin,  Kevin",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
+"Ficklin,  Kevin",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
+"Ficklin,  Kevin",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
 "Ficklin,  Kevin",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
 "Ficklin,  Kevin",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Ficklin,  Kevin",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Ficklin,  Kevin",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
-"Ficklin,  Kevin",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Ficklin,  Kevin",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
 "Ficklin,  Kevin",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,,,,
-"Foster,  Isaac",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
+"Ficklin,  Kevin",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Foster,  Isaac",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,32,0,32
 "Foster,  Isaac",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,1,22,0,22
 "Foster,  Isaac",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,1,23,1,23
-"Foster,  Isaac",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,4,0,4
 "Foster,  Isaac",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
-"Foster,  Isaac",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,32,0,32
+"Foster,  Isaac",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,4,0,4
+"Foster,  Isaac",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
 "Foster,  Isaac",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,2,30,0,24
-"Glover,  Kyle",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
-"Glover,  Kyle",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Glover,  Kyle",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Glover,  Kyle",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
+"Glover,  Kyle",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,,,,
 "Glover,  Kyle",2019,False,7/12/2019,Weber State,Mostly cloudy,34,SSE 9mph,2:50,1:00 pm,5422,20,20,13,11,20,32,1,7.6,12.2,1,287,52,,,,
-"Glover,  Kyle",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Glover,  Kyle",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Glover,  Kyle",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
+"Glover,  Kyle",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
+"Glover,  Kyle",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
+"Glover,  Kyle",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
 "Glover,  Kyle",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
 "Glover,  Kyle",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Glover,  Kyle",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Glover,  Kyle",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
-"Glover,  Kyle",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Glover,  Kyle",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
-"Glover,  Kyle",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
-"Glover,  Kyle",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,,,,
 "Glover,  Kyle",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,,,,
-"Grier,  Antavius",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
-"Grier,  Antavius",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
-"Grier,  Antavius",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
-"Grier,  Antavius",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
-"Grier,  Antavius",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
+"Glover,  Kyle",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
 "Grier,  Antavius",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Grier,  Antavius",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,1,6,0,6
-"Grier,  Antavius",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
 "Grier,  Antavius",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
 "Grier,  Antavius",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,,,,
-"Hancock,  Kj",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,7,0,7
+"Grier,  Antavius",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Grier,  Antavius",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,1,6,0,6
+"Grier,  Antavius",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
+"Grier,  Antavius",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
+"Grier,  Antavius",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,,,,
+"Grier,  Antavius",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
+"Grier,  Antavius",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Hancock,  Kj",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,40,0,40
 "Hancock,  Kj",2019,False,7/12/2019,Weber State,Mostly cloudy,34,SSE 9mph,2:50,1:00 pm,5422,20,20,13,11,20,32,1,7.6,12.2,1,287,52,,,,
 "Hancock,  Kj",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,38,1,38
-"Hancock,  Kj",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,40,0,40
+"Hancock,  Kj",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,7,0,7
+"Jackson,  Jalen",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,1,28,1,28
 "Jackson,  Jalen",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,31,0,31
 "Jackson,  Jalen",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
-"Jackson,  Jalen",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,1,28,1,28
 "Marshall,  Chavis",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
-"O'neal,  Caleb",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,1,20,0,20
-"O'neal,  Caleb",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,16,0,16
-"O'neal,  Caleb",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,1,42,0,42
 "O'neal,  Caleb",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,1,67,1,67
-"O'neal,  Caleb",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,2,12,0,7
 "O'neal,  Caleb",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,14,0,14
-"Pontrelli,  Ryan",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,2,64,0,38
+"O'neal,  Caleb",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,1,20,0,20
+"O'neal,  Caleb",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,2,12,0,7
+"O'neal,  Caleb",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,1,42,0,42
+"O'neal,  Caleb",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,16,0,16
 "Pontrelli,  Ryan",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,1,7,0,7
+"Pontrelli,  Ryan",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,2,64,0,38
 "Pontrelli,  Ryan",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,1,30,0,30
+"Rechsteiner,  Bronson",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Rechsteiner,  Bronson",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
 "Rechsteiner,  Bronson",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,2,21,0,16
+"Rechsteiner,  Bronson",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
+"Rechsteiner,  Bronson",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
 "Rechsteiner,  Bronson",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,13,0,13
-"Rechsteiner,  Bronson",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,4,0,4
 "Rechsteiner,  Bronson",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
 "Rechsteiner,  Bronson",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Rechsteiner,  Bronson",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Rechsteiner,  Bronson",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,,,,
-"Rechsteiner,  Bronson",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,,,,
-"Rechsteiner,  Bronson",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
 "Rechsteiner,  Bronson",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,,,,
-"Reed,  Tj",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,27,0,27
-"Reed,  Tj",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Rechsteiner,  Bronson",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,4,0,4
+"Reed,  Tj",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
+"Reed,  Tj",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,2,41,0,35
 "Reed,  Tj",2019,False,7/12/2019,Weber State,Mostly cloudy,34,SSE 9mph,2:50,1:00 pm,5422,20,20,13,11,20,32,1,7.6,12.2,1,287,52,1,10,1,10
-"Reed,  Tj",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Reed,  Tj",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,,,,
+"Reed,  Tj",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
+"Reed,  Tj",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
+"Reed,  Tj",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,19,1,19
+"Reed,  Tj",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,27,0,27
 "Reed,  Tj",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,,,,
 "Reed,  Tj",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Reed,  Tj",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,,,,
-"Reed,  Tj",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,,,,
-"Reed,  Tj",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,19,1,19
-"Reed,  Tj",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,,,,
-"Reed,  Tj",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,2,41,0,35
 "Reed,  Tj",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,,,,
-"Terry,  Shaquil",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
-"Terry,  Shaquil",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,28,0,28
-"Terry,  Shaquil",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,1,4,0,4
+"Reed,  Tj",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,,,,
+"Terry,  Shaquil",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,1,66,0,66
+"Terry,  Shaquil",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,5,91,2,26
+"Terry,  Shaquil",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,21,0,21
 "Terry,  Shaquil",2019,False,7/12/2019,Weber State,Mostly cloudy,34,SSE 9mph,2:50,1:00 pm,5422,20,20,13,11,20,32,1,7.6,12.2,1,287,52,,,,
-"Terry,  Shaquil",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,8,0,8
+"Terry,  Shaquil",2019,False,14/9/2019,Alabama State,Partly Cloudy,93,E at 4,2:43,5:00 pm,15887,124,41.33,14,7,14,29,2,5.4,11.2,1,202,54,1,4,0,4
+"Terry,  Shaquil",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,2,30,1,25
+"Terry,  Shaquil",2019,False,30/11/2019,Wofford,cloudy,60,SSE at 3,2:45,4:04 pm,1992,96,24,12,8,11,20,0,8.6,15.5,1,282,56,,,,
+"Terry,  Shaquil",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,1,28,0,28
+"Terry,  Shaquil",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,34,1,34
+"Terry,  Shaquil",2019,True,12/10/2019,Charleston Southern,Partly Cloudy,74,vrbl @ 6,3:17,3:05 pm,8258,206,25.75,17,4,5,10,0,10.6,21.2,0,448,61,1,28,0,28
 "Terry,  Shaquil",2019,True,2/11/2019,Monmouth,Clear,60,Light,3:16,2:05 PM,4464,262,37.43,18,3,3,16,1,7.2,38.3,1,407,61,1,60,1,60
 "Terry,  Shaquil",2019,True,26/10/2019,North Alabama,Windy & Overcast,71 deg,,2:48,3:05,4546,109,36.33,26,0,0,4,0,0.0,0.0,0,490,67,,,,
-"Terry,  Shaquil",2019,False,16/11/2019,Hampton,cloudy,40s,much,2:43,1 pm,3612,84,42,11,4,12,27,3,2.4,5.4,1,126,52,1,66,0,66
-"Terry,  Shaquil",2019,False,19/10/2019,Presbyterian,"rainy, wet",53,n8,2:47,2:30 pm,1635,190,38,13,2,6,13,1,4.8,10.3,1,219,51,2,30,1,25
-"Terry,  Shaquil",2019,True,31/8/2019,Point University,Partly cloudy,Mid 80s,Calm,2:49,6:05 PM,6621,164,54.67,24,5,6,7,0,22.7,26.5,3,592,62,1,34,1,34
-"Terry,  Shaquil",2019,False,9/11/2019,Campbell,Sunny,51,W 1mph,3:10,1:05 PM,5039,117,39,24,12,15,33,2,7.1,15.5,1,386,71,5,91,2,26
-"Terry,  Shaquil",2019,False,21/9/2019,Missouri State,Mostly Cloudy,81,S 15,3:07,2:05 pm,11421,35,35,23,13,28,46,0,6.3,10.4,2,385,81,1,28,0,28
-"Terry,  Shaquil",2019,False,7/9/2019,KENTST,Partly cloudy,69,NW 8,3:20,12:05 PM,18679,23,23,16,8,17,23,0,8.3,11.3,1,337,59,1,21,0,21
 "Terry,  Shaquil",2019,True,28/9/2019,Reinhardt,"Partly Cloudy, Muggy",89,None,2:41,6:05 pm,7414,66,33,9,2,3,6,1,10.0,20.0,0,264,38,,,,
+"Terry,  Shaquil",2019,True,23/11/2019,Gardner-Webb,Periods of Rain,62,S at 6,3:00,2:05 pm,4383,208,34.67,17,2,3,6,0,4.7,9.3,0,350,59,1,8,0,8

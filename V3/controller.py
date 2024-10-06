@@ -1,6 +1,6 @@
 import os
 import json
-import pandas
+import pandas as pd
 
 from scrapers.FootballRosterScraper import FootballRosterScraper
 from scrapers.FootballGameStatsScraper import FootballGameStatsScraper
@@ -9,13 +9,15 @@ from engineering.FootballDataEngineeringCoordinatorV2 import FootballDataEnginee
 from machine_learning.Cleaning.GeneralCleaning import GeneralCleaning
 from machine_learning.UniversalMachineLearningController import UniversalMachineLearningController
 
+from util.MachineLearningTypes import MachineLearningType
+
 
 def main():
     """
     Main function of the program
     """
 
-    #ensure the directories are created
+    # Ensure the directories are created
     directories = [
         'data',
         'data/temp',
@@ -24,25 +26,24 @@ def main():
         'data/engineered',
         'data/prepped',
         'data/ml_ready',
+        'data/predictions',
         'machine_learning',
-
     ]
 
     for directory in directories:
         if not os.path.exists(directory):
             os.makedirs(directory)
 
-    #clean the temp directory
+    # Clean the temp directory
     for file in os.listdir('./data/temp'):
         os.remove(f'./data/temp/{file}')
 
+    # Define the seasons to scrape, train, and test upon 
+    all_seasons = ["2017", "2018", "2019", "2021", "2022", "2023", "2024"]
+    training_seasons = ["2017", "2018", "2019", "2021", "2022", "2023"]
+    test_season = "2024"
 
-    #define the seasons to scrape, train, and test upon 
-    all_seasons = ["2017", "2018", "2019","2021", "2022", "2023", "2024"]
-    training_seasons = ["2017", "2018", "2019", "2021", "2022"]
-    test_season = "2023"
-
-    #scrape roster data from the web
+    # Scrape roster data from the web
     roster_scraper = FootballRosterScraper(
         seasons=all_seasons,
     )
@@ -65,38 +66,39 @@ def main():
 
     # coordinator.engineer_all_positions()
 
-    #clean the data
+    # Clean the data
     cleaner = GeneralCleaning()
 
-    #load data from file
-    wr_data = pandas.read_csv('data/prepped/wrs.csv')
+    # Load data from file
+    wr_data = pd.read_csv('data/prepped/wrs.csv')
     wr_data_cleaned = cleaner.clean_data(wr_data)
-    
-    
-    # print(wr_data['temperature'].unique())
 
-    #save the cleaned data
+    # Save the cleaned data
     wr_data_cleaned.to_csv('data/ml_ready/wrs.csv', index=False)
 
-    #load WR features from file
-    wr_features = {}
+    # Load WR features from file
     with open('features/wr_features.json', 'r') as f:
         wr_features = json.load(f)
 
-    #run machine learning predictions
+    # Get machine learning models to use
+    ml_models_to_use = [
+        MachineLearningType.LINEAR_REGRESSION,
+        MachineLearningType.RANDOM_FOREST
+    ]
+
+    # Run machine learning predictions
     machine_learning_controller = UniversalMachineLearningController(
         data_path='data/ml_ready/wrs.csv',
+        save_predictions_path='data/predictions/wr_predictions.csv',
         target='receiving_offensive_yds',
         features=wr_features,
         training_seasons=training_seasons,
         test_season=test_season,
-        models_to_use=['LinearRegression', 'RandomForestRegressor', 'GradientBoostingRegressor']
+        models_to_use=ml_models_to_use
     )
 
     machine_learning_controller.run_ensemble()
 
 
-
-    
 if __name__ == '__main__':
     main()

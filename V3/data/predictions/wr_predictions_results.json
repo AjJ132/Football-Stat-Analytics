@@ -1,0 +1,61 @@
+{
+  "features": [
+    "temperature",
+    "temp_was_missing",
+    "is_home_game",
+    "wind",
+    "duration",
+    "kickoff_time",
+    "attendance",
+    "total_points_scored",
+    "average_points_scored",
+    "total_first_downs",
+    "passing_first_downs",
+    "team_qb_passing_completions",
+    "team_qb_passing_attempts",
+    "team_qb_passing_interceptions",
+    "team_qb_passing_avg_per_attempt",
+    "team_qb_passing_avg_per_completion",
+    "team_qb_passing_touchdowns",
+    "team_total_offense_yards",
+    "team_total_offense_plays",
+    "receiving_offensive_rec",
+    "receiving_offensive_yds",
+    "receiving_offensive_td",
+    "receiving_offensive_long",
+    "is_windy",
+    "is_foggy",
+    "cloud_cover",
+    "weather_cloudy",
+    "weather_other",
+    "weather_overcast",
+    "weather_rainy",
+    "weather_snowy",
+    "weather_sunny",
+    "game_number"
+  ],
+  "target": "receiving_offensive_yds",
+  "training_seasons": [
+    "2017",
+    "2018",
+    "2019",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "test_season": "2024",
+  "models": {
+    "Linear Regression": {
+      "mse": 1.2075488306670638e-27,
+      "r2": 1.0
+    },
+    "Random Forest": {
+      "mse": 0.12248437499999984,
+      "r2": 0.9995455915599095
+    },
+    "Ensemble": {
+      "mse": 0.030621093750000723,
+      "r2": 0.9998863978899774
+    }
+  }
+}

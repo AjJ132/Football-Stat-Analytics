@@ -100,13 +100,15 @@ class EnsembleLearning:
             predictions = model.predict(X_test)
             mse = mean_squared_error(y_test, predictions)
             r2 = r2_score(y_test, predictions)
+            accuracy = self.calculate_accuracy_percentage(y_test, predictions)
             results['models'][name] = {
                 'predictions': predictions,
                 'mse': mse,
                 'r2': r2,
-                'cv_rmse': cv_rmse
+                'cv_rmse': cv_rmse,
+                'accuracy': accuracy
             }
-            print(f"{name} - MSE: {mse:.4f}, R2: {r2:.4f}, CV RMSE: {cv_rmse:.4f}")
+            print(f"{name} - MSE: {mse:.4f}, R2: {r2:.4f}, CV RMSE: {cv_rmse:.4f}, Accuracy: {accuracy:.2f}%")
 
         if self.prune_models:
             results = self.prune_poor_models(results)
@@ -122,12 +124,14 @@ class EnsembleLearning:
 
         ensemble_mse = mean_squared_error(y_test, ensemble_predictions)
         ensemble_r2 = r2_score(y_test, ensemble_predictions)
+        ensemble_accuracy = self.calculate_accuracy_percentage(y_test, ensemble_predictions)
         results['models']['Weighted Ensemble'] = {
             'predictions': ensemble_predictions,
             'mse': ensemble_mse,
-            'r2': ensemble_r2
+            'r2': ensemble_r2,
+            'accuracy': ensemble_accuracy
         }
-        print(f"Weighted Ensemble - MSE: {ensemble_mse:.4f}, R2: {ensemble_r2:.4f}")
+        print(f"Weighted Ensemble - MSE: {ensemble_mse:.4f}, R2: {ensemble_r2:.4f}, Accuracy: {ensemble_accuracy:.2f}%")
 
         return results
     
@@ -155,16 +159,20 @@ class EnsembleLearning:
         
         for model_name, model_result in model_results.items():
             predictions_df[f'{model_name}_predictions'] = model_result['predictions']
-    
-        # Move the Weighted Ensemble column to right after the target column
+            predictions_df[f'{model_name}_accuracy'] = model_result['accuracy']
+
+        # Move the Weighted Ensemble columns to right after the target column
         cols = list(predictions_df.columns)
         target_index = cols.index(self.target)
-        weighted_ensemble_col = 'Weighted Ensemble_predictions'
-        if weighted_ensemble_col in cols:
-            cols.remove(weighted_ensemble_col)
-            cols.insert(target_index + 1, weighted_ensemble_col)
+        weighted_ensemble_pred_col = 'Weighted Ensemble_predictions'
+        weighted_ensemble_acc_col = 'Weighted Ensemble_accuracy'
+        if weighted_ensemble_pred_col in cols and weighted_ensemble_acc_col in cols:
+            cols.remove(weighted_ensemble_pred_col)
+            cols.remove(weighted_ensemble_acc_col)
+            cols.insert(target_index + 1, weighted_ensemble_pred_col)
+            cols.insert(target_index + 2, weighted_ensemble_acc_col)
         predictions_df = predictions_df[cols]
-    
+
         predictions_file = os.path.join(self.predictions_path, f'{self.position}_ensemble_predictions_{self.test_season}.csv')
         predictions_df.to_csv(predictions_file, index=False)
         print(f"Predictions exported to {predictions_file}")
@@ -182,3 +190,15 @@ class EnsembleLearning:
     def analyze_results(self, df):
         analyzer = ResultsAnalyzer(df, self.analytics_path, self.position, self.target)
         analyzer.run_analysis()
+
+    def calculate_accuracy_percentage(self, y_true, y_pred, error_margin=10):
+        """
+        Calculate the percentage of predictions within the error margin of the true values.
+        
+        :param y_true: Array-like of true values
+        :param y_pred: Array-like of predicted values
+        :param error_margin: The acceptable error margin (default 10 yards)
+        :return: Accuracy percentage
+        """
+        within_margin = np.abs(y_true - y_pred) <= error_margin
+        return np.mean(within_margin) * 100

@@ -64,17 +64,17 @@ def main():
         machine_learning_dir="data/prepped",
     )
 
-    # coordinator.engineer_all_positions()
+    coordinator.engineer_all_positions()
 
     # Clean the data
     cleaner = GeneralCleaning()
 
     # Load data from file
-    wr_data = pd.read_csv('data/prepped/wrs.csv')
-    wr_data_cleaned = cleaner.clean_data(wr_data)
+    # wr_data = pd.read_csv('data/prepped/wrs.csv')
+    # wr_data_cleaned = cleaner.clean_data(wr_data)
 
-    # Save the cleaned data
-    wr_data_cleaned.to_csv('data/ml_ready/wrs.csv', index=False)
+    # # Save the cleaned data
+    # wr_data_cleaned.to_csv('data/ml_ready/wrs.csv', index=False)
 
     # Load WR features from file
     with open('features/wr_features.json', 'r') as f:
@@ -97,7 +97,7 @@ def main():
         models_to_use=ml_models_to_use
     )
 
-    machine_learning_controller.run_ensemble()
+    # machine_learning_controller.run_ensemble()
 
 
 if __name__ == '__main__':

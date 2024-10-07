@@ -182,7 +182,7 @@ def main():
         position="QB"
     )
 
-    qb_model.run_ensemble_pipeline()
+    # qb_model.run_ensemble_pipeline()
 
     rb_features = [
         'prev_games_played', 'prev_games_started', 'prev_rushing_attempts',
@@ -224,7 +224,7 @@ def main():
         position="WR"
     )
 
-    # wr_model.run_ensemble_pipeline()
+    wr_model.run_ensemble_pipeline()
 
 
     end_time = time.time()

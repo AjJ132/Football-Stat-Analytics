@@ -1,90 +1,90 @@
-name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
-"Benefield,  Michael",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,,,,
-"Benefield,  Michael",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,,,,
-"Benefield, Michael",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0
-"Benefield, Michael",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,,,,
-"Benefield, Michael",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,1,20,0,20
-"Benefield, Michael",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0
-"Benefield, Michael",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,1,12,0,12
-"Benefield, Michael",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,,,,
-"Benyard,  Gabriel",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,1,15,0,15
-"Benyard, Gabriel",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,4,64,0,34
-"Benyard, Gabriel",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,2,17,0,10
-"Benyard, Gabriel",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,2,61,1,37
-"Benyard, Gabriel",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,1,10,0,10
-"Benyard, Gabriel",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0
-"Benyard, Gabriel",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,1,5,0,5
-"Benyard, Gabriel",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0
-"Bohannon,  Blake",2022,False,5/11/2022,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,1,61,1,61
-"Bohannon,  Blake",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,1,19,0,19
-"Bohannon, Blake",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,2,13,0,10
-"Bohannon, Blake",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,1,9,0,9
-"Bohannon, Blake",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0
-"Bohannon, Blake",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,3,50,0,18
-"Bohannon, Blake",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,1,26,0,26
-"Bohannon, Blake",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,1,9,0,9
-"Bohannon, Blake",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,1,12,0,12
-"Bohannon, Blake",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,1,14,0,14
-"Clemons,  Yesiah",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,,,,
-"Clemons, Yesiah",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,,,,
-"Clemons, Yesiah",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,1,53,1,53
-"Clemons, Yesiah",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,,,,
-"Clemons, Yesiah",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,,,,
-"Clemons, Yesiah",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,,,,
-"Cousin,  Iaan",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,6,56,0,28
-"Cousin, Iaan",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0
-"Cousin, Iaan",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,1,19,0,19
-"Cousin, Iaan",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,4,71,0,24
-"Cousin, Iaan",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0
-"Daniels,  Preston",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,,,,
-"Daniels,  Preston",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,,,,
-"Daniels, Preston",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,,,,
-"Daniels, Preston",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,,,,
-"Daniels, Preston",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,,,,
-"Daniels, Preston",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,,,,
-"Daniels, Preston",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0
-"Daniels, Preston",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,1,19,1,19
-"Farrow,  Nykeem",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,1,72,0,72
-"Farrow,  Nykeem",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,,,,
-"Farrow, Nykeem",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0
-"Farrow, Nykeem",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,1,0,0,0
-"Farrow, Nykeem",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0
-"Finer,  Connor",2022,False,5/11/2022,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,,,,
-"Finer, Connor",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0
-"Finer, Connor",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,1,29,0,29
-"Foster,  Isaac",2022,False,5/11/2022,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,,,,
-"Foster,  Isaac",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,,,,
-"Foster,  Isaac",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,4,32,0,17
-"Foster, Isaac",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,4,61,1,26
-"Foster, Isaac",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,5,76,1,40
-"Foster, Isaac",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,3,24,0,15
-"Foster, Isaac",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,3,22,0,11
-"Foster, Isaac",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,2,14,0,9
-"Foster, Isaac",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,3,35,0,18
-"Foster, Isaac",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,2,37,0,32
-"Foster, Isaac",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,1,13,0,13
-"Gonzalez,  Oscar",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,1,5,0,5
-"Gonzalez, Oscar",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,1,6,0,6
-"Gonzalez, Oscar",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0
-"Gonzalez, Oscar",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0
-"Gonzalez, Oscar",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0
-"Gonzalez, Oscar",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,1,37,0,37
-"Ledet,  Marquis",2022,False,5/11/2022,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,,,,
-"Ledet,  Marquis",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,1,5,0,5
-"Ledet,  Marquis",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,,,,
-"Ledet, Marquis",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0
-"Ledet, Marquis",2022,False,10/09/2022,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,,,,
-"Marshall,  Chavis",2022,False,1/9/2022,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,1,38,0,38
-"Marshall, Chavis",2022,True,22/10/2022,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,2,10,0,5
-"Marshall, Chavis",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,2,24,0,18
-"Marshall, Chavis",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,3,48,0,30
-"Marshall, Chavis",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,2,30,0,21
-"Marshall, Chavis",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0
-"Marshall, Chavis",2022,True,12/11/2022,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0
-"Marshall, Chavis",2022,False,19/11/2022,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,1,29,0,29
-"Wallace,  Tykeem",2022,False,5/11/2022,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,,,,
-"Wallace,  Tykeem",2022,True,24/9/2022,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,,,,
-"Wallace, Tykeem",2022,True,08/10/2022,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,,,,
-"Wallace, Tykeem",2022,True,29/10/2022,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,,,,
-"Wallace, Tykeem",2022,True,15/10/2022,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,,,,
-"Wallace, Tykeem",2022,False,01/10/2022,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,136,34,14,8,12,23,1,9.7,18.7,2,336,57,,,,
+name,season,is_home_game,opponent,prev_game_weather,prev_game_temperature,prev_game_wind,prev_game_duration,prev_game_kickoff_time,prev_game_attendance,prev_game_total_points_scored,prev_game_average_points_scored,prev_game_total_first_downs,prev_game_passing_first_downs,prev_qb_passing_completions,prev_qb_passing_attempts,prev_qb_passing_interceptions,prev_qb_passing_avg_per_attempt,prev_qb_passing_avg_per_completion,prev_qb_passing_touchdowns,prev_total_offense_yards,prev_total_offense_plays,prev_game_receiving_yards,prev_game_receptions,prev_game_touchdowns,prev_game_longest_reception,prev_first_downs
+"Benefield,  Michael",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Benefield,  Michael",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Benefield, Michael",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Benefield, Michael",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Benefield, Michael",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Benefield, Michael",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Benefield, Michael",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Benefield, Michael",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Benyard,  Gabriel",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Benyard, Gabriel",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Benyard, Gabriel",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Benyard, Gabriel",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Benyard, Gabriel",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Benyard, Gabriel",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Benyard, Gabriel",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Benyard, Gabriel",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Bohannon,  Blake",2022,False,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,0,0,0,0,0
+"Bohannon,  Blake",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Bohannon, Blake",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Bohannon, Blake",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Bohannon, Blake",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Bohannon, Blake",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Bohannon, Blake",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Bohannon, Blake",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Bohannon, Blake",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Bohannon, Blake",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Clemons,  Yesiah",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Clemons, Yesiah",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Clemons, Yesiah",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Clemons, Yesiah",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Clemons, Yesiah",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Clemons, Yesiah",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Cousin,  Iaan",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Cousin, Iaan",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Cousin, Iaan",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Cousin, Iaan",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Cousin, Iaan",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Daniels,  Preston",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Daniels,  Preston",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Daniels, Preston",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Daniels, Preston",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Daniels, Preston",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Daniels, Preston",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Daniels, Preston",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Daniels, Preston",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Farrow,  Nykeem",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Farrow,  Nykeem",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Farrow, Nykeem",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Farrow, Nykeem",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Farrow, Nykeem",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Finer,  Connor",2022,False,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,0,0,0,0,0
+"Finer, Connor",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Finer, Connor",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Foster,  Isaac",2022,False,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,0,0,0,0,0
+"Foster,  Isaac",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Foster,  Isaac",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Foster, Isaac",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Foster, Isaac",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Foster, Isaac",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Foster, Isaac",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Foster, Isaac",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Foster, Isaac",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Foster, Isaac",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Foster, Isaac",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Gonzalez,  Oscar",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Gonzalez, Oscar",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Gonzalez, Oscar",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Gonzalez, Oscar",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Gonzalez, Oscar",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Gonzalez, Oscar",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Ledet,  Marquis",2022,False,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,0,0,0,0,0
+"Ledet,  Marquis",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Ledet,  Marquis",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Ledet, Marquis",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Ledet, Marquis",2022,False,Cincinnati,Sunny,,,03:23,03:32 PM,39015,10,10,24,15,20,23,0,12.7,14.7,3,525,53,0,0,0,0,0
+"Marshall,  Chavis",2022,False,Samford,Partly Cloudy,89,,3:04,6 p.m.,5333,92,23,21,11,18,24,0,12.0,16.1,4,402,56,0,0,0,0,0
+"Marshall, Chavis",2022,False,Eastern Ky,Sunny,,,03:17,03:02 PM,7053,38,38,22,16,25,35,0,12.2,17.1,5,564,59,0,0,0,0,0
+"Marshall, Chavis",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Marshall, Chavis",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Marshall, Chavis",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Marshall, Chavis",2022,True,Austin Peay,Cloudy,63,NW 11mph,03:50,01:02 PM,5201,14,14,17,4,8,19,3,5.7,13.5,0,266,70,0,0,0,0,0
+"Marshall, Chavis",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0
+"Marshall, Chavis",2022,True,Tennessee Tech,Sunny,70,N 5mph,03:36,03:02 PM,7906,116,29,29,10,15,24,0,9.3,14.9,1,493,81,0,0,0,0,0
+"Wallace,  Tykeem",2022,False,UT Martin,Cloudy,62,15 mph N,3:34,12 p.m.,3408,57,28.5,19,14,28,46,5,6.2,10.2,2,373,65,0,0,0,0,0
+"Wallace,  Tykeem",2022,True,Wofford,Sunny,78,SW 7mph,03:04,6:03pm,7830,96,24,20,7,11,14,0,7.6,9.7,0,328,63,0,0,0,0,0
+"Wallace, Tykeem",2022,True,Central Ark,Sunny,67,SW 5mph,03:22,01:02 PM,4467,24,24,20,11,14,30,1,7.0,15.1,1,392,75,0,0,0,0,0
+"Wallace, Tykeem",2022,True,Charleston So,Cloudy,59,NE 10mph,03:15,01:03 PM,3845,206,25.75,17,7,11,25,1,6.3,14.4,1,325,76,0,0,0,0,0
+"Wallace, Tykeem",2022,False,Jacksonville St,Sunny,74,SE 10mph,03:21,01:02 PM,19654,160,32,14,8,12,23,1,9.7,18.7,2,336,57,0,0,0,0,0
+"Wallace, Tykeem",2022,True,North Ala,Sunny,70,S 10mph,03:42,06:02 PM,4505,109,36.33,27,10,13,18,0,9.6,13.2,2,449,87,0,0,0,0,0

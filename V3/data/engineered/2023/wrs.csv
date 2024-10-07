@@ -1,76 +1,76 @@
-name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
-"Ashley, Qua",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,,,,
-"Ashley, Qua",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,,,,
-"Ashley, Qua",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,,,,
-"Benefield, Michael",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,1,3,0,3
-"Benefield, Michael",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0
-"Benefield, Michael",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,1,0,0,0
-"Benefield, Michael",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,2,21,0,15
-"Benefield, Michael",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,,,,
-"Benefield, Michael",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,,,,
-"Benefield, Michael",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,,,,
-"Benefield, Michael",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,,,,
-"Benyard, Gabriel",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,2,40,0,21
-"Benyard, Gabriel",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,6,136,2,61
-"Benyard, Gabriel",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,3,123,1,53
-"Bohannon, Blake",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,1,55,1,55
-"Bohannon, Blake",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0
-"Bohannon, Blake",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,1,10,0,10
-"Bohannon, Blake",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0
-"Bohannon, Blake",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,3,66,0,33
-"Bohannon, Blake",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,1,11,0,11
-"Bohannon, Blake",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,1,10,0,10
-"Clemons,  Yesiah",2023,False,23/9/2023,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,,,,
-"Clemons, Yesiah",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,1,1,0,1
-"Clemons, Yesiah",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,,,,
-"Clemons, Yesiah",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,,,,
-"Clemons, Yesiah",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,,,,
-"Clemons, Yesiah",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,1,1,0,1
-"Daniels, Preston",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,3,45,0,30
-"Daniels, Preston",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,,,,
-"Daniels, Preston",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,1,8,0,8
-"Daniels, Preston",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,3,15,0,9
-"Daniels, Preston",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0
-"Daniels, Preston",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,,,,
-"Daniels, Preston",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,,,,
-"Daniels, Preston",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,1,19,0,19
-"Darnell, Rowan",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0
-"Darnell, Rowan",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,1,3,0,3
-"Darnell, Rowan",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0
-"Darnell, Rowan",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,1,4,0,4
-"Darnell, Rowan",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,4,59,1,31
-"Diggs, Alexander",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,,,,
-"Diggs, Alexander",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,,,,
-"Diggs, Alexander",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,,,,
-"Diggs, Alexander",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,1,3,0,3
-"Diggs, Alexander",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,1,31,0,31
-"Diggs, Alexander",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,1,5,0,5
-"Finer, Connor",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,2,34,0,29
-"Finer, Connor",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,1,11,0,11
-"Finer, Connor",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,1,11,0,11
-"Finer, Connor",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,,,,
-"Foster,  Isaac",2023,False,23/9/2023,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,3,31,0,27
-"Foster, Isaac",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,2,18,0,11
-"Foster, Isaac",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0
-"Foster, Isaac",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,2,9,0,6
-"Foster, Isaac",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,1,13,0,13
-"Foster, Isaac",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,3,28,0,14
-"Foster, Isaac",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,4,46,0,14
-"Foster, Isaac",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,2,16,0,10
-"Foster, Isaac",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,2,67,1,44
-"Kent,  Carson",2023,False,23/9/2023,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,2,11,0,6
-"Kent, Carson",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,3,67,0,35
-"Kent, Carson",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,2,19,0,15
-"Kent, Carson",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,1,11,0,11
-"Kent, Carson",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,2,31,0,25
-"Kent, Carson",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,2,18,0,9
-"Kent, Carson",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,2,8,0,5
-"Wallace, Tykeem",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,1,54,1,54
-"Wallace, Tykeem",2023,True,28/10/2023,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,,,,
-"Wallace, Tykeem",2023,False,04/11/2023,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,1,5,0,5
-"Wallace, Tykeem",2023,True,07/10/2023,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0
-"Wallace, Tykeem",2023,False,30/09/2023,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,2,23,0,18
-"Wallace, Tykeem",2023,True,16/09/2023,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0
-"Wallace, Tykeem",2023,False,09/09/2023,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,1,3,0,3
-"Wallace, Tykeem",2023,True,11/11/2023,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0
-"Williamson, Josh",2023,True,31/08/2023,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,1,6,0,6
+name,season,is_home_game,opponent,prev_game_weather,prev_game_temperature,prev_game_wind,prev_game_duration,prev_game_kickoff_time,prev_game_attendance,prev_game_total_points_scored,prev_game_average_points_scored,prev_game_total_first_downs,prev_game_passing_first_downs,prev_qb_passing_completions,prev_qb_passing_attempts,prev_qb_passing_interceptions,prev_qb_passing_avg_per_attempt,prev_qb_passing_avg_per_completion,prev_qb_passing_touchdowns,prev_total_offense_yards,prev_total_offense_plays,prev_game_receiving_yards,prev_game_receptions,prev_game_touchdowns,prev_game_longest_reception,prev_first_downs
+"Ashley, Qua",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Ashley, Qua",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Ashley, Qua",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Benefield, Michael",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Benefield, Michael",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Benefield, Michael",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Benefield, Michael",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Benefield, Michael",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Benefield, Michael",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Benefield, Michael",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Benefield, Michael",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Benyard, Gabriel",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Benyard, Gabriel",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Benyard, Gabriel",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Bohannon, Blake",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Bohannon, Blake",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Bohannon, Blake",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Bohannon, Blake",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Bohannon, Blake",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Bohannon, Blake",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Bohannon, Blake",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Clemons,  Yesiah",2023,False,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,0,0,0,0,0
+"Clemons, Yesiah",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Clemons, Yesiah",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Clemons, Yesiah",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Clemons, Yesiah",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Clemons, Yesiah",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Daniels, Preston",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Daniels, Preston",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Daniels, Preston",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Daniels, Preston",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Daniels, Preston",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Daniels, Preston",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Daniels, Preston",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Daniels, Preston",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Darnell, Rowan",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Darnell, Rowan",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Darnell, Rowan",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Darnell, Rowan",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Darnell, Rowan",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Diggs, Alexander",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Diggs, Alexander",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Diggs, Alexander",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Diggs, Alexander",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Diggs, Alexander",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Diggs, Alexander",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Finer, Connor",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Finer, Connor",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Finer, Connor",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Finer, Connor",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Foster,  Isaac",2023,False,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,0,0,0,0,0
+"Foster, Isaac",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Foster, Isaac",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Foster, Isaac",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Foster, Isaac",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Foster, Isaac",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Foster, Isaac",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Foster, Isaac",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Foster, Isaac",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Kent,  Carson",2023,False,Tennessee Tech,"Mostly sunny, mild",79 deg,9 mph S,2:58,6:05 PM,9923,116,29,19,5,9,19,1,7.2,15.2,0,361,70,0,0,0,0,0
+"Kent, Carson",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Kent, Carson",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Kent, Carson",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Kent, Carson",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Kent, Carson",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Kent, Carson",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Wallace, Tykeem",2023,True,Furman,Cloudy,69,SE 7mph,03:24,05:03 PM,6993,80,40,17,10,17,31,1,9.9,18.1,2,490,63,0,0,0,0,0
+"Wallace, Tykeem",2023,True,Virginia-Lynchburg,Rain,,,02:58,03:03 PM,5735,63,63,33,7,9,12,0,13.0,17.3,2,538,63,0,0,0,0,0
+"Wallace, Tykeem",2023,False,Chattanooga,Cloudy,79,NW 6mph,03:02,06:30 PM,8123,20,20,23,14,23,28,1,9.9,12.0,3,399,59,0,0,0,0,0
+"Wallace, Tykeem",2023,True,Lincoln  CA ,Sunny,81,SE 3mph,03:29,03:03 PM,6013,28,28,16,0,0,6,0,0.0,0.0,0,241,54,0,0,0,0,0
+"Wallace, Tykeem",2023,False,Charleston So,Sunny,81,NE 9mph,02:54,06:03 PM,3087,206,25.75,14,8,15,31,0,6.0,12.5,0,265,55,0,0,0,0,0
+"Wallace, Tykeem",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0
+"Wallace, Tykeem",2023,False,Sam Houston,Sunny,73,S 9mph,03:09,12:02 PM,7143,48,24,27,11,30,38,1,6.4,8.1,3,347,81,0,0,0,0,0
+"Wallace, Tykeem",2023,True,Tennessee St,Sunny,63,SE 13mph,03:46,03:02 PM,10436,20,20,17,6,12,31,1,4.6,12.0,0,261,71,0,0,0,0,0
+"Williamson, Josh",2023,True,Tusculum,Sunny,82,E 6mph,03:18,07:02 PM,10108,38,38,19,7,13,19,0,13.1,19.2,2,446,58,0,0,0,0,0

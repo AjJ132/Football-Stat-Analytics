@@ -20,7 +20,6 @@
     "team_total_offense_yards",
     "team_total_offense_plays",
     "receiving_offensive_rec",
-    "receiving_offensive_yds",
     "receiving_offensive_td",
     "receiving_offensive_long",
     "is_windy",
@@ -46,16 +45,19 @@
   "test_season": "2024",
   "models": {
     "Linear Regression": {
-      "mse": 1.2075488306670638e-27,
-      "r2": 1.0
+      "mse": 50.07014430749456,
+      "r2": 0.8053182881349267,
+      "accuracy": 85.36585365853658
     },
     "Random Forest": {
-      "mse": 0.12248437499999984,
-      "r2": 0.9995455915599095
+      "mse": 59.48602682926829,
+      "r2": 0.7687076461363385,
+      "accuracy": 87.8048780487805
     },
     "Ensemble": {
-      "mse": 0.030621093750000723,
-      "r2": 0.9998863978899774
+      "mse": 39.95474901763763,
+      "r2": 0.844648761383163,
+      "accuracy": 85.36585365853658
     }
   }
 }

@@ -54,29 +54,15 @@ class UniversalMachineLearningController:
         model_data = data.dropna(subset=self.features + [self.target])
         print(f"\nRows after dropping null values: {len(model_data)}")
 
+        # Remove target variable from features
+        self.features = [f for f in self.features if f != self.target]
         train_data = model_data[model_data['season'].isin(self.training_seasons)]
         test_data = model_data[model_data['season'] == self.test_season]
-
-        print(f"\nUnique seasons in train_data: {train_data['season'].unique()}")
-        print(f"Unique seasons in test_data: {test_data['season'].unique()}")
-
-        print(f"\nRows in training data: {len(train_data)}")
-        print(f"Rows in test data: {len(test_data)}")
 
         X_train = train_data[self.features]
         y_train = train_data[self.target]
         X_test = test_data[self.features]
         y_test = test_data[self.target]
-
-        print("X_train shape:", X_train.shape)
-        print("y_train shape:", y_train.shape)
-        print("X_test shape:", X_test.shape)
-        print("y_test shape:", y_test.shape)
-
-        print("\ny_train description:")
-        print(y_train.describe())
-        print("\ny_test description:")
-        print(y_test.describe())
 
         # Check for data leakage
         train_indices = set(train_data.index)
@@ -84,6 +70,15 @@ class UniversalMachineLearningController:
         overlap = train_indices.intersection(test_indices)
         if overlap:
             print(f"WARNING: Data leakage detected. {len(overlap)} rows appear in both train and test sets.")
+
+        # Check for high correlations with target
+        correlations = model_data[self.features + [self.target]].corr()[self.target].abs().sort_values(ascending=False)
+        high_corr_features = correlations[correlations > 0.95].index.tolist()
+        high_corr_features.remove(self.target)  # Remove target from this list
+        if high_corr_features:
+            print(f"Warning: The following features have very high correlation (>0.95) with the target:")
+            print(high_corr_features)
+            print("Consider removing these features to prevent data leakage.")
 
         # Scale the features
         X_train_scaled = pd.DataFrame(self.scaler.fit_transform(X_train), columns=X_train.columns)
@@ -109,7 +104,7 @@ class UniversalMachineLearningController:
     def train_and_evaluate(self):
         try:
             X_train, y_train, X_test, y_test, test_data = self.prepare_data()
-            
+
             if X_train.empty or y_train.empty or X_test.empty or y_test.empty:
                 print("Error: One or more datasets are empty. Unable to train and evaluate models.")
                 return None
@@ -134,12 +129,14 @@ class UniversalMachineLearningController:
                         
                         mse = mean_squared_error(y_test, predictions)
                         r2 = r2_score(y_test, predictions)
+                        accuracy = self.calculate_accuracy_percentage(y_test, predictions)
                         results['models'][ml_type] = {
                             'predictions': predictions,
                             'mse': mse,
-                            'r2': r2
+                            'r2': r2,
+                            'accuracy': accuracy
                         }
-                        print(f"{ml_type.value} - MSE: {mse:.4f}, R2: {r2:.4f}")
+                        print(f"{ml_type.value} - MSE: {mse:.4f}, R2: {r2:.4f}, Accuracy: {accuracy:.2f}%")
                     except Exception as e:
                         print(f"Error training {ml_type.value}: {str(e)}")
             
@@ -180,13 +177,15 @@ class UniversalMachineLearningController:
         
         ensemble_mse = mean_squared_error(results['y_test'], ensemble_predictions)
         ensemble_r2 = r2_score(results['y_test'], ensemble_predictions)
+        ensemble_accuracy = self.calculate_accuracy_percentage(results['y_test'], ensemble_predictions)
         
         results['models']['Ensemble'] = {
             'predictions': ensemble_predictions,
             'mse': ensemble_mse,
-            'r2': ensemble_r2
+            'r2': ensemble_r2,
+            'accuracy': ensemble_accuracy
         }
-        print(f"Ensemble - MSE: {ensemble_mse:.4f}, R2: {ensemble_r2:.4f}")
+        print(f"Ensemble - MSE: {ensemble_mse:.4f}, R2: {ensemble_r2:.4f}, Accuracy: {ensemble_accuracy:.2f}%")
         
         self.save_results(results)
         return results
@@ -247,10 +246,25 @@ class UniversalMachineLearningController:
                 model_name = model_name.value
             results_dict['models'][model_name] = {
                 'mse': float(model_results['mse']),
-                'r2': float(model_results['r2'])
+                'r2': float(model_results['r2']),
+                'accuracy': float(model_results['accuracy'])
             }
 
         json_path = os.path.splitext(self.save_predictions_path)[0] + '_results.json'
         with open(json_path, 'w') as f:
             json.dump(results_dict, f, indent=2)
         print(f"Results saved to {json_path}")
+
+
+
+    def calculate_accuracy_percentage(self, y_true, y_pred, error_margin=10):
+        """
+        Calculate the percentage of predictions within the error margin of the true values.
+        
+        :param y_true: Array-like of true values
+        :param y_pred: Array-like of predicted values
+        :param error_margin: The acceptable error margin (default 10 yards)
+        :return: Accuracy percentage
+        """
+        within_margin = np.abs(y_true - y_pred) <= error_margin
+        return np.mean(within_margin) * 100

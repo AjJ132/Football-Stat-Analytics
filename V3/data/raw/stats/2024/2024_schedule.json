@@ -38,5 +38,15 @@
     "record": "0-4 , 0-0",
     "duration": "03:09",
     "attendance": "10847"
+  },
+  {
+    "date": "10/04/2024",
+    "opponent": "vs Jacksonville St.",
+    "opponentlink": "/boxscore.aspx?id=13990&path=fb",
+    "result": "L",
+    "score": "24-63",
+    "record": "0-5 , 0-1",
+    "duration": "03:28",
+    "attendance": "10029"
   }
 ]

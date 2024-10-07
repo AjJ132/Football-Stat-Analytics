@@ -1,4 +1,5 @@
 from engineering.positions.WREngineering import WREngineering
+from engineering.positions.WREgnineeringV2 import WREngineering as WREngineeringV2
 import os
 import pandas
 
@@ -38,12 +39,13 @@ class FootballDataEngineeringCoordinatorV2:
         Engineer wide receiver data.
         """
         print("Engineering wide receivers...")
-        wr_engineering = WREngineering(self.seasons, 
+
+        wr_engineering_v2 = WREngineeringV2(self.seasons, 
                                        data_dir=self.data_dir, 
                                        stats_dir=self.stats_dir,
                                        save_dir=self.save_dir, 
                                        base_features=self.base_features)
-        wr_engineering.engineer_wrs()
+        wr_engineering_v2.engineer_wrs()
 
         #foreach season, combbine the data into one dataframe
 

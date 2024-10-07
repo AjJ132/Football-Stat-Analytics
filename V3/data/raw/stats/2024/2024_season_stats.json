@@ -1,148 +1,148 @@
 {
   "Scoring": {
     "Points Per Game": {
-      "team": "12.25",
-      "opponent": "29.25"
+      "team": "14.60",
+      "opponent": "36.00"
     },
     "Total": {
-      "team": "49",
-      "opponent": "117"
+      "team": "73",
+      "opponent": "180"
     }
   },
   "First Downs": {
     "Rushing": {
-      "team": "22",
-      "opponent": "30"
+      "team": "30",
+      "opponent": "49"
     },
     "Passing": {
-      "team": "22",
-      "opponent": "38"
+      "team": "26",
+      "opponent": "46"
     },
     "Penalty": {
-      "team": "6",
-      "opponent": "4"
+      "team": "7",
+      "opponent": "8"
     },
     "Total": {
-      "team": "50",
-      "opponent": "72"
+      "team": "63",
+      "opponent": "103"
     }
   },
   "Rushing": {
     "Yards Gained": {
-      "team": "406",
-      "opponent": "633"
+      "team": "617",
+      "opponent": "1017"
     },
     "Yards Lost": {
-      "team": "114",
+      "team": "136",
       "opponent": "86"
     },
     "Attempts": {
-      "team": "145",
-      "opponent": "133"
+      "team": "190",
+      "opponent": "186"
     },
     "Average Per Attempt": {
-      "team": "2.0",
-      "opponent": "4.1"
+      "team": "2.5",
+      "opponent": "5.0"
     },
     "Avg. Per Game": {
-      "team": "73.0",
-      "opponent": "136.8"
+      "team": "96.2",
+      "opponent": "186.2"
     },
     "Touchdowns": {
-      "team": "2",
-      "opponent": "6"
+      "team": "3",
+      "opponent": "14"
     },
     "Total": {
-      "team": "292",
-      "opponent": "547"
+      "team": "481",
+      "opponent": "931"
     }
   },
   "Passing": {
     "Att-Comp-Int": {
-      "team": "101-52-4",
-      "opponent": "122-84-1"
+      "team": "117-59-7",
+      "opponent": "147-100-1"
     },
     "Avg. Per Attempt": {
-      "team": "5.66",
-      "opponent": "8.39"
+      "team": "5.58",
+      "opponent": "8.28"
     },
     "Avg. Per Game": {
-      "team": "143.00",
-      "opponent": "256.00"
+      "team": "130.60",
+      "opponent": "243.40"
     },
     "Touchdowns": {
-      "team": "1",
+      "team": "2",
       "opponent": "8"
     },
     "Total": {
-      "team": "572",
-      "opponent": "1024"
+      "team": "653",
+      "opponent": "1217"
     }
   },
   "Total Offense": {
     "Total Plays": {
-      "team": "246",
-      "opponent": "255"
+      "team": "307",
+      "opponent": "333"
     },
     "Avg. Per Play": {
-      "team": "3.5",
-      "opponent": "6.2"
+      "team": "3.7",
+      "opponent": "6.5"
     },
     "Avg. Per Game": {
-      "team": "216.0",
-      "opponent": "392.8"
+      "team": "226.8",
+      "opponent": "429.6"
     },
     "Total Yards": {
-      "team": "864",
-      "opponent": "1571"
+      "team": "1134",
+      "opponent": "2148"
     },
     "Touchdowns": {
-      "team": "4",
-      "opponent": "15"
+      "team": "7",
+      "opponent": "24"
     }
   },
   "Returns": {
     "Kickoff: Average": {
-      "team": "22.67",
+      "team": "25.00",
       "opponent": "24.00"
     },
     "Kickoff: Total": {
-      "team": "12-272",
+      "team": "20-500",
       "opponent": "8-192"
     },
     "Punt: Average": {
       "team": "5.00",
-      "opponent": "7.44"
+      "opponent": "7.18"
     },
     "Punt: Total": {
       "team": "3-15",
-      "opponent": "9-67"
+      "opponent": "11-79"
     },
     "INT: Average": {
       "team": "48.00",
-      "opponent": "16.25"
+      "opponent": "13.57"
     },
     "INT: Total": {
       "team": "1-48",
-      "opponent": "4-65"
+      "opponent": "7-95"
     }
   },
   "Kicking": {
     "Punt: Avg. Yards Per Game": {
-      "team": "44.55",
-      "opponent": "39.08"
+      "team": "44.13",
+      "opponent": "39.29"
     },
     "Punt: Net Average": {
-      "team": "39.20",
-      "opponent": "36.38"
+      "team": "39.17",
+      "opponent": "36.79"
     },
     "Punt: Total Yards": {
-      "team": "20-891",
-      "opponent": "13-508"
+      "team": "24-1059",
+      "opponent": "14-550"
     },
     "FG: Good-Attempts": {
-      "team": "7-7",
-      "opponent": "4-7"
+      "team": "8-8",
+      "opponent": "4-8"
     },
     "Onside Kicks": {
       "team": "0-0",
@@ -151,56 +151,56 @@
   },
   "Penalties": {
     "Avg. Per Game (YDS)": {
-      "team": "50.25",
-      "opponent": "51.00"
+      "team": "58.20",
+      "opponent": "46.80"
     },
     "Total-Yards": {
-      "team": "26-201",
-      "opponent": "21-204"
+      "team": "32-291",
+      "opponent": "25-234"
     }
   },
   "Time Of Possession": {
     "Avg. Per Game": {
-      "team": "29:54",
-      "opponent": "30:06"
+      "team": "30:11",
+      "opponent": "29:49"
     },
     "Total": {
-      "team": "01:59:35",
-      "opponent": "02:00:25"
+      "team": "02:30:57",
+      "opponent": "02:29:03"
     }
   },
   "Miscellaneous": {
     "3rd Down Conversions": {
-      "team": "22-64 (34.38 %)",
-      "opponent": "22-53 (41.51 %)"
+      "team": "31-80 (38.75 %)",
+      "opponent": "29-65 (44.62 %)"
     },
     "4th Down Conversions": {
-      "team": "6-11 (54.55 %)",
-      "opponent": "5-6 (83.33 %)"
+      "team": "6-12 (50.00 %)",
+      "opponent": "7-9 (77.78 %)"
     },
     "Fumbles-Lost": {
-      "team": "8-2",
-      "opponent": "6-4"
+      "team": "11-3",
+      "opponent": "10-5"
     },
     "Sacks-Yards Lost": {
       "team": "6-37",
-      "opponent": "5-36"
+      "opponent": "6-49"
     },
     "PAT: Good-Attempts": {
-      "team": "4-4",
-      "opponent": "15-15"
+      "team": "7-7",
+      "opponent": "24-24"
     },
     "Misc. Yards": {
       "team": "0",
       "opponent": "0"
     },
     "Red Zone: Attempts-Scores": {
-      "team": "7-8",
-      "opponent": "15-17"
+      "team": "10-11",
+      "opponent": "22-25"
     },
     "Red Zone: Touchdowns": {
-      "team": "2-8",
-      "opponent": "11-17"
+      "team": "4-11",
+      "opponent": "18-25"
     }
   }
 }

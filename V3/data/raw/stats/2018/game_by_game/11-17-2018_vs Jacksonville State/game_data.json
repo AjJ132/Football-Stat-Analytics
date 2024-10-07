@@ -29,17 +29,22 @@
       "weather": "Partly Cloudy",
       "opponenthistory": {
         "wins": "3",
-        "losses": "1",
-        "streak": "L1",
-        "home_record": "1-0",
+        "losses": "2",
+        "streak": "L2",
+        "home_record": "1-1",
         "away_record": "1-1",
-        "conference_record": "0-1",
+        "conference_record": "0-2",
         "largest_margin_of_victory": "W 31-6",
         "smallest_margin_of_victory": "W 60-52",
-        "total_points": "136",
-        "average_points": "34"
+        "total_points": "160",
+        "average_points": "32"
       },
       "historicalgames": [
+        {
+          "date": "October 4, 2024",
+          "location": "Home",
+          "score": "L 24 - 63"
+        },
         {
           "date": "October 1, 2022",
           "location": "Away",

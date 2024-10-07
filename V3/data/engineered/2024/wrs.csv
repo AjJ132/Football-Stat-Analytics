@@ -1,42 +1,52 @@
-name,season,is_home_game,date,opponent,weather,temperature,wind,duration,kickoff_time,attendance,total_points_scored,average_points_scored,total_first_downs,passing_first_downs,team_qb_passing_completions,team_qb_passing_attempts,team_qb_passing_interceptions,team_qb_passing_avg_per_attempt,team_qb_passing_avg_per_completion,team_qb_passing_touchdowns,team_total_offense_yards,team_total_offense_plays,receiving_offensive_rec.,receiving_offensive_yds.,receiving_offensive_td,receiving_offensive_long
-"Ashley, Qua",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,1,51,0,51
-"Ashley, Qua",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,2,17,0,13
-"Ashley, Qua",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,3,12,0,9
-"Ashley, Qua",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,4,51,0,34
-"Benefield, Michael",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,,,,
-"Benefield, Michael",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,,,,
-"Benefield, Michael",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0
-"Benefield, Michael",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,2,6,0,9
-"Benyard, Gabriel",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,4,39,0,22
-"Benyard, Gabriel",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0
-"Bohannon, Blake",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,2,15,0,10
-"Bohannon, Blake",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,1,7,0,7
-"Bohannon, Blake",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,4,54,0,32
-"Bohannon, Blake",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,3,13,0,6
-"Clemons, Yesiah",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,,,,
-"Clemons, Yesiah",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,,,,
-"Daniels, Preston",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,,,,
-"Daniels, Preston",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,,,,
-"Daniels, Preston",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,,,,
-"Daniels, Preston",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,,,,
-"Dean, Navelle",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0
-"Dean, Navelle",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0
-"Dean, Navelle",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,2,18,0,11
-"Dean, Navelle",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,2,37,0,37
-"Diggs, Alexander",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,,,,
-"Finer, Connor",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0
-"Finer, Connor",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0
-"Finer, Connor",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,1,12,0,12
-"Kent, Carson",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,3,40,1,25
-"Kent, Carson",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,1,5,0,5
-"Manning, Jackson",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,1,6,0,6
-"Moss, Christian",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,2,19,0,10
-"Moss, Christian",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,1,16,0,16
-"Moss, Christian",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,3,19,0,7
-"Robinson, Jaden",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,2,18,0,11
-"Thomas, Destun",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,1,19,0,19
-"Wallace, Tykeem",2024,False,31/08/2024,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,2,38,0,24
-"Wallace, Tykeem",2024,True,07/09/2024,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,2,34,0,18
-"Wallace, Tykeem",2024,True,28/09/2024,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,2,23,0,17
-"Wallace, Tykeem",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,1,3,0,3
-"Williamson, Josh",2024,False,14/09/2024,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0
+name,season,is_home_game,opponent,prev_game_weather,prev_game_temperature,prev_game_wind,prev_game_duration,prev_game_kickoff_time,prev_game_attendance,prev_game_total_points_scored,prev_game_average_points_scored,prev_game_total_first_downs,prev_game_passing_first_downs,prev_qb_passing_completions,prev_qb_passing_attempts,prev_qb_passing_interceptions,prev_qb_passing_avg_per_attempt,prev_qb_passing_avg_per_completion,prev_qb_passing_touchdowns,prev_total_offense_yards,prev_total_offense_plays,prev_game_receiving_yards,prev_game_receptions,prev_game_touchdowns,prev_game_longest_reception,prev_first_downs
+"Ashley, Qua",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Ashley, Qua",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Ashley, Qua",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Ashley, Qua",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Ashley, Qua",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Benefield, Michael",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Benefield, Michael",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Benefield, Michael",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Benefield, Michael",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Benefield, Michael",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Benyard, Gabriel",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Benyard, Gabriel",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Bohannon, Blake",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Bohannon, Blake",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Bohannon, Blake",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Bohannon, Blake",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Bohannon, Blake",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Clemons, Yesiah",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Clemons, Yesiah",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Daniels, Preston",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Daniels, Preston",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Daniels, Preston",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Daniels, Preston",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Daniels, Preston",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Dean, Navelle",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Dean, Navelle",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Dean, Navelle",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Dean, Navelle",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Dean, Navelle",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Diggs, Alexander",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Finer, Connor",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Finer, Connor",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Finer, Connor",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Finer, Connor",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Kent, Carson",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Kent, Carson",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Kent, Carson",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Manning, Jackson",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Moss, Christian",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Moss, Christian",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Moss, Christian",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Robinson, Jaden",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Robinson, Jaden",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Thomas, Destun",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Thomas, Destun",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Wallace, Tykeem",2024,False,UTSA,Sunny,,,03:44,02:32 PM,25911,16,16,17,10,28,38,0,8.9,12.1,3,416,72,0,0,0,0,0
+"Wallace, Tykeem",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
+"Wallace, Tykeem",2024,True,Jacksonville St,Cloudy,74,,03:28,07:02 PM,10029,160,32,13,4,7,16,3,5.1,11.6,1,270,61,0,0,0,0,0
+"Wallace, Tykeem",2024,True,Louisiana,Sunny,78,SE 11mph,03:02,07:04 PM,11040,10,10,12,5,7,13,0,7.2,13.3,0,204,50,0,0,0,0,0
+"Wallace, Tykeem",2024,True,UT Martin,Cloudy,72,S 8mph,03:09,06:02 PM,10847,57,28.5,13,6,17,35,2,4.3,8.8,0,215,65,0,0,0,0,0
+"Williamson, Josh",2024,False,San Jose St,Sunny,79,,03:16,04:05 PM,11090,10,10,18,13,26,39,0,9.1,13.7,4,417,64,0,0,0,0,0
